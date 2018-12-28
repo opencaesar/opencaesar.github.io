@@ -4,7 +4,7 @@ CAESAR stands for **C**omputer **A**ided **E**ngineering for **S**ystems **AR**c
 
 ### Information Representation
 
-## Information Authoring
+### Information Authoring
 
 ### Information Integration
 
