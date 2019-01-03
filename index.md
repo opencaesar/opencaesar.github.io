@@ -38,8 +38,8 @@ CAESAR allows reports to be specified to address the needs of different stakehol
 
 CARSAR allows stakeholders to review the reports and provide feedback on them by leaving comments and/or showing approvals. It also allows them to subscribe to some or all reports to get notified when new revisions become vailable.
 
-### Information Configuration Management
+### Information Configuration
 
 CAESAR supports running the same integration workflow on different configurations of vocabularies and system architecture descriptions. This enables the integration of a baseline configuration, as well as configurations representing change proposals. A change proposal is first analyzed, using the same scripts run on the baseline, before it gets manually reviewed, accepted then merged into the baseline.
 
-CAESAR also supports the configurattion management of the artifacts resulting from running the integration workflows on those configurations. This enables the incremental execution of the integration workflows, i.e., rerunning the changed paths only. Also, by recording the complete history of integration, CAESAR enables the analysis of this history for audits and to gain insights on trends.
+CAESAR also version controls of the artifacts resulting from running the integration workflows on those configurations. This enables the incremental execution of the integration workflows, i.e., rerunning the changed paths only. Also, by recording the complete history of integration, CAESAR enables the analysis of this history for audits and to gain insights on trends.
