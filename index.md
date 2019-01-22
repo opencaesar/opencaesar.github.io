@@ -6,7 +6,7 @@ CAESAR stands for **C**omputer **A**ided **E**ngineering for **S**ystems **AR**c
 
 CAESAR enables the creation, analysis and sustainment of system architectures through the use of architecture descriptions. A conceptual model of architecture description is first established using a set of vocabularies to codify the conventions and common practices of architecture description based on a given methodology. Then, the architecture of a system is described and analyzed based on that conceptual model.
 
-CAESAR represents both the conceptual model and architecture descriptions using a set of ontologies expressed in the Ontology Modeling Language (OML). OML is a domain-specific language that facilitates expressing system architecture descriptions using the W3C standard Web Ontology Language (OWL). OML provides several benefits such as modular organization, expressive syntax, formal semantics, tool-neutrality, a query language, several sets of APIs, several exvhange formats, and several IDEs. For more information on OML, visit the OML project page.
+CAESAR represents both the conceptual model and architecture descriptions using a set of ontologies expressed in the Ontology Modeling Language (OML). OML is a domain-specific language that facilitates expressing system architecture descriptions using the W3C standard Web Ontology Language (OWL). OML provides several benefits such as modular organization, expressive syntax, formal semantics (Description Logic), tool-neutrality, a query language, several sets of APIs, several exvhange formats, and several IDEs. For more information on OML, visit the OML project page.
 
 ### Information Authoring
 
