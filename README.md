@@ -12,7 +12,7 @@ Clone repository
      
 Change directory
 
-     cd open-caesar.github.io
+     cd opencaesar.github.io
      
 Update the bundle dependencies
 
