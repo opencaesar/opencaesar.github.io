@@ -1,4 +1,4 @@
-This is the GitHub Pages repository of Open CAESAR (https://open-caesar.github.io/)
+This is the GitHub Pages repository of Open CAESAR (https://opencaesar.github.io/)
 
 ## Getting Started
 
@@ -8,7 +8,7 @@ Install Bundler
 
 Clone repository
 
-     git clone https://github.com/open-caesar/open-caesar.github.io.git
+     git clone https://github.com/opencaesar/opencaesar.github.io.git
      
 Change directory
 
