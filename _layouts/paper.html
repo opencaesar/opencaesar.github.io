@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+
+<body class="d-none">
+    {% include navbar.html %}
+
+    <!--Post Section-->
+    <!--Heading-->
+    <div class="container mt-3">
+        <div class="row pt-2">
+            <div class="col">
+                <p class="doc-category-oc">{{page.categories[0]}}</p>
+                <p class="title-oc">{{page.title}}</p>
+            </div>
+        </div>
+    </div>
+    <!---->
+    <!--Content-->
+    <div class="container mt-3">
+        <div class="row mt-2 ">
+            <!--Author Section Small View Only-->
+
+            <div class="col-sm-12 pl-3 pt-1 pb-4 d-block d-lg-none">
+                <p class="image-credit text-uppercase">
+                    Published: {{page.date | date: '%B %d, %Y'}}
+                </p>
+                <div class="media">
+                    {% if page.author.size == 1%}
+                    {% if page.author_image %}
+                    <img src="{{page.author_image | prepend: 'assets/img/' | relative_url}}" class="mr-3"
+                        style="width: 50px; border-radius: 2rem">
+                    {% endif %}
+                    {% endif %}
+                    <div class="media-body">
+                        {% if page.author.size > 1%}
+                        {% for item in page.author%}
+                        <p class="card-auth-name mb-0" style="font-size:14px">{{item}}</p>
+                        {%endfor%}
+                        {%else%}
+                        <p class="card-auth-name mt-2" style="font-size:14px">{{page.author}}</p>
+                        {%endif%}
+                    </div>
+
+                </div>
+                <img src="{{'/assets/img/zigzag-small-golden.png' | relative_url}}" class="img-fluid my-3">
+
+                {% for post in site.contributors%}
+                {% if post.name == page.author %}
+
+                <p class="image-credit m-0">{{post.position}}</p>
+                <p class="image-credit">{{post.orginization}}</p>
+                <a href="{{post.url | relative_url}}" style="font-size: 14px;">View Profile</a>
+
+                {% endif %}
+                {% endfor %}
+            </div>
+            <!---->
+            <div class="col-lg-8 col-sm-12 pl-3 py-1" style="font-size:18px">
+                {% if page.image.feature %}
+                <div style="border-bottom: solid 5px #03a9f4;">
+
+                    <img src="{{ page.image.feature | prepend: 'assets/img/' | relative_url}}"
+                        alt="{{ page.title }} feature image" class="img-fluid">
+                </div>
+                {% if page.image.credit %}
+                <span class="image-credit">Photo Credit: {{ page.image.credit }} </span>
+                {% endif %}
+                {% endif %}
+                <div id="content">
+                    {{ content | markdownify }}
+                </div>
+
+            </div>
+
+            <!--Author Section Large View Only-->
+
+            <div class="col-lg-4 col-sm-12 px-5 py-1 d-none d-lg-block">
+                <p class="image-credit text-uppercase">
+                    Published: {{page.date | date: '%B %d, %Y'}}
+                </p>
+                <div class="media">
+                    {% if page.author.size == 1%}
+                    {% if page.author_image %}
+                    <img src="{{page.author_image | prepend: 'assets/img/' | relative_url}}" class="mr-3"
+                        style="width: 50px; border-radius: 2rem">
+                    {% endif %}
+                    {% endif %}
+                    <div class="media-body">
+                        {% if page.author.size > 1%}
+                        {% for item in page.author%}
+                        <p class="card-auth-name mb-0" style="font-size:14px">{{item}}</p>
+                        {%endfor%}
+                        {%else%}
+                        <p class="card-auth-name mt-2" style="font-size:14px">{{page.author}}</p>
+                        {%endif%}
+                    </div>
+
+                </div>
+                <img src="{{'/assets/img/zigzag-small-golden.png' | relative_url}}" class="img-fluid my-3">
+
+                {% for post in site.contributors%}
+                {% if post.name == page.author %}
+
+                <p class="image-credit m-0">{{post.position}}</p>
+                <p class="image-credit">{{post.orginization}}</p>
+                {% if post.insider %}
+                <a href="{{post.url | relative_url}}" style="font-size: 14px;">View Profile</a>
+                {% endif %}
+                {% endif %}
+                {% endfor %}
+            </div>
+            <!---->
+        </div>
+    </div>
+    <!---->
+
+
+
+
+    <!---->
+    <!--Bottom heading-->
+
+    <div class="container mt-5">
+        <div class="row pt-2">
+            <div class="col">
+                <img src="{{'/assets/img/zigzag-big-golden.png' | relative_url}}" class="img-fluid">
+                {% assign maxRelated = 1 %}
+                {% assign minCommonTags =  2 %}
+                {% assign maxRelatedCounter = 0 %}
+
+                {% for post in site.papers %}
+                {% assign sameTagCount = 0 %}
+                {% assign commonTags = '' %}
+
+                {% for tag in post.tags %}
+                {% if post.url != page.url %}
+                {% if page.tags contains tag %}
+                {% assign sameTagCount = sameTagCount | plus: 1 %}
+                {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+                {% assign commonTags = commonTags | append: tagmarkup %}
+                {% endif %}
+                {% endif %}
+                {% endfor %}
+
+                {% if sameTagCount >= minCommonTags %}
+
+                <p class="title-oc mt-5">More from the OpenCAESAR Team</p>
+
+                {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+                {% if maxRelatedCounter >= maxRelated %}
+                {% break %}
+                {% endif %}
+                {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    <!---->
+
+    <!--Related paper-->
+    <div class="container">
+        <div class="row pl-1 pb-3 mb-5">
+
+            {% assign maxRelated = 3 %}
+            {% assign minCommonTags =  2 %}
+            {% assign maxRelatedCounter = 0 %}
+
+
+            {% for post in site.papers %}
+
+
+            {% assign sameTagCount = 0 %}
+            {% assign commonTags = '' %}
+
+            {% for tag in post.tags %}
+            {% if post.url != page.url %}
+            {% if page.tags contains tag %}
+            {% assign sameTagCount = sameTagCount | plus: 1 %}
+            {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+            {% assign commonTags = commonTags | append: tagmarkup %}
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+
+            {% if sameTagCount >= minCommonTags %}
+            <div class="col col-sm-12 col-lg-4 pt-3 px-2">
+                <div class="card">
+                    <div class="card-body blog-card-oc pt-4">
+                        <p class="blog-card-date-oc">{{post.date | date: '%B %d, %Y'}}</p>
+                        <p class="blog-card-title-oc">{{post.title}}</p>
+                        <div class="blog-auth-info">
+                            <div class="card-underline mb-4"></div>
+                            <div class="media">
+                                {% if post.author.size == 1%}
+                                <img src="{{post.author_image | prepend: 'assets/img/' | relative_url}}" class="mr-3"
+                                    style="width: 50px; border-radius: 2rem">
+                                {%endif%}
+                                <div class="media-body">
+                                    {% if post.author.size > 1%}
+                                    {% for item in post.author%}
+                                    <p class="card-auth-name mb-0">{{item}}</p>
+                                    {%endfor%}
+                                    {%else%}
+                                    <p class="card-auth-name mt-2">{{post.author}}</p>
+                                    {%endif%}
+                                </div>
+                            </div>
+                            <a href="{{post.url | relative_url}}" class="btn btn-outline-primary button-oc mt-4">Read
+                                Mores</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+            {% if maxRelatedCounter >= maxRelated %}
+            {% break %}
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+
+    <div class="container mb-5 pb-2 px-0">
+        <!-- Large View -->
+        <nav class="paginate-nav-oc d-block" aria-label="page-navigation">
+            <ul class="pagination justify-content-center py-4">
+                <a class="btn doc-back-btn" href="{{'/paper' | relative_url}}"
+                    style="padding-top: 10px; padding-left: 40px; padding-right: 40px;">Back to the CAESAR Case Studies
+                    + Papers
+                    <i class="fas fa-long-arrow-alt-right"></i></a>
+            </ul>
+        </nav>
+    </div>
+
+
+    <!---->
+
+    {% include nav_footer.html %}
+    {% include footer.html %}
+</body>
+
+</html>

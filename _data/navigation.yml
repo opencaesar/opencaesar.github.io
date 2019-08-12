@@ -1,0 +1,13 @@
+# Name should not exceed 20 character
+- name: Documentation
+  link: https://opencaesar.github.io/oml-spec
+- name: Blog
+  link: /blog
+- name: Case Studies + Papers
+  link: /paper
+- name: Contributors
+  link: /contributor
+- name: Download
+  link: /download
+- name: GitHub
+  link: https://github.com/opencaesar

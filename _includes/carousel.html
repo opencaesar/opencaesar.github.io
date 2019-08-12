@@ -1,0 +1,67 @@
+<!-- Carousel -->
+
+<div id="carouselIndicators" class="carousel slide carousel-fade" data-ride="carousel">
+
+    <ol class="carousel-indicators">
+        {% for item in site.data.carousel %}
+        <li data-target="#carouselIndicators" data-slide-to={{item.slideId}} {% if item.slideId == 0 %}class="active"
+            {% endif %}></li>
+        {% endfor %}
+    </ol>
+
+    <div class="carousel-inner">
+        {% for item in site.data.carousel %}
+        <div {% if item.slideId == 0 %}class="carousel-item carousel-inner-oc active" {% endif %}
+            class="carousel-item carousel-inner-oc">
+            <div class="carousel-overlay-oc">
+                <img src="{{item.carouselImageName | prepend: 'assets/img/' | relative_url }}" class="d-block w-100" alt="">
+            </div>
+            
+            <!-- Large Display Only Caption-->
+            <div class="carousel-caption-oc d-none d-lg-block">
+                <div class="caption-lable-oc">
+                    <p>{{item.caption}}</p>
+                    <div class="underline-lable-oc"></div>
+                    <a href="{{item.readMoreUrl | relative_url }}" class="btn btn-outline-primary button-oc">{{item.buttonLable}}</a>
+                </div>
+            </div>
+            <!---->
+
+            <!-- Small/Medium Display Only Caption-->
+            <div class="carousel-caption-oc d-block d-lg-none">
+                <div class="caption-lable-oc">
+                    <p>{{item.caption}}</p>
+                    <div class="underline-lable-oc"></div>
+                    <a href="{{item.readMoreUrl | relative_url}}" class="btn btn-outline-primary button-oc">{{item.buttonLable}}</a>
+                </div>
+
+                <!-- Small/Medium Display Only Image-->
+                <div class="carousel-image-oc d-flex d-lg-none">
+                    <div>
+                        <img src="{{item.floatingImageName | prepend: 'assets/img/' | relative_url}}" class="d-block carousel-image-size-oc" alt="">
+                    </div>
+                </div>
+            </div>
+            <!---->
+
+            <!-- X-Large Display Only -->
+            <div class="carousel-image-oc d-none d-xl-block">
+                <div>
+                    <img src="{{item.floatingImageName | prepend: 'assets/img/' | relative_url}}" class="d-block" style="width: 293px" alt="">
+                </div>
+            </div>
+            <!---->
+
+            <!-- Large Display Only -->
+            <div class="carousel-image-oc d-none d-lg-block d-xl-none">
+                <div>
+                    <img src="{{item.floatingImageName | prepend: 'assets/img/' | relative_url}}" class="d-block carousel-image-size-oc" alt="">
+                </div>
+            </div>
+            <!---->
+
+        </div>
+
+        {% endfor %}
+    </div>
+</div>

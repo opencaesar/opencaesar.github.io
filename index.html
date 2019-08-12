@@ -1,0 +1,430 @@
+---
+layout: base
+title: Home
+
+headingOne: "OpenCAESAR Enables Rigorous Systems Engineering Practice"
+firstParagraph: "Modern systems are becoming more complex than ever before and this complexity will
+only increase. OpenCAESAR helps deal with this complexity by providing an advanced platform, on which to define
+and streamline a rigorous systems engineering methodology."
+
+headingTwo: "OpenCAESAR Has Multiple Value Propositions"
+
+cardImageOne: valueprop1.png
+cardTitleOne: "Integration of federated information via semantic web vocabularies"
+cardBodyOne: "Describe the system architecture using tool-neutral semantic vocabulies, model kinds and viewpoints 
+and map them to federated tool-specific counterparts using adapter interfaces."
+
+cardImageTwo: valueprop2.png
+cardTitleTwo: "Continuous automated multi-paradigm analysis via CI/CD workflows"
+cardBodyTwo: "Improve the agility of your systems engineering process by employing DevOps techniques to automate
+the analysis of your system description using multiple paradigms like ontological analysis and others."
+
+cardImageThree: valueprop3.png
+cardTitleThree: "Precise change management via provenance metadata`"
+cardBodyThree: "Establish a baseline for the integrated system description, manage change proposals using variant 
+configurations, and calculate impact based on the provenance of the changes."
+
+headingThree: "The OpenCAESAR Initiative"
+videoUrl: https://www.youtube.com/embed/mbiC-CRoKPQ
+
+headingFour: "From the OpenCAESAR Team"
+quoteLine: "Rigor is a distinguishing characteristic of engineering. It requires no further justification; it’s what 
+good engineers do all the time."
+quoteAuthorName: "Steve Jenkins"
+quoteAuthorDesignation: "Chief Engineer of IMCE"
+quoteReferenceTitle: "Rigor in Systems Engineering"
+quoteReferenceUrl: /imce/2019/05/19/Rigor-in-Systems-Engineering.html
+imageNameEditor: quote_editor.png
+
+headingFive: "Define Your Enterprise Systems Engineering Methodology and Support It With Tools"
+imageNameFive: features.png
+sectionTitleOne: "Information Architecture"
+sectionDescriptionOne: "Define the architecture of your enterprise's systems engineering information using 
+tool-neutral open-world semantic-web vocabularies that are combined to specify closed-world model kinds, 
+which in turn are aggregated into viewpoints that frame your stakeholders' concerns."
+sectionTitleTwo: "Information Authoring"
+sectionDescriptionTwo: "Enable authoring federated information views that are governed by your enterprise viewpoints by adapting existing in-house
+or COTS tools or easily building new tools on a modern, extensible, and collaborative platform."
+sectionTitleThree: "Information Integration"
+sectionDescriptionThree: "Design integration workflows for your federated information views that continuously check them
+for well-formedness and consistency, analyze their satisfaction of stakeholder concerns, and incrementally combine them into a unified system model
+that is baselined and protected."
+sectionTitleFour: "Information Configuration Management"
+sectionDescriptionFour: "Manage design changes and enable trade studies by pulling information views from different proposal
+ branches that get analyzed with the same integration workflows, while recording their provenance to enable full traceability of
+ changes back to their authority."
+sectionTitleFive: "Information Analysis"
+sectionDescriptionFive: "Support analyzing the information views with different analyses that are enabled by the 
+semantic vocabularies, using a variety of in-house or COTS analysis tools, and using the insights to reason and possibly propose 
+changes back to the views during integration sessions or in realtime."
+sectionTitleSix: "Information Reporting"
+sectionDescriptionSix: "Design reporting viewpoints that communicate the results of analyzing the information views to your 
+staholders using a variety of web-friendly formats and tools, and organize them in dashboards where they can easily be browsed or
+searched, subject to access control rules."
+
+headingSix: "Try the OpenCAESAR software today!"
+headingSixButtonLable: "Download"
+getStartedUrl: /download
+
+---
+
+
+{% include carousel.html %}
+
+
+
+<!--Heading-->
+
+<div class="container mt-5">
+  <div class="row pt-2">
+    <div class="col">
+      <p class="title-oc heading-width">{{page.headingOne}}</p>
+    </div>
+  </div>
+</div>
+
+<!---->
+
+<!--First Section-->
+<div class="container">
+  <!--Small/Medium rect tab view only-->
+  <div class="rec-tiny-position-oc d-block d-lg-none">
+    <div class="rec-tab-tiny-oc"></div><br>
+    <div class="rec-tab-tiny-oc"></div><br>
+    <div class="rec-tab-tiny-oc"></div>
+  </div>
+  <!---->
+
+  <div class="row mt-2">
+    <!--Large rect tab view only-->
+    <div class="col col-lg-6 d-none d-lg-block mt-2">
+      <div class="mb-2">
+        <div class="d-block align-end rec-tab-large-oc float-right"></div><br>
+      </div>
+      <div class="mb-2">
+        <div class="d-block rec-tab-medium-oc float-right"></div><br>
+      </div>
+      <div class="mb-2">
+        <div class="d-block rec-tab-small-oc float-right"></div>
+      </div>
+    </div>
+    <!---->
+
+    <!--Paragraph-->
+    <div class="col col-sm-12 col-lg-6">
+      <p class="text-oc">{{page.firstParagraph}}</p>
+    </div>
+    <!---->
+  </div>
+</div>
+<!---->
+
+
+
+<!--Second Section-->
+<div class="container">
+  <!--Paragraph-->
+  <div class="row pt-2">
+    <div class="col">
+      <p class="title-oc">{{page.headingTwo}}</p>
+    </div>
+  </div>
+  <!---->
+</div>
+
+
+<!--Cards Section-->
+
+<!--Large card view only-->
+<div class="container d-none d-lg-block">
+  <div class="row pt-4">
+    <div class="col pr-2">
+      <div class="card">
+        <div class="image-overlay-oc">
+          <img src="{{page.cardImageOne | prepend: 'assets/img/' | relative_url}}" class="card-img-top">
+        </div>
+        <div class="card-body">
+          <p class="card-title">{{page.cardTitleOne}}</p>
+          <p class="text-oc">{{page.cardBodyOne}}</p>
+
+        </div>
+      </div>
+    </div>
+    <div class="col px-2">
+      <div class="card">
+        <div class="image-overlay-oc">
+          <img src="{{page.cardImageTwo | prepend: 'assets/img/' | relative_url}}" class="card-img-top">
+        </div>
+        <div class="card-body">
+          <p class="card-title">{{page.cardTitleTwo}}</p>
+          <p class="text-oc">{{page.cardBodyTwo}}</p>
+        </div>
+      </div>
+    </div>
+    <div class="col pl-2">
+      <div class="card">
+        <div class="image-overlay-oc">
+          <img src="{{page.cardImageThree | prepend: 'assets/img/' | relative_url}}" class="card-img-top">
+        </div>
+        <div class="card-body">
+          <p class="card-title">{{page.cardTitleThree}}</p>
+          <p class="text-oc">{{page.cardBodyThree}}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!---->
+
+
+<!--Small card view only-->
+
+<div class="card-section-oc d-block d-lg-none">
+  <div class="row pt-2 mr-0">
+    <div class="scrolling-wrapper-oc">
+      <div class="px-1">
+        <div class="card" style="min-width: 20rem;">
+          <div class="image-overlay-oc">
+            <img src="{{page.cardImageOne | prepend: 'assets/img/' | relative_url}}" class="card-img-top">
+          </div>
+          <div class="card-body">
+            <p class="card-title">{{page.cardTitleOne}}</p>
+            <p class="text-oc">{{page.cardBodyOne}}</p>
+          </div>
+        </div>
+      </div>
+      <div class="px-1">
+        <div class="card" style="min-width: 20rem;">
+          <div class="image-overlay-oc">
+            <img src="{{page.cardImageTwo | prepend: 'assets/img/' | relative_url}}" class="card-img-top">
+          </div>
+          <div class="card-body">
+            <p class="card-title">{{page.cardTitleTwo}}</p>
+            <p class="text-oc">{{page.cardBodyTwo}}</p>
+          </div>
+        </div>
+      </div>
+      <div class="pl-1 pr-4">
+        <div class="card" style="min-width: 20rem;">
+          <div class="image-overlay-oc">
+            <img src="{{page.cardImageThree | prepend: 'assets/img/' | relative_url}}" class="card-img-top">
+          </div>
+          <div class="card-body">
+            <p class="card-title">{{page.cardTitleThree}}</p>
+            <p class="text-oc">{{page.cardBodyThree}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!---->
+<!--Video Section-->
+
+<div class="container mt-5 container-background-oc">
+  <div class="row pt-2">
+    <div class="col pt-3 pl-3">
+      <p class="title-white-oc pl-3">{{page.headingThree}}</p>
+    </div>
+  </div>
+  <div class="col pt-3">
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="{{page.videoUrl | relative_url}}" frameborder="0"
+        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+</div>
+
+<!---->
+
+<!--Quote Section-->
+<div class="mt-5 container-background-img-oc">
+  <div class="container">
+    <div class="row pt-2">
+      <div class="col pt-3 pl-3">
+        <p class="title-oc">{{page.headingFour}}</p>
+      </div>
+    </div>
+
+    <div class="row pt-2">
+      <div class="col-sm-12 col-lg-8 pt-3 pl-3">
+        <div class="media quote-box-oc">
+          <div class="quote-mark-oc">
+            <img src="{{'assets/img/quote.png' | relative_url}}" class="img-fluid-oc">
+          </div>
+          <div class="media-body media-inner-oc mt-5 mb-3 ml-4">
+            <p class="text-quote-oc">
+              {{page.quoteLine}}
+            </p>
+            <div class="quote-box-blue-oc"></div>
+            <p class="text-role-oc">{{page.quoteAuthorName}}, {{page.quoteAuthorDesignation}}
+            </p>
+            <p class="text-oc">from <a href="{{page.quoteReferenceUrl | relative_url}}">{{page.quoteReferenceTitle}}</a>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="col col-sm-12 col-lg-4">
+        <div class="quote-image-oc">
+          <img src="{{page.imageNameEditor | prepend: 'assets/img/' | relative_url}}" class="card-img-top card-img-top-oc">
+        </div>
+      </div>
+    </div>
+
+    <!--Quote Section > Card Section -->
+    <div class="row pt-4 pl-1">
+      {% for post in site.posts limit:3%}
+        <div id={{forloop.index}} class="col col-sm-12 col-lg-4 pt-3 px-2">
+            <div class="card">
+                <div class="card-body blog-card-oc pt-4">
+                    <p class="blog-card-date-oc">{{post.date | date: '%B %d, %Y'}}</p>
+                    <p class="blog-card-title-oc">{{post.title}}</p>
+                    <div class="blog-auth-info">
+                        <div class="card-underline mb-4"></div>
+                        <div class="media">
+                            <img src="{{post.author_image | prepend: 'assets/img/' | relative_url}}" class="mr-3" style="width: 50px; border-radius: 2rem">
+                            <div class="media-body">
+                                <p class="card-auth-name mt-2">{{post.author}}</p>
+                            </div>
+                        </div>
+                        <a href="{{post.url | relative_url}}" class="btn btn-outline-primary button-oc mt-5">Read More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <!---->
+
+  </div>
+</div>
+
+<!---->
+
+<!--Bottom Section-->
+
+<div class="container mt-5 mb-3">
+  <div class="row pt-2">
+    <div class="col">
+      <p class="title-oc">{{page.headingFive}}</p>
+    </div>
+  </div>
+</div>
+
+<!--Small View Only-->
+<div class="d-block d-lg-none bottom-small-view-oc mb-0" id="bottomSmallView">
+  <div class="section-img-oc">
+    <div class="image-overlay-oc">
+      <img src="{{page.imageNameFive | prepend: 'assets/img/' | relative_url}}" class="card-img-top">
+    </div>
+  </div>
+  <div class="zigzag-oc">
+    <img src="{{'assets/img/small_zigzag.svg' | relative_url}}" class="card-img-top">
+  </div>
+</div>
+<!---->
+
+<!--Large View Content Only-->
+<div class="container my-0" id="bottomSection">
+  <div class="row pt-0">
+    <div class="col-sm-12 col-lg-10 pt-0">
+      <div class="bottom-section-box-oc">
+        <div class="bottom-section-info-oc">
+
+          <!-- section 1 -->
+          <div class="py-3">
+            <p class="section-title-oc">{{page.sectionTitleOne}}</p>
+            <p class="text-oc mb-4">{{page.sectionDescriptionOne}}</p>
+            <div class="botton-section-underline"></div>
+          </div>
+          <!---->
+
+          <!-- section 2 -->
+          <div class="py-3">
+            <p class="section-title-oc">{{page.sectionTitleTwo}}</p>
+            <p class="text-oc mb-4">{{page.sectionDescriptionTwo}}</p>
+            <div class="botton-section-underline"></div>
+          </div>
+          <!---->
+
+          <!-- section 3 -->
+          <div class="py-3">
+            <p class="section-title-oc">{{page.sectionTitleThree}}</p>
+            <p class="text-oc mb-4">{{page.sectionDescriptionThree}}</p>
+            <div class="botton-section-underline"></div>
+          </div>
+          <!---->
+
+          <!-- section 4 -->
+          <div class="py-3">
+            <p class="section-title-oc">{{page.sectionTitleFour}}</p>
+            <p class="text-oc mb-4">{{page.sectionDescriptionFour}}</p>
+            <div class="botton-section-underline"></div>
+          </div>
+          <!---->
+
+          <!-- section 5 -->
+          <div class="py-3">
+            <p class="section-title-oc">{{page.sectionTitleFive}}</p>
+            <p class="text-oc mb-4">{{page.sectionDescriptionFive}}</p>
+            <div class="botton-section-underline"></div>
+          </div>
+          <!---->
+
+          <!-- section 6 -->
+          <div class="py-3">
+            <p class="section-title-oc">{{page.sectionTitleSix}}</p>
+            <p class="text-oc mb-4">{{page.sectionDescriptionSix}}</p>
+            <div class="botton-section-underline"></div>
+          </div>
+          <!---->
+
+          <!--Section Block-->
+          <div class="section-block-position-oc">
+            <div class="section-block-oc"></div>
+          </div>
+          <div class="section-block-position-oc mr-4">
+            <div class="section-block-oc"></div>
+          </div>
+          <div class="section-block-position-oc mr-5">
+            <div class="section-block-oc"></div>
+          </div>
+          <!---->
+
+        </div>
+      </div>
+    </div>
+
+    <!-- Large View Only-->
+    <div class="col-sm-12 col-lg-2 pt-3 pr-0 d-none d-lg-block">
+      <div class="zigzag-oc">
+        <img src="{{'assets/img/zigzag.svg' | relative_url }}" class="card-img-top">
+      </div>
+      <div class="section-img-oc">
+        <div class="image-overlay-oc">
+          <img src="{{page.imageNameFive | prepend: 'assets/img/' | relative_url}}" class="card-img-top">
+        </div>
+      </div>
+    </div>
+    <!---->
+  </div>
+</div>
+<!---->
+
+<!--Get Started Section-->
+<div class="container-background-blue-oc get-started-margin-top">
+  <div class="container">
+    <div class="row pt-2 pb-3">
+      <div class="col-lg-8 col-sm-12 py-3 pl-3">
+        <p class="text-get-started">{{page.headingSix}}</p>
+      </div>
+      <div class="col-lg-4 col-sm-12 py-3 pl-3">
+        <a class="btn get-started-link" href="{{page.getStartedUrl | relative_url}}">{{page.headingSixButtonLable}}</a>
+      </div>
+    </div>
+  </div>
+</div>
+<!---->

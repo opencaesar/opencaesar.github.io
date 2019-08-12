@@ -1,0 +1,199 @@
+---
+layout: base
+title: Download
+navlink: /download
+
+headingOne: "Get Started with OpenCAESAR"
+firstParagraph: "The OpenCAESAR platform provides solutions to help an enterprise modernize its systems engineering practice. Download the frameworks and components for your role and get started."
+
+headingTwo: "Available Solutions"
+
+cardImageOne: architect.jpg
+cardTitleOne: "Are you a Domain Architect?"
+cardBodyOne: "Use one of the OML IDEs to describe the vocabularies of your application domain that are used by your systems engineering projects."
+cardBodyUrlOne: https://github.com/opencaesar/oml-vocabularies
+
+cardImageTwo: developer.jpg
+cardTitleTwo: "Are you a Tool Developer?"
+cardBodyTwo: "Follow a project template to create an adapter interface to your tool that can transform the data view from your tool to OML."
+cardBodyUrlTwo: https://github.com/opencaesar/ecore-adapter
+
+cardImageThree: engineer.jpg
+cardTitleThree: "Are you a Systems Engineer?"
+cardBodyThree: "Use one of the OML IDEs to describe your system using a set of OML vocabularies representing your application domains."
+cardBodyUrlThree: https://github.com/opencaesar/oml-examples
+
+headingSix: "Have more questions? We can help!"
+getStartedUrl: /contributor
+---
+
+<!--Heading-->
+
+<div class="container mt-5">
+    <div class="row pt-2">
+      <div class="col">
+        <p class="title-oc heading-width">{{page.headingOne}}</p>
+      </div>
+    </div>
+  </div>
+  
+  <!---->
+  
+  <!--First Section-->
+  <div class="container">
+    <!--Small/Medium rect tab view only-->
+    <div class="rec-tiny-position-oc d-block d-lg-none">
+      <div class="rec-tab-tiny-oc"></div><br>
+      <div class="rec-tab-tiny-oc"></div><br>
+      <div class="rec-tab-tiny-oc"></div>
+    </div>
+    <!---->
+  
+    <div class="row mt-2">
+      <!--Large rect tab view only-->
+      <div class="col col-lg-6 d-none d-lg-block mt-2">
+        <div class="mb-2">
+          <div class="d-block align-end rec-tab-large-oc float-right"></div><br>
+        </div>
+        <div class="mb-2">
+          <div class="d-block rec-tab-medium-oc float-right"></div><br>
+        </div>
+        <div class="mb-2">
+          <div class="d-block rec-tab-small-oc float-right"></div>
+        </div>
+      </div>
+      <!---->
+  
+      <!--Paragraph-->
+      <div class="col col-sm-12 col-lg-6">
+        <p class="text-oc">{{page.firstParagraph}}</p>
+      </div>
+      <!---->
+    </div>
+  </div>
+  <!---->
+  
+  
+  
+  <!--Second Section-->
+  <div class="container">
+    <!--Paragraph-->
+    <div class="row pt-2">
+      <div class="col">
+        <p class="title-oc">{{page.headingTwo}}</p>
+      </div>
+    </div>
+    <!---->
+  </div>
+  
+  
+  <!--Cards Section-->
+  
+  <!--Large card view only-->
+  <div class="container d-none d-lg-block">
+    <div class="row pt-4">
+      <div class="col pr-2">
+        <div class="card">
+          <div class="image-overlay-oc">
+            <img src="{{page.cardImageOne | prepend: 'assets/img/' | relative_url}}" class="card-img-top">
+          </div>
+          <div class="card-body blog-card-download-oc">
+            <p class="card-title">{{page.cardTitleOne}}</p>
+            <p class="text-oc">{{page.cardBodyOne}}</p>
+            <a href="{{page.cardBodyUrlOne | relative_url}}" class="btn btn-outline-primary button-oc mt-4" style="position: absolute; bottom: 15px">Get Started</a>
+          </div>
+        </div>
+      </div>
+      <div class="col px-2">
+        <div class="card">
+          <div class="image-overlay-oc">
+            <img src="{{page.cardImageTwo | prepend: 'assets/img/' | relative_url}}" class="card-img-top">
+          </div>
+          <div class="card-body blog-card-download-oc">
+            <p class="card-title">{{page.cardTitleTwo}}</p>
+            <p class="text-oc">{{page.cardBodyTwo}}</p>
+            <a href="{{page.cardBodyUrlTwo | relative_url}}" class="btn btn-outline-primary button-oc mt-4" style="position: absolute; bottom: 15px">Get Started</a>
+          </div>
+        </div>
+      </div>
+      <div class="col pl-2">
+        <div class="card">
+          <div class="image-overlay-oc">
+            <img src="{{page.cardImageThree | prepend: 'assets/img/' | relative_url}}" class="card-img-top">
+          </div>
+          <div class="card-body blog-card-download-oc">
+            <p class="card-title">{{page.cardTitleThree}}</p>
+            <p class="text-oc">{{page.cardBodyThree}}</p>
+            <a href="{{page.cardBodyUrlThree | relative_url}}" class="btn btn-outline-primary button-oc mt-4" style="position: absolute; bottom: 15px">Get Started</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <!---->
+  
+  
+  <!--Small card view only-->
+  
+  <div class="card-section-oc d-block d-lg-none">
+    <div class="row pt-2 mr-0">
+      <div class="scrolling-wrapper-oc">
+        <div class="px-1">
+          <div class="card" style="min-width: 20rem;">
+            <div class="image-overlay-oc">
+              <img src="{{page.cardImageOne | prepend: 'assets/img/' | relative_url}}" class="card-img-top">
+            </div>
+            <div class="card-body blog-card-download-oc">
+              <p class="card-title">{{page.cardTitleOne}}</p>
+              <p class="text-oc">{{page.cardBodyOne}}</p>
+              <a href="{{page.cardBodyUrlOne | relative_url}}" class="btn btn-outline-primary button-oc mt-4" style="position: absolute; bottom: 15px">Get Started</a>
+            </div>
+          </div>
+        </div>
+        <div class="px-1">
+          <div class="card" style="min-width: 20rem;">
+            <div class="image-overlay-oc">
+              <img src="{{page.cardImageOne | prepend: 'assets/img/' | relative_url}}" class="card-img-top">
+            </div>
+            <div class="card-body blog-card-download-oc">
+              <p class="card-title">{{page.cardTitleTwo}}</p>
+              <p class="text-oc">{{page.cardBodyTwo}}</p>
+              <a href="{{page.cardBodyUrlTwo | relative_url}}" class="btn btn-outline-primary button-oc mt-4" style="position: absolute; bottom: 15px">Get Started</a>
+            </div>
+          </div>
+        </div>
+        <div class="pl-1 pr-4">
+          <div class="card" style="min-width: 20rem;">
+            <div class="image-overlay-oc">
+              <img src="{{page.cardImageThree | prepend: 'assets/img/' | relative_url}}" class="card-img-top">
+            </div>
+            <div class="card-body blog-card-download-oc">
+              <p class="card-title">{{page.cardTitleThree}}</p>
+              <p class="text-oc">{{page.cardBodyThree}}</p>
+              <a href="{{page.cardBodyUrlThree | relative_url}}" class="btn btn-outline-primary button-oc mt-4" style="position: absolute; bottom: 15px">Get Started</a>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+  <!---->
+
+  <!--Have a question Section-->
+<div class="container-background-blue-oc get-started-margin-top">
+    <div class="container">
+      <div class="row pt-2 pb-3">
+        <div class="col-lg-8 col-sm-12 py-3 pl-3">
+          <p class="text-get-started">{{page.headingSix}}</p>
+        </div>
+        <div class="col-lg-4 col-sm-12 py-3 pl-3">
+          <a class="btn get-started-link" href="{{page.getStartedUrl | relative_url}}">Contact Us</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!---->

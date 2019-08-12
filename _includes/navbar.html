@@ -1,0 +1,49 @@
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-oc sticky-top">
+    <div class="container">
+
+        <a class="navbar-brand" href="{{ '/' | relative_url}}">
+            <img src="{{'/assets/img/logo.svg' | relative_url}}" width="120" alt="">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggle-icon">
+                <div class="toggle-icon-oc"></div>
+                <div class="toggle-icon-oc"></div>
+                <div class="toggle-icon-oc"></div>
+            </span>
+        </button>
+
+
+        <div class="collapse navbar-collapse mt-3" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto">
+                {% for item in site.data.navigation %}
+                {% if item.name != 'GitHub' %}
+                <li class="nav-item">
+                    <a 
+                    {% if page.navlink == item.link %}
+                        class="nav-link-oc active-nav" 
+                    {% elsif page.layout == 'post' and item.name == 'Blog'%}
+                        class="nav-link-oc active-nav" 
+                    {% elsif page.layout == 'paper' and item.name == 'Case Studies + Papers'%}
+                        class="nav-link-oc active-nav" 
+                    {% else %}
+                        class="nav-link-oc"
+                    {% endif %} 
+                   
+                        href="{{ item.link | relative_url }}">{{item.name}}</a>
+                </li>
+                {% endif %}
+                {% if item.name == 'GitHub' %}
+                <li class="nav-item">
+                    <a id={{ if site.baseurl != "" }} {{site.baseurl}} {{%else%}} "1" {{%endif%}} class="nav-link-oc git" href="{{item.link | relative_url}}">
+                        <img src="{{'/assets/img/GitHubIcon.svg' | relative_url}} " width="24.8px" alt="">
+                    </a>
+                </li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</nav>
+<div class="carousel-oc"></div>

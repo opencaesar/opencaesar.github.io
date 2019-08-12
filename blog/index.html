@@ -1,0 +1,108 @@
+---
+layout: base
+title: Blog
+navlink: /blog
+---
+
+
+<!--Blog Section-->
+<div class="container">
+  <!--Heading-->
+  <div class="row mt-5 mb-4">
+    <div class="col">
+      <p class="title-oc">{{page.title}}</p>
+    </div>
+  </div>
+  <!---->
+  <!-- post list -->
+  <div class="row pl-1 pb-3 mb-5">
+    {% for post in paginator.posts%}
+    <div class="col col-sm-12 col-lg-4 pt-3 px-2">
+      <div class="card">
+        <div class="card-body blog-card-oc pt-4">
+          <p class="blog-card-date-oc">{{post.date | date: '%B %d, %Y'}}</p>
+          <p class="blog-card-title-oc">{{post.title}}</p>
+          <div class="blog-auth-info">
+            <div class="card-underline mb-4"></div>
+            <div class="media">
+              <img src="{{post.author_image | prepend: 'assets/img/' | relative_url}}" class="mr-3" style="width: 50px; border-radius: 2rem">
+              <div class="media-body">
+                <p class="card-auth-name mt-2">{{post.author}}</p>
+              </div>
+            </div>
+            <a href="{{post.url | relative_url}}" class="btn btn-outline-primary button-oc mt-5">Read More</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  <!---->
+
+  <!-- pagination -->
+  {% if paginator.total_pages > 1 %}
+  <div class="container mb-5 pb-2 px-0">
+    <!-- Large View -->
+    <nav class="paginate-nav-oc d-none d-lg-block" aria-label="page-navigation">
+      <ul class="pagination justify-content-center py-4">
+
+        {% if paginator.previous_page %}
+        <li class="page-item">
+          <a class="page-link page-link-oc" href="{{ paginator.previous_page_path | relative_url }}"
+            tabindex="-1">Previous</a>
+        </li>
+        {% else %}
+        <span class="page-link page-link-oc">Previous</span>
+        {% endif %}
+
+
+        <span class="page-link page-link-oc" style="text-decoration: none;">{{ paginator.page }} of
+          {{ paginator.total_pages }}</span>
+
+        {% if paginator.next_page %}
+
+        <li class="page-item">
+          <a class="page-link page-link-oc" href="{{ paginator.next_page_path | relative_url }}">Next</a>
+        </li>
+        {% else %}
+        <span class="page-link page-link-oc">Next</span>
+
+        {% endif %}
+      </ul>
+    </nav>
+    <!---->
+    <!--Small view-->
+    <nav class="paginate-nav-oc d-block d-lg-none" aria-label="page-navigation">
+      <ul class="pagination justify-content-center py-4">
+
+        {% if paginator.previous_page %}
+        <li class="page-item">
+          <a class="page-link page-link-oc" href="{{ paginator.previous_page_path | relative_url }}" tabindex="-1"> << </a> 
+          </li> 
+          {% else %}
+        <span class="page-link page-link-oc"> << </span>
+       
+          {% endif %} 
+          <span class="page-link page-link-oc" style="text-decoration: none;">{{ paginator.page }} of
+            {{ paginator.total_pages }}</span>
+
+        {% if paginator.next_page %}
+
+        <li class="page-item">
+          <a class="page-link page-link-oc" href="{{ paginator.next_page_path | relative_url }}">>></a>
+        </li>
+        {% else %}
+        <span class="page-link page-link-oc">>></span>
+
+        {% endif %}
+      
+      </ul>
+    </nav>
+    <!---->
+  </div>
+  {% endif %}
+
+  <!---->
+
+
+</div>

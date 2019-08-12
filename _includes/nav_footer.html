@@ -1,0 +1,42 @@
+<!-- Nav Footer Section-->
+
+<div class="container-background-gray-oc">
+    <div class="container">
+
+        <div class="d-flex py-4 underline-footer">
+            <div class="p-2 flex-grow-1"><img src="{{'/assets/img/logo.svg' | relative_url }}" width="155" alt=""></div>
+            <div class="p-2"><img src="{{'/assets/img/twitter-icon.png'| relative_url }}" style="margin-top: 6px;"
+                    alt=""></div>
+            <div class="p-2"><img src="{{'/assets/img/linkedin-icon.png' | relative_url }}" style="margin-top: 6px;"
+                    alt=""></div>
+        </div>
+
+        <div class="row pt-2">
+            {% for item in site.data.navigation_footer %}
+            <div class="col-lg-2 col-sm-6 col-6 pt-4 pl-3 pr-0">
+                <a class="footer-nav-text" href="{{ item.link | relative_url }}">{{item.name}}</a>
+            </div>
+            {% endfor %}
+            <!--Large View-->
+            <div class="col-lg-2 col-sm-6 col-6 pt-4 pl-3 pr-0 d-none d-lg-block">
+                <a class="footer-nav-text" href="{{ # | relative_url}}">Terms of Service</a>
+            </div>
+            <!---->
+            <div class="col-lg-2 col-sm-12 col-12 pt-4 pl-3">
+                <p class="footer-nav-text" style="text-decoration: none">Have a question? Want to partner with us?</p>
+                <a class="btn get-started-link w-100 mt-4" href="{{'/contributor'| relative_url}}">Contact Us</a>
+            </div>
+            <!--Small View-->
+            <div class="col-lg-2 col-sm-12 col-12 pt-4 pl-3 pb-4 pr-0 d-block d-lg-none">
+                <a class="footer-nav-text" href="{{ # | relative_url}}">Terms of Service</a>
+            </div>
+            <!---->
+
+        </div>
+        <div class="row pt-2">
+            <p class="text-oc text-white">&#169; 2019 California Institute of Technology. Government sponsorship
+                acknowledged.</p>
+        </div>
+
+    </div>
+</div>

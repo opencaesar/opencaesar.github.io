@@ -1,0 +1,49 @@
+---
+layout: base
+title: Case Studies + Papers
+navlink: /paper
+---
+
+<!--Paper Section-->
+<div class="container">
+    <!--Heading-->
+    <div class="row mt-5 mb-4">
+        <div class="col">
+            <p class="title-oc">{{page.title}}</p>
+        </div>
+    </div>
+
+    <!-- paper list -->
+    <div class="row pl-1 pb-3 mb-5">
+        {% for post in site.papers%}
+        <div id={{forloop.index}} class="col col-sm-12 col-lg-4 pt-3 px-2">
+            <div class="card">
+                <div class="card-body blog-card-oc pt-4">
+                    <p class="blog-card-date-oc">{{post.date | date: '%B %d, %Y'}}</p>
+                    <p class="blog-card-title-oc">{{post.title}}</p>
+                    <div class="blog-auth-info">
+                        <div class="card-underline mb-4"></div>
+                        <div class="media">
+                            {% if post.author.size == 1%}
+                            <img src="{{post.author_image | prepend: 'assets/img/' | relative_url}}" class="mr-3" style="width: 50px; border-radius: 2rem">
+                            {%endif%}
+                            <div class="media-body">
+                                {% if post.author.size > 1%}
+                                {% for item in post.author%}
+                                <p class="card-auth-name mb-0">{{item}}</p>
+                                {%endfor%}
+                                {%else%}
+                                <p class="card-auth-name mt-2">{{post.author}}</p>
+                                {%endif%}
+                            </div>
+                        </div>
+                        <a href="{{post.url | relative_url}}" class="btn btn-outline-primary button-oc mt-4">Read More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <!---->
+</div>
+<!---->

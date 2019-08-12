@@ -1,27 +1,29 @@
-This is the GitHub Pages repository of Open CAESAR (https://opencaesar.github.io/)
+# opencaesar.github.io
 
-## Getting Started
+A fork of https://github.com/opencaesar/opencaesar.github.io that is used for staging its open-source counterpart.
 
-Install Bundler
+## Dependency
 
-     gem install bundler
+Install homebrew by following the link https://brew.sh/
 
-Clone repository
+## Install (first time only)
 
-     git clone https://github.com/opencaesar/opencaesar.github.io.git
-     
-Change directory
+Install all dependencies.
 
-     cd opencaesar.github.io
-     
-Update the bundle dependencies
-
-     bundle install
+     ./install.sh
      
 ## Run
 
 Run the site locally
 
-     bundle exec jekyll serve
+     ./start.sh
+
+## Clean
+
+Clean all previous build
+
+     ./clean.sh
      
-Navigate to http://localhost:4000
+## Open
+
+Navigate to http://127.0.0.1:4000/pages/imce-caesar/opencaesar.github.io/

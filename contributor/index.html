@@ -1,0 +1,64 @@
+---
+layout: base
+title: Contributors
+navlink: /contributor
+---
+
+<!--Contributor Section-->
+<div class="container">
+    <!--Heading-->
+    <div class="row mt-5 mb-4">
+        <div class="col">
+            <p class="title-oc">{{page.title}}</p>
+        </div>
+    </div>
+
+    <!-- Contributor list -->
+    <div class="row pl-1 pb-3 mb-5">
+        {% for post in site.contributors%}
+        {% if post.insider %}
+        <div class="col-sm-12 col-lg-4 pt-4 px-2">
+            <div class="image-overlay-oc" style="width: 70%; position: absolute; z-index: 1;">
+                <img src="{{post.author_image_thumbnail | prepend: 'assets/img/' | relative_url}}" class="card-img-top">
+            </div>
+            <div class="card" style="height: inherit;margin-top:50%">
+                <div class="card-body blog-card-download-oc" style="margin-top:17% ">
+                    <p class="contributor-name-oc">{{post.name}}</p>
+                    <img src="{{'/assets/img/zigzag-small-golden.png' | relative_url}}" class="img-fluid mb-3">
+                    <p class="contributor-title-oc mb-1">{{post.position}}</p>
+                    <p class="contributor-org-oc text-uppercase">{{post.orginization}}</p>
+                    <a href="{{post.url | relative_url}}" class="btn btn-outline-primary button-oc mt-4"
+                        style="position: absolute; bottom: 20px">View profile</a>
+                </div>
+            </div>
+        </div>
+        {% endif %}
+        {% endfor %}
+    </div>
+    <!---->
+
+    <!--Partner list-->
+    <div class="row mt-5 mb-4">
+        <div class="col">
+            <p class="title-oc">Organizations</p>
+        </div>
+    </div>
+
+    <div class="row pl-1 pb-3 mb-5">
+        {% for item in site.data.partner %}
+        <div class="col-sm-12 col-lg-4 pt-4 px-2">
+            <div class="card">
+                <div>
+                    <img src="{{item.imageName| prepend: 'assets/img/' | relative_url}}" class="card-img-top" style="border-bottom: solid 1px;">
+                </div>
+                <div class="card-body">
+                    <p class="card-title">{{item.name}}</p>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <!---->
+</div>
+<!---->
