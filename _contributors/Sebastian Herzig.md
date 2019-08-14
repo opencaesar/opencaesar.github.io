@@ -6,7 +6,6 @@ orginization: NASA Jet Propulsion Laboratory
 author_image_thumbnail: herzig.jpg
 insider: true
 linkedin: "https://www.linkedin.com/in/sebastian-herzig-bb4a8b2b/"
-email: "sebastian.j.herzig@jpl.nasa.gov"
 ---
 
 ## About Me

@@ -6,7 +6,6 @@ orginization: NASA Jet Propulsion Laboratory
 author_image_thumbnail: soyoung.jpg
 insider: true
 linkedin: "https://www.linkedin.com/in/soyoungk/"
-email: "so.young.kim-castet@jpl.nasa.gov"
 ---
 
 ## About Me

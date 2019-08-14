@@ -6,7 +6,6 @@ orginization: NASA Jet Propulsion Laboratory
 author_image_thumbnail: rouquette.jpeg
 insider: true
 linkedin: "https://linkedin.com/in/nicolas-rouquette-1a56aa/"
-email: "nicolas.f.rouquette@jpl.nasa.gov"
 ---
 
 ## About Me

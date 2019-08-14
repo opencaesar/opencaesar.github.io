@@ -7,7 +7,6 @@ author_image_thumbnail: maged.png
 insider: true
 twitter: "https://twitter.com/melaasar"
 linkedin: "https://www.linkedin.com/in/magedelaasar/"
-email: "elaasar@jpl.nasa.gov"
 ---
 
 ## About Me

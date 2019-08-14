@@ -6,7 +6,6 @@ orginization: NASA Jet Propulsion Laboratory
 author_image_thumbnail: wagner.jpg
 insider: true
 linkedin: "https://www.linkedin.com/in/dave-wagner-a1377a11/"
-email: "david.a.wagner@jpl.nasa.gov"
 ---
 
 ## About Me

@@ -6,7 +6,6 @@ orginization: NASA Jet Propulsion Laboratory
 author_image_thumbnail: newcomb.jpg
 insider: true
 linkedin: "https://www.linkedin.com/in/minewcomb/"
-email: "michael.p.newcomb@jpl.nasa.gov"
 ---
 
 ## About Me

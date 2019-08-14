@@ -6,7 +6,6 @@ orginization: NASA Jet Propulsion Laboratory
 author_image_thumbnail: khan.jpg
 insider: true
 linkedin: "https://www.linkedin.com/in/mahmudurkhan/"
-email: "mahmudur.r.khan@jpl.nasa.gov"
 ---
 
 ## About Me
