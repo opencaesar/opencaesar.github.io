@@ -26,4 +26,4 @@ Clean all previous build
      
 ## Open
 
-Navigate to http://127.0.0.1:4000/pages/imce-caesar/opencaesar.github.io/
+Navigate to http://127.0.0.1:4000/
