@@ -1,7 +1,7 @@
 ---
 layout: contributor
 name: Maged Elaasar
-position: IMCE Chief Architect (Project POC)
+position: IMCE Chief Architect (Project PoC)
 orginization: NASA Jet Propulsion Laboratory
 author_image_thumbnail: maged.png
 insider: true
