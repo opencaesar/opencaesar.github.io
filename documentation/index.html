@@ -1,0 +1,37 @@
+---
+layout: base
+title: Documentation
+navlink: /documentation
+---
+
+<!--Documentation Section-->
+<div class="container">
+  <!--Heading-->
+  <div class="row mt-5 mb-4">
+    <div class="col">
+      <p class="title-oc">{{page.title}}</p>
+    </div>
+  </div>
+  <!---->
+  <!-- document list -->
+  <div class="row pl-1 pb-3 mb-5">
+    
+  {%for section_hash in site.data.documentation %}
+  {% assign section = section_hash[1] %}
+  <div class="container-fluid">
+    <h2>{{ section.title }}</h2>
+      <ul>
+          {% for item in section.contents %}
+            <li><a class="" href="{{ item.link | relative_url }}">{{item.name}}</a></li>
+          {% endfor %}
+      </ul>
+  </div>
+  {% endfor %}
+
+  
+  <!---->
+
+  
+</div>
+
+</div>
