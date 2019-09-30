@@ -1,6 +1,6 @@
 # Name should not exceed 20 character
 - name: Documentation
-  link: https://opencaesar.github.io/oml-spec
+  link: /documentation
 - name: Blog
   link: /blog
 - name: Case Studies + Papers
