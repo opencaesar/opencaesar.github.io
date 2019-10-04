@@ -22,6 +22,3 @@ Description providing additional details and context.
 - [ ] Task 1
 - [ ] Task 2
 - [ ] Task 3
-
-
-<!--REMEMBER TO SET AN ESTIMATE, MILESTONE, AND ASSIGNEE -->

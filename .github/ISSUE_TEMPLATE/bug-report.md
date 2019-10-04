@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: To provide a concise description of a bug or issue.
-title: ''
+title: "[BUG] -"
 labels: Bug
 assignees: ''
 
@@ -24,6 +24,3 @@ Enter any other details such as dependencies, environment, examples, etc.
 
 ## Relevant screenshots
 If applicable, add screenshots to help illustrate the issue.
-
-
-<!--REMEMBER TO SET AN ESTIMATE, MILESTONE, AND ASSIGNEE -->
