@@ -11,7 +11,7 @@ linkedin: "https://linkedin.com/in/nicolas-rouquette-1a56aa/"
 ## About Me
 
 Nicolas Rouquette is a Principal Computer Scientist at [NASA](https://www.nasa.gov/)’s Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov/)) at the California Institute of Technology ([Caltech](https://www.caltech.edu/)).
-He is responsible for the technical strategy for JPL's R&D program called Integrated Model Centric Engineering (IMCE) including specifying the Ontological Modeling Language, [OML](https://opencaesar.github.io/oml-spec/), as a carefully-designed restriction of standards-compliant OWL2-DL augmented with SWRL rules;
+He is responsible for the technical strategy for JPL's R&D program called Integrated Model Centric Engineering (IMCE) including specifying the Ontological Modeling Language, [OML](https://opencaesar.github.io/oml/), as a carefully-designed restriction of standards-compliant OWL2-DL augmented with SWRL rules;
 organizing collaborative model-centric systems engineering as workflows involving man-machine interactions and using GIT, a proven technology for content-addressable storage, for cryptographic assurances of provenance and traceability to occurrences of workflow processes.
 
 Prior to working on the IMCE initiative, he worked on JPL's [Mission Data System](https://mds.jpl.nasa.gov/public/index.shtml) where he implemented a component-based software architecture style in C++ for modularizing and architecting the MDS software.

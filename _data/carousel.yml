@@ -3,7 +3,7 @@
 - caption: OML Specification v0.5.0 is now available
   carouselImageName: banner_1.png
   floatingImageName: oml.png
-  readMoreUrl: https://opencaesar.github.io/oml-spec
+  readMoreUrl: https://opencaesar.github.io/oml
   buttonLable: "Read More"
   slideId: 0
 - caption: "A new paper @MBE2019: The Case for IMCE"
