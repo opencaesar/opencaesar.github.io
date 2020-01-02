@@ -1,14 +1,8 @@
 # Caption should not exceed 40 character
 # If you include special characters (- and :) surround by ""
-- caption: OML Specification v0.5.0 is now available
+- caption: OML Specification 0.5.0 is now available
   carouselImageName: banner_1.png
   floatingImageName: oml.png
   readMoreUrl: https://opencaesar.github.io/oml
   buttonLable: "Read More"
   slideId: 0
-- caption: "A new paper @MBE2019: The Case for IMCE"
-  carouselImageName: banner_1.png
-  floatingImageName: imce.png
-  readMoreUrl: /papers/2019-04-02-The-Case-For-Integrated-Model-Centric-Engineering.html
-  buttonLable: "Read More"
-  slideId: 1
