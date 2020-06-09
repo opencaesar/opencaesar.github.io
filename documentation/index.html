@@ -16,8 +16,9 @@ navlink: /documentation
   <!-- document list -->
   <div class="row pl-1 pb-3 mb-5">
     
-  {%for section_hash in site.data.documentation %}
-  {% assign section = section_hash[1] %}
+  {% assign files  = site.data.documentation | sort %}
+  {%for file in files %}
+  {% assign section = file[1] %}
   <div class="container-fluid">
     <h2>{{ section.title }}</h2>
       <ul>
