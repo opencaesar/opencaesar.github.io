@@ -10,6 +10,11 @@ image:
   credit: https://opencaesar.github.io/
 ---
 
+## Summary
+One of the main goals that is achived with this release was to develop Gradle Task interfaces to the various analysis tools provided by openCAESAR. This allows invoking those tools conveniently from Gradle build script and tying them together with Gradle task dependencies to develop analysis chains. We used this capability to create Gradle build scripts for the [vocabularies](https://gitpod.io/#https://github.com/opencaesar/vocabularies) and [firesat example](https://gitpod.io/#https://github.com/opencaesar/example-firesat) repos that invoke the `oml2owl`, '`owl-reason` and `oml2bikeshed` tools. We also created Travis CI scripts that invoked those Gradle scripts on every commit. We also published the sources of these repos to Bintrary (Maven repo). This allows these repos to declare dependencies on each other using maven semantic coordinates, as opposed to using Git submodules, as done before.
+
+Another goal of this releasae was to develop the [FireSat example](https://gitpod.io/#https://github.com/opencaesar/example-firesat) to demonstrate the use of a System Engineering methodology (using JPL's foundation vocabularies) to describe and analyze a mission/project. In this release, we created the descriptions, analyzed them with a DL reasoner, and generated Bikeshed documentation for them. In future releases, we will refine the description, add more analyses, and dissiminate the ideas.
+
 ## [OML](https://github.com/opencaesar/oml)
 * Add the concept of `description bundle` to aggregate a set of descriptions models to reason on together as a dataset.
 * Made some classes in the OML metamodel abstract since they should not be instantiated.
