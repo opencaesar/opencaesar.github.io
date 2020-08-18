@@ -28,6 +28,6 @@ Clean all previous build
 
 Navigate to http://127.0.0.1:4000/
 
-# Contribute
+## Contribute
 
 If you like to contribute a blog post, fork this repo, add your blog as an MD file in `/_post` folder, and create a Pull Request. The post will be reviewed by the website commiters and merged.
