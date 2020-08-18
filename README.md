@@ -1,6 +1,6 @@
 # opencaesar.github.io
 
-A fork of https://github.com/opencaesar/opencaesar.github.io that is used for staging its open-source counterpart.
+This is the repository that has the sources of the https://opencaesar.github.io/ website.
 
 ## Dependency
 
@@ -27,3 +27,7 @@ Clean all previous build
 ## Open
 
 Navigate to http://127.0.0.1:4000/
+
+# Contribute
+
+If you like to contribute a blog post, fork this repo, add your blog as an MD file in `/_post` folder, and create a Pull Request. The post will be reviewed by the website commiters and merged.
