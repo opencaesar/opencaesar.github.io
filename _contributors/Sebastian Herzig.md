@@ -1,7 +1,7 @@
 ---
 layout: contributor
 name: Sebastian Herzig
-position: IMCE Systems Engineer
+position: (Former) IMCE Systems Engineer
 orginization: NASA Jet Propulsion Laboratory
 author_image_thumbnail: herzig.jpg
 insider: true

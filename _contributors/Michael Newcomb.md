@@ -1,7 +1,7 @@
 ---
 layout: contributor
 name: Michael Newcomb
-position: IMCE UX/UI Lead
+position: (Former) IMCE UX/UI Lead
 orginization: NASA Jet Propulsion Laboratory
 author_image_thumbnail: newcomb.jpg
 insider: true
