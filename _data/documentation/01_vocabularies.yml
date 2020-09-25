@@ -1,5 +1,7 @@
-title: System Engineer > Vocabularies
+title: Vocabularies
 contents:
 
-  - name: Vocabulary Specifications
-    link: https://opencaesar.github.io/vocabularies/
+  - name: Vocabularies
+    link: https://github.com/opencaesar/vocabularies
+  - name: UML
+    link: https://github.com/opencaesar/uml-vocabulary

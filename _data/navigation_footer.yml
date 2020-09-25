@@ -1,9 +1,11 @@
 # Name should not exceed 20 character
-- name: Documentation + FAQs
+- name: Documentation
   link: /documentation
-- name: Recent Blog Posts
+- name: Blog
   link: /blog
-- name: Recent Case Studies
+- name: Papers
   link: /paper
-- name: The CAESAR Team
+- name: Contributors
   link: /contributor
+- name: Download
+  link: /download

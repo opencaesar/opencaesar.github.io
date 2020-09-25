@@ -1,14 +1,8 @@
-title: Software Developer > OML
+title: OML
 contents:
 
-  - name: OML Specification
-    link: https://opencaesar.github.io/oml/
-  - name: OML Bikeshed Adapter
-    link: https://github.com/opencaesar/oml-bikeshed/
-  - name: OML OWL Adapter
-    link: https://github.com/opencaesar/oml-owl/
-  - name: OML Ecore Adapter
-    link: https://github.com/opencaesar/oml-ecore/
+  - name: OML Specification and API
+    link: https://github.com/opencaesar/oml/
   - name: OML Rosetta Workbench
     link: https://github.com/opencaesar/oml-rosetta/
   - name: OML Eclipse Workbench
@@ -17,3 +11,5 @@ contents:
     link: https://github.com/opencaesar/oml-theia/
   - name: OML VSCode Workbench
     link: https://github.com/opencaesar/oml-vscode/
+  - name: OML Tools
+    link: https://github.com/opencaesar/oml-tools/

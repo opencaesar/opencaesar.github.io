@@ -1,7 +1,5 @@
-title: System Engineer > Projects
+title: Example Projects
 contents:
 
-  - name: Fire Satellite Project
-    link: https://github.com/opencaesar/example-firesat/
-  - name: Open Source Rover Project
-    link: https://github.com/opencaesar/example-osr/
+  - name: Fire Satellite
+    link: https://github.com/opencaesar/firesat-example/

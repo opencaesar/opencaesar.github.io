@@ -1,5 +1,7 @@
-title: Software Developer > OWL
+title: OWL
 contents:
 
-  - name: OWL Analysis Tools
+  - name: OWL Adapter
+    link: https://github.com/opencaesar/owl-adapter/
+  - name: OWL Tools
     link: https://github.com/opencaesar/owl-tools/

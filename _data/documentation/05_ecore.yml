@@ -1,5 +1,7 @@
-title: Software Developer > Ecore
+title: Ecore
 contents:
 
-  - name: Ecore Bikeshed Adapter
+  - name: Ecore Adapter
+    link: https://github.com/opencaesar/ecore-adapter/
+  - name: Ecore Bikeshed
     link: https://github.com/opencaesar/ecore-bikeshed/
