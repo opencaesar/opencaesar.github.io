@@ -1,7 +1,9 @@
 title: Vocabularies
 contents:
 
-  - name: Vocabularies
-    link: https://github.com/opencaesar/vocabularies
-  - name: UML
-    link: https://github.com/opencaesar/uml-vocabulary
+  - name: Core Vocabularies
+    link: https://opencaesar.github.io/core-vocabularies/
+  - name: JPL Vocabularies
+    link: https://opencaesar.github.io/jpl-vocabularies/
+  - name: Eclipse
+    link: https://opencaesar.github.io/eclipse-vocabularies/
