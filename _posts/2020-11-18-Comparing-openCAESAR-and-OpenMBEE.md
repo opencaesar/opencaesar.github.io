@@ -19,27 +19,27 @@ I went first and presented the [openCAESAR](https://opencaesar.github.io/) platf
 
 # Open Access
 
-|             | openCAESASR   | OpenMBEE |
-| ----------- | ------------- | ------------- |
+| Feature | openCAESASR | OpenMBEE |
+|-------------|--------------|-------------|
 | Open Access | Platform capabilities are open sourced  | Platform capabilities are open sourced |
 
 # Information Architecture
 
-|                          | openCAESASR   | OpenMBEE |
-| -------------------------| ------------- | ------------- |
+| Feature | openCAESASR | OpenMBEE |
+|-------------|--------------|-------------|
 | Information Architecture | Defined as a set of interrelated DSLs represented as OWL2-DL ontologies | Defined in conjunction with CM of CM’s construct |
 
 # Information Authoring
 
-|                              | openCAESASR   | OpenMBEE |
-| ---------------------------- | ------------- | ------------- |
+| Feature | openCAESASR | OpenMBEE |
+|-------------|--------------|-------------|
 | Model Authoring (COTS tools) | Supports authoring using some COTS tools supported by a (CAESAR) adapter | Supports authoring using some COTS tools supported by a (Syndeia) adapter and custom development
 | Model Authoring (custom tools) | Supports full authoring in the DSLs directly using standard authoring viewpoints in Eclipse or VSCode (desktop or web) or custom ones implemented declaratively | Supports some limited authoring out of the box using standard viewpoints in View Editor (part of OpenMBEE) or custom ones implemented imperatively |
 
 # Authoring Tool Features
 
-|                                   | openCAESASR   | OpenMBEE |
-| ----------------------------------| ------------- | ------------- |
+| Feature | openCAESASR | OpenMBEE |
+|-------------|--------------|-------------|
 | Correct by Construction Authoring | Using custom authoring viewpoints built with declarative UI frameworks | Using methodology-specific profiles that are checked by rules |
 | Automated Validation | Using live rules and batch DL reasoner and a rule based audit framework | Using custom-built live and batch rules executed upon editing models in MagicDraw |
 | Automated Refactoring | Using custom refactorings in authoring viewpoints | Using refactorings built in COTS tool |
@@ -48,8 +48,8 @@ I went first and presented the [openCAESAR](https://opencaesar.github.io/) platf
 
 # Information Management
 
-|                                   | openCAESASR   | OpenMBEE |
-| ----------------------------------| ------------- | ------------- |
+| Feature | openCAESASR | OpenMBEE |
+|-------------|--------------|-------------|
 Source of Authority | Information has a single authority that maintains it in a known repo, but can be imported as read-only in other repos | Information has a single-source, but can be federated and edited in multiple repos |
 | Configuration Management | Models are configuration managed by their native authoring tools, and (in the normalized DSL format) in Git repositories with support for branches, pull requests, etc. | Models are configuration managed using their native authoring tools CM capabilities |
 | Change Management | Models changes are (normalized and) pushed to a git branch, where they get analyzed by a CI/CD pipeline and the results are made available to peer reviewers | Models changes are made, analyzed, and reviewed in design environments, with extension for local and/or global CI/CD |
@@ -58,8 +58,8 @@ Source of Authority | Information has a single authority that maintains it in a 
 
 # Information Federation
 
-|                                   | openCAESASR   | OpenMBEE |
-| ----------------------------------| ------------- | ------------- |
+| Feature | openCAESASR | OpenMBEE |
+|-------------|--------------|-------------|
 | Model Federation | Models are federated in repositories managed by different authoring tools | Models are federated in repositories managed by different authoring tools |
 | Model Cross Links | Models cross links are created between the ontological representations and stored in separate ontological (integration) models | Model cross links are created using Syndeia and stored in the Syndeia link database |
 | Model Integration | Models are normalized to common DSLs first, then their explicit or implicit cross links are used to analyze them continuously | Model have their native repositories directly linked using Syndeia links, which are used to analyze their consistency on demand. |
@@ -67,8 +67,8 @@ Source of Authority | Information has a single authority that maintains it in a 
 
 # Information Analysis
 
-|                                   | openCAESASR   | OpenMBEE |
-| ----------------------------------| ------------- | ------------- |
+| Feature | openCAESASR | OpenMBEE |
+|-------------|--------------|-------------|
 | Model Analysis | Models analysis using a variety of analysis tools (including a logical reasoner) is orchestrated by a CI pipeline | Model analysis is run “locally” on various tools as part of domain process |
 | Model Reporting | Various reporting tools are used to create reporting viewpoints (docs, diagrams, etc.) | Various reporting tools are used to create reporting viewpoints (docs, diagrams, etc.) |
 | Report Accessibility | Historical reports are archived and organized in a (central) dashboard that allows searching and viewing all report versions by various stakeholders | Reports are generated from model on demand and archived |
