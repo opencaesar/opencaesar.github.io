@@ -17,10 +17,11 @@ There is a well-developed theory and a great deal of practical experience around
 
 OWL is designed to be readable and writable by humans (in the same way that programming languages are) but also to be amenable to machine reasoning. By reasoning here we simply mean drawing all conclusions (and only those conclusions) logically implied by what has been asserted. For example (in OWL Functional Syntax),
 
-```java
+{% highlight java %}
 SubClassOf(:Person :Mortal)       // all persons are mortal
 ClassAssertion(:Person :Steve)    // Steve is a person
-```
+{% endhighlight %}
+
 logically implies
 
 ```java
