@@ -17,11 +17,10 @@ There is a well-developed theory and a great deal of practical experience around
 
 OWL is designed to be readable and writable by humans (in the same way that programming languages are) but also to be amenable to machine reasoning. By reasoning here we simply mean drawing all conclusions (and only those conclusions) logically implied by what has been asserted. For example (in OWL Functional Syntax),
 
-{% highlight java %}
+```java
 SubClassOf(:Person :Mortal)       // all persons are mortal
 ClassAssertion(:Person :Steve)    // Steve is a person
-{% endhighlight %}
-
+```
 logically implies
 
 ```java
@@ -97,7 +96,7 @@ We implemented OMF using well-established and widely-used software infrastructur
 
 Here's an illustration. In systems engineering it's often important to allocate function to performer. To define a relation to allow us to say *X performs Y* or *Y isPerformedBy X* in OWL Functional Syntax (using the reification pattern above) requires the following:
 
-```
+```java
 Declaration(Class(:Performs))
 Declaration(ObjectProperty(:hasPerformsSource))
 Declaration(ObjectProperty(:hasPerformsTarget))
@@ -121,7 +120,7 @@ InverseObjectProperties(:isPerformedBy :performs)
 
 To accomplish the same in OML text syntax requires merely:
 
-```
+```java
 relation entity Performs [
     from PerformingElement
     to Function

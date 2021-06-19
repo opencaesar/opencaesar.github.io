@@ -576,6 +576,17 @@ div#content blockquote blockquote{
     right: 0;
   }
 
+  pre {
+    overflow-x: auto;
+  }
+
+  pre code {
+    background-color: #eee;
+    border: 1px solid #999;
+    display: block;
+    padding: 20px;    
+  }
+
   .section-block-oc {
     width: 15px;
     height: 94px;
