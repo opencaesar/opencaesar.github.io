@@ -13,6 +13,8 @@ blog_path: "/blog"
 
 # Paper settings
 collections:
+  releases:
+    output: true
   papers:
     output: true
   contributors:

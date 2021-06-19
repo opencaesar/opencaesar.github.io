@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: release
 title: "Release 0.7.3"
 author: "Maged Elaasar"
 author_image: maged.png

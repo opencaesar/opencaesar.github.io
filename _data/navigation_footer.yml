@@ -3,6 +3,8 @@
   link: /documentation
 - name: Blog
   link: /blog
+- name: Releases
+  link: /release
 - name: Papers
   link: /paper
 - name: Contributors

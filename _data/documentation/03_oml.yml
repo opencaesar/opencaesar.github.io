@@ -5,11 +5,7 @@ contents:
     link: https://github.com/opencaesar/oml/
   - name: OML Rosetta Workbench
     link: https://github.com/opencaesar/oml-rosetta/
-  - name: OML Eclipse Workbench
-    link: https://github.com/opencaesar/oml-eclipse/
-  - name: OML Theia Workbench
-    link: https://github.com/opencaesar/oml-theia/
-  - name: OML VSCode Workbench
-    link: https://github.com/opencaesar/oml-vscode/
+  - name: OML Luxor Workbench
+    link: https://github.com/opencaesar/oml-luxor/
   - name: OML Tools
     link: https://github.com/opencaesar/oml-tools/
