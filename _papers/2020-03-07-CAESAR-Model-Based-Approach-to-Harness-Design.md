@@ -14,7 +14,7 @@ image:
 ## Abstract
 In this paper we describe a system called the Computer Aided Engineering for Spacecraft System Architectures Tool Suite, or CAESAR for short, a platform for enabling model-based system engineering (MBSE). CAESAR recognizes that engineers are already likely to use models, but they typically keep the models private, only interpreting model information into documents or presentations that become project baseline. MBSE needs to enable more automated sharing of information directly between models to ensure model consistency, improve the rigor of engineering process, and ultimately, reduce the effort needed to get a clear answer to engineering questions. We explain the features of CAESAR, and describe how these features were leveraged in a case study where CAESAR was used to develop a model-based process for spacecraft electrical interface design and harness specification for the Europa Clipper flight project.
 
-## 1. INTRODUCTION
+## 1. Introduction
 
 The Jet Propulsion Laboratory (JPL) has been evolving its system engineering methods to manage engineering information in descriptive models from documents for about a decade. Numerous demonstration and operational examples of Model-Based System Engineering (MBSE) have been reported. Some of these were institutionally-funded demonstration efforts that would produce potentially useful tools, but tools that could not transition to operational use due to lack of documentation and support. e.g.,[1]–[3]. 
 
@@ -50,7 +50,7 @@ Paper Overview
 In this paper we will describe a case study in which a particular engineering function was evaluated and improved using a particular model-based approach. We begin by describing the prior state of practice of the harness specification and design process at JPL. Next, we describe the CAESAR modeling approach and its associated reference architecture for a coordinated set of information services needed to support a model-based process. Following that we describe how this architecture was adapted to the particular needs of the harness specification teams on Europa Clipper, and we will assess the success of this effort. We will review some lessons learned and identify continuing work in this and other disciplines.
 Finally, we will summarize the benefits of the architectural approach used in this development.
 
-## 2. CAESAR MBSE ARCHITECTURE
+## 2. CAESAR MBSE Architecture
 CAESAR is a software system for streamlining the systems engineering practices of an organization following an MBSE approach. It allows an organization to shift its focus from tools to its systems engineering methodology. In this section, we provide a brief overview of the CAESAR architecture highlighting its goals and functions. We focus only on those aspects that pertain to the case study. We also avoid going into detail about the technical implementation of some features, choosing instead to focus on the architectural goals. Some of the platform capabilities were developed prior to the start of the case study, others were developed as needed in the study, and others remain in development. Details of the implementation will be described in a future publication.
 
 ### Goals
@@ -168,7 +168,7 @@ CAESAR generates reports as part of a workflow process triggered by model author
  
 *Figure 6 Example connectivity report*
 
-## 4. FUTURE WORK
+## 4. Future Work
 Implementing new tools and processes on an operationally deployed product requires a continual balance between adding disruptive new features and just giving users time to learn how to use the features they already have. The CAESAR team also had to manage limited development resources by choosing between implementing new user features and making the system more stable, maintainable, and adaptable to future needs. Here we reflect on several of the most significant user-facing improvements that have been identified during this process but not yet implemented.
 
 One obvious flaw of the original spreadsheet used to capture electrical functions was that the row describing a function included information about the function (at a functional level of abstraction) and its physical wire-level interface details. The simplest form of a function describes a need to convey a signal from one interface to another. This is realized as an electrical circuit that will have an active “high” side conductor and a complimentary return. Each conductor will terminate in a physical connector and contact on each end. The spreadsheet was capturing the essential details needed to design the harness, but the input form was highly error-prone as users would have to enter a list of contact numbers in cells representing each end of the circuit keeping them in respective order.
@@ -191,7 +191,7 @@ Beyond these discipline-specific features the CAESAR team is also considering se
 
 The CAESAR team has also started to prototype a mass management feature that builds upon the existing system composition model, and has begun to roadmap a set of features to support dynamic properties such as power production and consumption. These features will introduce the need to be able to specify scenarios as descriptions of desired behavior over time.
 
-## 5. SUMMARY 
+## 5. Summary 
 Model-based system engineering is a paradigm shift for most system engineers and, as has been noted in previous attempts (e.g., [7])  the existence of new tools and methods does not ensure that they will be used effectively, or even that they are useful. This work demonstrates that model precision does not have to be sacrificed to get engineers to use models as long as the process provides time and training for engineers to learn how to use them, and the tools are sufficiently tuned to the particular problems of interest (i.e., not annoying). This requires authoring interfaces optimized to input the essential data (in particular, importing data from other model sources is way better than manual transcription), and presentation/review interfaces that make it easy for authors and non-authors to see not only the most current information, but also the change history of the design as an integrated design rather than individual details.
 
 This case study has described how the CAESAR platform was leveraged to capture a rigorous semantic specification of the information to be authored by an engineering task, to use that specification to implement an authoring tool, to configuration manage, analyze and report the authored data. Engineers who used these capabilities benefitted from having a tool that both reduced their effort and improved the quality of the product. Consumers of this information benefitted from having rapid access to automatically-generated reports bearing the provenance of their source data, allowing them to trust the source. 
@@ -200,10 +200,10 @@ As many of these functions are small adaptations of a reusable platform capabili
 
 To enable possible collaboration on the transformations to and from ontological representations and associated analysis, the CAESAR team has begun to open-source parts of that framework in the openCAESAR project on Github[20].
 
-## ACKNOWLEDGEMENTS
+## Acknowledgements
 This research was carried out at the Jet Propulsion Laboratory, California Institute of Technology under a contract with the National Aeronautics and Space Administration.
 
-## REFERENCES 
+## References 
 1.	J. D. Kaderka, M. L. Rozek, J. K. Arballo, D. A. Wagner, and M. D. Ingham, “The behavior, constraint, and scenario (BeCoS) tool: A web-based software application for modeling behaviors and scenarios,” in AIAA Aerospace Sciences Meeting, 2018, 2018, no. 210059.
 1.	M. L. Rozek, K. M. Donahue, M. D. Ingham, and J. D. Kaderka, “A Tool for Model-Based Generation of Scenario-Driven Electric Power Load Profiles,” in AIAA SPACE 2015 Conference and Exposition, 2015.
 1.	M. McKelvin, Jr. and A. Jimenez, “Specification and Design of Electrical Flight System Architectures with SysML,” in Infotech@Aerospace 2012, 2012.
