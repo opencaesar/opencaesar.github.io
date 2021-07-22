@@ -37,8 +37,14 @@ If Eclipse shows you the Gradle Welcome dialog, click _Next_:
 Navigate to the folder where you placed the renamed template and click _Finish_:
 ![this]({{site.url}}/assets/img/2021-07-08-Getting-Started/import-gradle-project.png)
 
-You should now see your project in the Project Explorer:
+You should now see `oml-template` in the Project Explorer:
 ![this]({{site.url}}/assets/img/2021-07-08-Getting-Started/project-explorer.png)
+
+## Update the Project Name
+
+Select `oml-template` in the Project Explorer. Select the _File/Rename..._ menu item, and rename the project for your purposes. In this example, we're changing the name to `getting-started-with-oml`.
+
+The template name appears in three other places: `.fuseki.ttl`, `build.gradle`, and `settings.gradle`.
 
 ## A Simple Vocabulary and Vocabulary Bundle
 ## A Simple Description and Description Bundle
