@@ -6,3 +6,9 @@
   readMoreUrl: https://opencaesar.github.io/oml
   buttonLable: "Read More"
   slideId: 0
+- caption: "openCAESAR Workshop on March 21, 2022"
+  carouselImageName: banner_1.png
+  floatingImageName: OMG-logo-web-sm.png
+  readMoreUrl: https://www.omg.org/events/2022Q1/special-events/openCAESAR-Workshop.htm
+  buttonLable: "Register"
+  slideId: 1
