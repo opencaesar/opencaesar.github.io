@@ -12,11 +12,11 @@ image:
 
 # Abstract
 
-This workshop will introduce NASA Jet Propulsion Laboratory's (JPL's) openCAESAR Project and its ontological approach to systems modeling and analysis. It will focus on the Ontological Modeling Language (OML), its authoring and analysis tools and its workflows. It will provide the background and motivation for developing the approach at the JPL and its adoption by several space projects. In addition, a case study will be presented and used to demonstrate the approach and motivate discussion.
+This workshop introduces NASA Jet Propulsion Laboratory's (JPL's) [openCAESAR](http://www.opencaesar.io/) Project and its ontological approach to systems modeling and analysis. It will focus on the [Ontological Modeling Language (OML)](http://www.opencaesar.io/oml), its authoring and analysis tools and its workflows. It will provide the background and motivation for developing the approach at the JPL and its adoption by several space projects. In addition, a case study will be presented and used to demonstrate the approach and motivate discussion.
 
 # Registration
 
-You can [register](https://www.omg.org/events/2022Q1/special-events/openCAESAR-Workshop.htm) to attend the workshop online (or in person) on March 21, 2022 at 1pm (EDT) for free.
+You can [register](https://www.omg.org/events/2022Q1/special-events/openCAESAR-Workshop.htm) to attend the workshop for free online or in person at the [OMG](https://www.omg.org) Technical Meeting in Reston, VA on March 21, 2022 at 1pm (EDT).
 
 # Presentation
 
