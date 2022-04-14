@@ -26,6 +26,6 @@ Watch the presentation at your pace on Google Drive (several slides contain vide
 
 # Recording
 
-Alternatively, watch the presentation as delivered by clicking the video below 
+Alternatively, watch the presentation as delivered on [Bright Talk](https://www.brighttalk.com/webcast/12231/539649) or by clicking the youtube video below.
 
 [![openCAESAR Workshop recording](https://img.youtube.com/vi/Mgxngllc1OE/0.jpg)](https://www.youtube.com/watch?v=Mgxngllc1OE).
