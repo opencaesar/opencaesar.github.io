@@ -26,4 +26,6 @@ Watch the presentation at your pace on Google Drive (several slides contain vide
 
 # Recording
 
-Alternatively, watch the presentation as delivered (with audio track) by clicking the video below [![openCAESAR Workshop recording](https://img.youtube.com/vi/Mgxngllc1OE/0.jpg)](https://www.youtube.com/watch?v=Mgxngllc1OE).
+Alternatively, watch the presentation as delivered by clicking the video below 
+
+[![openCAESAR Workshop recording](https://img.youtube.com/vi/Mgxngllc1OE/0.jpg)](https://www.youtube.com/watch?v=Mgxngllc1OE).
