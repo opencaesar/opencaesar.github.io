@@ -12,3 +12,9 @@
   readMoreUrl: http://www.opencaesar.io/caesar/2019/03/21/openCAESAR-Workshop-at-OMG.html
   buttonLable: "Read More"
   slideId: 1
+- caption: "openCAESAR Talk at SiriusCon22 on June 14, 2022"
+  carouselImageName: banner_1.png
+  floatingImageName: siriuscon2022.png
+  readMoreUrl: https://www.siriuscon.org
+  buttonLable: "Read More"
+  slideId: 1
