@@ -9,12 +9,12 @@
 - caption: "openCAESAR Workshop on March 21, 2022"
   carouselImageName: banner_1.png
   floatingImageName: OMG-logo-web-sm.png
-  readMoreUrl: http://www.opencaesar.io/caesar/2019/03/21/openCAESAR-Workshop-at-OMG.html
+  readMoreUrl: http://www.opencaesar.io/caesar/2022/03/21/openCAESAR-Workshop-at-OMG.html
   buttonLable: "Read More"
   slideId: 1
 - caption: "openCAESAR Talk at SiriusCon on 6/14/2022"
   carouselImageName: banner_1.png
   floatingImageName: siriuscon2022.png
-  readMoreUrl: https://www.siriuscon.org
+  readMoreUrl: http://www.opencaesar.io/caesar/2022/06/14/Defining-Viewpoints-for-Ontology-Based-DSLs.html
   buttonLable: "Read More"
   slideId: 2
