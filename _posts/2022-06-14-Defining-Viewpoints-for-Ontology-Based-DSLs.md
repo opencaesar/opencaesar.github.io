@@ -23,6 +23,6 @@ Browse the slides by clicking the link below.
 
 # Recording
 
-Alternatively, watch the session as delivered on YouTube or by clicking the video below.
+Alternatively, watch the session as delivered on YouTube by clicking the video link below.
 
 [![SiriusCon 2022 session recording](https://img.youtube.com/vi/dm3zBvpSCKA/0.jpg)](https://www.youtube.com/watch?v=dm3zBvpSCKA).
