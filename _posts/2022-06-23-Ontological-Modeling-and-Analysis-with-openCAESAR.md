@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ontology PSIG: Ontological Modeling & Analysis with openCAESAR"
+title: "Ontology PSIG: Ontological Modeling and Analysis with openCAESAR"
 author: "Maged Elaasar"
 author_image: maged.png
 tag: [MBSE, IMCE, CAESAR]
