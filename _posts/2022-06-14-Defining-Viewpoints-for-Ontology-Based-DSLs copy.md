@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Defining Viewpoints for Ontology-Based DSLs"
+title: "SiriusCon22: Defining Viewpoints for Ontology-Based DSLs"
 author: "Maged Elaasar"
 author_image: maged.png
 tag: [MBSE, IMCE, CAESAR]
