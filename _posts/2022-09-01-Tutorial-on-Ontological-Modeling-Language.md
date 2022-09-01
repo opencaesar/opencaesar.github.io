@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MODELS 2022: Tutorial on Ontological Modeling Language"
+title: "Tutorial on Ontological Modeling Language"
 author: "Maged Elaasar"
 author_image: maged.png
 tag: [MBSE, IMCE, CAESAR]
