@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OMG: openCAESAR Workshop"
+title: "OMG openCAESAR Workshop"
 author: "Maged Elaasar"
 author_image: maged.png
 tag: [MBSE, IMCE, CAESAR]
