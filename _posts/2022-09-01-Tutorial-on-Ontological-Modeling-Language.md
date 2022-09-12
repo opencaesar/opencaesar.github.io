@@ -18,17 +18,17 @@ This tutorial will present the ontological approach to systems modeling and anal
 
 A tutorial session will be given on 10/22/2022 at 5pm at [MODELS 2022](https://conf.researchr.org/track/models-2022/models-2022-tutorials)
 
-## 1. Install Rosetta Workbench
+## 1 Install Rosetta Application
 
 ### 1.1 Option 1: Install Locally
 
-1. Download the latest release of the Rosetta zip archive that matches your OS from the [oml-rosetta](https://github.com/opencaesar/oml-rosetta/releases/latest) github repo.
+1. Download the latest release of the Rosetta zip archive that matches your OS from [oml-rosetta](https://github.com/opencaesar/oml-rosetta/releases/latest).
 
    ![](/assets/img/models2022/Rosetta-Download.png)
 
 1. Unzip the archive to a local folder to get the Rosetta app.
     
-   * On Mac OS only, run the following command in a Terminal after
+   * On Mac OS, subsequently run the following command in Terminal.
 
      ```
       $xttr -cr <path/to/Rosetta.app>
@@ -38,7 +38,7 @@ A tutorial session will be given on 10/22/2022 at 5pm at [MODELS 2022](https://c
 
 TBD: Alternatively, download the Rosetta App Docker image from this link.
 
-## 2. Run Rosetta Workbench
+## 2 Launch Rosetta Application
 
 1. Navigate to the Rosetta app icon and double click it to open.
 
@@ -46,7 +46,7 @@ TBD: Alternatively, download the Rosetta App Docker image from this link.
 
 1. When prompted to choose a workspace, create a new one in your local file system.
 
-    <kbd>![](/assets/img/models2022/Rosetta-Launcher.png)</kbd>
+    ![](/assets/img/models2022/Rosetta-Launcher.png)
 
-## 3. OML Tutorials
+## 3 OML Tutorials
 TBD
