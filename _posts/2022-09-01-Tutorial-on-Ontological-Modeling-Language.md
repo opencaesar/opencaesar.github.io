@@ -18,6 +18,6 @@ This tutorial presents the ontological approach to systems modeling and analysis
 
 A tutorial session will be given on 10/22/2022 at 5pm at [MODELS 2022](https://conf.researchr.org/track/models-2022/models-2022-tutorials)
 
-## Tutorial
+## Tutorial Material
 
-The tutorial is hosted on the [oml-tutorial](http://www.opencaesar.io/oml-tutorial/) repo.
+The tutorial material is hosted on the [oml-tutorial](http://www.opencaesar.io/oml-tutorial/) repo.
