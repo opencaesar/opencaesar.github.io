@@ -22,16 +22,16 @@ A tutorial session will be given on 10/22/2022 at 5pm at [MODELS 2022](https://c
 
 ### Option 1: Install Locally
 
-1. Download the latest version of the Rosetta zip file that matches your OS from the [Releases](https://github.com/opencaesar/oml-rosetta/releases/latest) page of the oml-rosetta github repo.
+1. Download the latest release of the Rosetta zip archive that matches your OS from the [oml-rosetta](https://github.com/opencaesar/oml-rosetta/releases/latest) github repo.
 
-   ![](../assets/img/models2022/Rosetta-Download.png)
+   ![](/assets/img/models2022/Rosetta-Download.png)
 
-1. Unzip the file to a local folder to get the Rosetta app.
+1. Unzip the archive to a local folder to get the Rosetta app.
     
-   * On Mac OS, run the following command in a Terminal after:
+   * On Mac OS only, run the following command in a Terminal after
 
      ```
-      $ xttr -cr <path/to/Rosetta.app>
+      $xttr -cr <path/to/Rosetta.app>
      ```
 ### Option 2: Install from a Docker Image
 
@@ -41,11 +41,11 @@ TBD: Alternatively, download the Rosetta App Docker image from this link.
 
 1. Navigate to the Rosetta app icon and double click it to open.
 
-    ![](../assets/img/models2022/splash.bmp)
+    ![](/assets/img/models2022/splash.bmp)
 
 1. When prompted to choose a workspace, create a new one in your local file system.
 
-    ![](../assets/img/models2022/Rosetta-Launcher.png)
+    ![](/assets/img/models2022/Rosetta-Launcher.png)
 
 ## OML Tutorials
 TBD
