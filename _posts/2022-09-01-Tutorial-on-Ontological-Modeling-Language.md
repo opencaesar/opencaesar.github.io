@@ -33,6 +33,7 @@ A tutorial session will be given on 10/22/2022 at 5pm at [MODELS 2022](https://c
      ```
       $xttr -cr <path/to/Rosetta.app>
      ```
+
 ### Option 2: Install from a Docker Image
 
 TBD: Alternatively, download the Rosetta App Docker image from this link.
