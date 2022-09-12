@@ -20,4 +20,4 @@ A tutorial session will be given on 10/22/2022 at 5pm at [MODELS 2022](https://c
 
 ## Tutorial Material
 
-The tutorial material is hosted on the [oml-tutorial](http://www.opencaesar.io/oml-tutorial/) repo.
+Access the tutorial material by following this [link](http://www.opencaesar.io/oml-tutorial/) repo.
