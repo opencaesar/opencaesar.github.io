@@ -12,6 +12,7 @@
             <div class="col">
                 <p class="doc-category-oc">{{page.categories[0]}}</p>
                 <p class="title-oc">{{page.title}}</p>
+                <meta content="{{page.title}}" property="og:title">
             </div>
         </div>
     </div>
@@ -30,6 +31,7 @@
                     {% if page.author_image %}
                     <img src="{{page.author_image | prepend: 'assets/img/' | relative_url}}" class="mr-3"
                         style="width: 50px; border-radius: 2rem">
+                    <meta content="{{page.author_image | prepend: 'assets/img/' | relative_url}}" property="og:image">
                     {% endif %}
                     {% endif %}
                     <div class="media-body">
