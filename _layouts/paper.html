@@ -31,7 +31,6 @@
                     {% if page.author_image %}
                     <img src="{{page.author_image | prepend: 'assets/img/' | relative_url}}" class="mr-3"
                         style="width: 50px; border-radius: 2rem">
-                    <meta content="{{page.author_image | prepend: 'assets/img/' | relative_url}}" property="og:image">
                     {% endif %}
                     {% endif %}
                     <div class="media-body">
@@ -64,6 +63,7 @@
 
                     <img src="{{ page.image.feature | prepend: 'assets/img/' | relative_url}}"
                         alt="{{ page.title }} feature image" class="img-fluid">
+                    <meta content="{{ page.image.feature | prepend: 'assets/img/' | relative_url}}" property="og:image">
                 </div>
                 {% if page.image.credit %}
                 <span class="image-credit">Photo Credit: {{ page.image.credit }} </span>
