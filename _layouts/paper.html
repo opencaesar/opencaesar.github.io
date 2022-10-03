@@ -12,7 +12,6 @@
             <div class="col">
                 <p class="doc-category-oc">{{page.categories[0]}}</p>
                 <p class="title-oc">{{page.title}}</p>
-                <meta content="{{page.title}}" property="og:title">
             </div>
         </div>
     </div>
@@ -63,7 +62,6 @@
 
                     <img src="{{ page.image.feature | prepend: 'assets/img/' | relative_url}}"
                         alt="{{ page.title }} feature image" class="img-fluid">
-                    <meta content="{{ page.image.feature | prepend: 'assets/img/' | relative_url}}" property="og:image">
                 </div>
                 {% if page.image.credit %}
                 <span class="image-credit">Photo Credit: {{ page.image.credit }} </span>
