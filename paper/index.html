@@ -15,7 +15,7 @@ navlink: /paper
 
     <!-- paper list -->
     <div class="row pl-1 pb-3 mb-5">
-        {% for post in site.papers%}
+        {% for post in site.papers reversed%}
         <div id={{forloop.index}} class="col col-sm-12 col-lg-4 pt-3 px-2">
             <div class="card">
                 <div class="card-body blog-card-oc pt-4">
