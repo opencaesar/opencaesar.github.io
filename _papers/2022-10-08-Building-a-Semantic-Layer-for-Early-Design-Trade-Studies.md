@@ -7,7 +7,7 @@ tag: [MBSE, CAESAR, Trade Study, Semantic]
 categories: [MBSE Application]
 image:
   feature: airbus.webp
-  credit: Airbus Central R&T and Jet Propulsion Laboratory
+  credit: Airbus
 ---
 > Zindel, A., Feo-Arenis, S., Helle, P., Schramm, G., and Elaasar, M. "Building a Semantic Layer for Early Design Trade Studies in the Development of Commercial Aircraft,” Proceedings of 8th IEEE International Symposium on Systems Engineering (ISSE), Vienna, Austria, Oct. 24-26, 2022.
 
@@ -605,9 +605,7 @@ example. The trade study was defined in Cameo and translated
 into a knowledge graph utilizing the RFLP ontology as target.
 
 ![](../assets/img/isse-2022/Figure3.png)
-Figure 4. describes the system architecture of a Regional
-Aircraft. This is a simplified view and only shows the aspects
-that are relevant for this example
+Figure 4. describes the system architecture of a Regional Aircraft. This is a simplified view and only shows the aspects that are relevant for this example
 
 The diagram illustrates that a Regional Aircraft is not a
 static system but has some variability for its Energy Storage
@@ -618,12 +616,7 @@ values for a uniform distribution) utilizing the uncertainty
 annotation described in [5].
 
 ![](../assets/img/isse-2022/Figure5.png)
-Figure 5. shows the same Regional Aircraft after it has been
-extracted from TWC and converted from OML into an OWL
-individual.
-
-Fig. 4. Regional Aircraft System Model
-Fig. 5. Regional Aircraft in Protege
+Figure 5. shows the same Regional Aircraft after it has been extracted from TWC and converted from OML into an OWL individual.
 
 As depicted it has the same attributes as in the Block
 Definition Diagram (BDD) but now with its relations to the
