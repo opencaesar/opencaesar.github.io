@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Building a Semantic Layer for Early Design Trade Studies in the Development of Commercial Aircraft"
-author: ["Andreas Zindel (Airbus)", "Sergio Feo-Arenis (Airbus)", "Philipp Helle (Airbus)", "Gerrit Schramm (Airbus), Maged Elaasar (JPL)"]
+author: ["Andreas Zindel (Airbus)", "Sergio Feo-Arenis (Airbus)", "Philipp Helle (Airbus)", "Gerrit Schramm (Airbus)", "Maged Elaasar (JPL)"]
 author_image: elaasar.png
 tag: [MBSE, CAESAR, Trade Study, Semantic]
 categories: [MBSE Application]
