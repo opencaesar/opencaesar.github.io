@@ -19,7 +19,7 @@ I went first and presented the [openCAESAR](https://opencaesar.github.io/) platf
 
 # Open Access
 
-| Feature | openCAESASR | OpenMBEE |
+| Feature | openCAESAR | OpenMBEE |
 |-------------|--------------|-------------|
 | Open Access | Platform capabilities are open sourced  | Platform capabilities are open sourced |
 
@@ -31,7 +31,7 @@ I went first and presented the [openCAESAR](https://opencaesar.github.io/) platf
 
 # Information Authoring
 
-| Feature | openCAESASR | OpenMBEE |
+| Feature | openCAESAR | OpenMBEE |
 |-------------|--------------|-------------|
 | Model Authoring (COTS tools) | Supports authoring using some COTS tools supported by a (CAESAR) adapter | Supports authoring using some COTS tools supported by a (Syndeia) adapter and custom development
 | Model Authoring (custom tools) | Supports full authoring in the DSLs directly using standard authoring viewpoints in Eclipse or VSCode (desktop or web) or custom ones implemented declaratively | Supports some limited authoring out of the box using standard viewpoints in View Editor (part of OpenMBEE) or custom ones implemented imperatively |
