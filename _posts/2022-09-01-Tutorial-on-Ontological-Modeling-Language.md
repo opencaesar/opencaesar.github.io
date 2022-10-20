@@ -12,7 +12,7 @@ image:
 
 ## Abstract
 
-This tutorial presents the ontological approach to systems modeling and analysis using the [Ontological Modeling Language (OML)](http://www.opencaesar.io/oml/), developed by the Jet Propulsion Laboratory (JPL), and contributed through the [openCAESAR](http://www.opencaesar.io/) project. The tutorial intends to give users some experience with OML and its tools involving developing a semantic vocabulary, using it to describe a system, and analyzing the system description for consistency using a logical reasoner, a set of queries, and a UI viewpoint. Familiarity with using the Eclipse IDE would greatly help. Some background in system modeling with languages like UML or SysML, and some knowledge about semantic web would also help but is not essential.
+This tutorial presents the ontological approach to systems modeling and analysis using the [Ontological Modeling Language (OML)](http://www.opencaesar.io/oml/), developed by the Jet Propulsion Laboratory (JPL), and contributed through the [openCAESAR](http://www.opencaesar.io/) project. The tutorial intends to give users some experience with OML and its tools involving developing a semantic vocabulary, using it to describe a system, and analyzing the system description for consistency using a logical reasoner, and a set of queries. Familiarity with using the Eclipse IDE would greatly help. Some background in system modeling with languages like UML or SysML, and some knowledge about semantic web would also help but is not essential.
 
 ## Venue
 
