@@ -16,7 +16,7 @@ This tutorial presents the ontological approach to systems modeling and analysis
 
 ## Venue
 
-A tutorial session will be given on 10/22/2022 at 5pm at [MODELS 2022](https://conf.researchr.org/track/models-2022/models-2022-tutorials)
+A tutorial session will be given on 10/22/2022 at 1:30pm at [MODELS 2022](https://conf.researchr.org/track/models-2022/models-2022-tutorials)
 
 ## Tutorial Material
 

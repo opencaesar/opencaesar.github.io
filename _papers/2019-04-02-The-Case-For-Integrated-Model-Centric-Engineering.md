@@ -12,7 +12,6 @@ image:
 
 > Elaasar, M., Rouquette, N., Jenkins, S., Gerard, S. “The Case for Integrated Model Centric Engineering,” Proceedings of Model Based Enterprise Summit, Gaithersburg, MD, April, 2019.
 
-
 # Abstract
 
 Ten plus years after its introduction, the practice of Model-Based Systems Engineering (MBSE) has yet to be widely adopted across the industry. Amongst several reasons, a few stand out: the lack of a formalism with well-defined semantics to create system model, the lack of a methodology to create system model across tools, disciplines, and organizations, the lack of rigor to analyze system model continuously, the lack of comprehensive content-based version control to support provenance, traceability and reproducibility, the lack of best practices in managing configuration and change of system model, and the inability of different kinds of stakeholders to access the system model and provide feedback on it. We call a practice that addresses these challenges Integrated Model Centric Engineering (IMCE). This paper overviews the challenges facing MBSE, discusses desirable characteristics of SE practice, outlines the IMCE principles needed to improve them, and summarizes the impact of adopting IMCE.
