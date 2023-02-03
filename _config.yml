@@ -13,7 +13,7 @@ blog_path: "/blog"
 
 # Paper settings
 collections:
-  releases:
+  projects:
     output: true
   papers:
     output: true

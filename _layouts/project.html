@@ -129,7 +129,7 @@
                 {% assign minCommonTags =  2 %}
                 {% assign maxRelatedCounter = 0 %}
 
-                {% for post in site.releases %}
+                {% for post in site.projects %}
                 {% assign sameTagCount = 0 %}
                 {% assign commonTags = '' %}
 
@@ -158,7 +158,7 @@
     </div>
     <!---->
 
-    <!--Related release-->
+    <!--Related project-->
     <div class="container">
         <div class="row pl-1 pb-3 mb-5">
 
@@ -167,7 +167,7 @@
             {% assign maxRelatedCounter = 0 %}
 
 
-            {% for post in site.releases %}
+            {% for post in site.projects %}
 
 
             {% assign sameTagCount = 0 %}
@@ -226,9 +226,9 @@
         <!-- Large View -->
         <nav class="paginate-nav-oc d-block" aria-label="page-navigation">
             <ul class="pagination justify-content-center py-4">
-                <a class="btn doc-back-btn" href="{{'/releases' | relative_url}}"
+                <a class="btn doc-back-btn" href="{{'/project' | relative_url}}"
                     style="padding-top: 10px; padding-left: 40px; padding-right: 40px;">Back to the CAESAR Case Studies
-                    + Releases
+                    + Projects
                     <i class="fas fa-long-arrow-alt-right"></i></a>
             </ul>
         </nav>
