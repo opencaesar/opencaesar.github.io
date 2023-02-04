@@ -1,7 +1,7 @@
 ---
 layout: contributor
 name: Mahmudur Khan
-position: IMCE Software Developer
+position: IMCE Software Engineer
 orginization: NASA Jet Propulsion Laboratory
 author_image_thumbnail: khan.jpeg
 current: true
