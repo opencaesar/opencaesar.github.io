@@ -4,6 +4,7 @@ name: Marc Chodas
 position: IMCE Systems Engineer
 orginization: NASA Jet Propulsion Laboratory
 author_image_thumbnail: chodas.jpg
+current: true
 insider: true
 linkedin:
 ---

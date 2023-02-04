@@ -1,10 +1,11 @@
 ---
 layout: contributor
 name: So Young Kim
-position: (Former) IMCE Product Manager
+position: IMCE Product Manager
 orginization: NASA Jet Propulsion Laboratory
 author_image_thumbnail: soyoung.jpg
 insider: true
+current: false
 linkedin: "https://www.linkedin.com/in/soyoungk/"
 ---
 

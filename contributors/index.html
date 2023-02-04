@@ -13,9 +13,11 @@ navlink: /contributors
         </div>
     </div>
 
-    <!-- Contributor list -->
+    <!-- Current ontributor list -->
+    <p class="title-oc">Current</p>
     <div class="row pl-1 pb-3 mb-5">
         {% for post in site.contributors%}
+        {% if post.current %}
         {% if post.insider %}
         <div class="col-sm-12 col-lg-4 pt-4 px-2">
             <div class="image-overlay-oc" style="width: 70%; position: absolute; z-index: 1;">
@@ -32,6 +34,34 @@ navlink: /contributors
                 </div>
             </div>
         </div>
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+    </div>
+    <!---->
+
+    <!-- Current ontributor list -->
+    <p class="title-oc">Former</p>
+    <div class="row pl-1 pb-3 mb-5">
+        {% for post in site.contributors%}
+        {% if post.current == false %}
+        {% if post.insider %}
+        <div class="col-sm-12 col-lg-4 pt-4 px-2">
+            <div class="image-overlay-oc" style="width: 70%; position: absolute; z-index: 1;">
+                <img src="{{post.author_image_thumbnail | prepend: 'assets/img/' | relative_url}}" class="card-img-top">
+            </div>
+            <div class="card" style="height: inherit;margin-top:50%">
+                <div class="card-body blog-card-download-oc" style="margin-top:17% ">
+                    <p class="contributor-name-oc">{{post.name}}</p>
+                    <img src="{{'/assets/img/zigzag-small-golden.png' | relative_url}}" class="img-fluid mb-3">
+                    <p class="contributor-title-oc mb-1">{{post.position}}</p>
+                    <p class="contributor-org-oc text-uppercase">{{post.orginization}}</p>
+                    <a href="{{post.url | relative_url}}" class="btn btn-outline-primary button-oc mt-4"
+                        style="position: absolute; bottom: 20px">View profile</a>
+                </div>
+            </div>
+        </div>
+        {% endif %}
         {% endif %}
         {% endfor %}
     </div>

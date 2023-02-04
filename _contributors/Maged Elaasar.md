@@ -5,6 +5,7 @@ position: IMCE Chief Architect (Project POC)
 orginization: NASA Jet Propulsion Laboratory
 author_image_thumbnail: maged.png
 insider: true
+current: true
 twitter: "https://twitter.com/melaasar"
 linkedin: "https://www.linkedin.com/in/magedelaasar/"
 ---

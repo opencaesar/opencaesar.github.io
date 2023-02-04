@@ -5,6 +5,7 @@ position: IMCE Program Manager
 orginization: NASA Jet Propulsion Laboratory
 author_image_thumbnail: alejandro.jpg
 insider: true
+current: false
 linkedin:
 ---
 

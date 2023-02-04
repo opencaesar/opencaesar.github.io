@@ -5,6 +5,7 @@ position: IMCE Development Manager
 orginization: NASA Jet Propulsion Laboratory
 author_image_thumbnail: wagner.jpg
 insider: true
+current: true
 linkedin: "https://www.linkedin.com/in/dave-wagner-a1377a11/"
 ---
 
