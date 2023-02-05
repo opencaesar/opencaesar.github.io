@@ -11,7 +11,7 @@ paginate: 12
 paginate_path: "/blog/page:num/"
 blog_path: "/blog"
 
-# Paper settings
+# Collection settings
 collections:
   projects:
     output: true
