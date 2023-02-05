@@ -16,7 +16,7 @@ Microsoft Excel, which is used by a lot of engineers around the world, can be us
 
 ## Project Team
 
-- Interns: 4 UCLA CS undergraduage students
+- Developers: 4 UCLA CS undergraduage students
 - Mentor: Maged Elaasar
 
 If you like to contribute to, provide feedback on, enquire about, or sponsor this project, please contact [Maged Elaasar](https://opencaesar.github.io/contributors/Maged%20Elaasar.html).

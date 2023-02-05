@@ -27,7 +27,7 @@ Our chatbot enables any user regardless of technical background to query specifi
 
 ## Project Team
 
-- Interns: 5 UCLA CS undergraduage students
+- Developers: 5 UCLA CS undergraduage students
 - Mentor: Maged Elaasar
 
 If you like to contribute to, provide feedback on, enquire about, or sponsor this project, please contact [Maged Elaasar](https://opencaesar.github.io/contributors/Maged%20Elaasar.html).

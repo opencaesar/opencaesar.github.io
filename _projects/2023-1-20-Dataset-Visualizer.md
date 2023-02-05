@@ -16,7 +16,7 @@ Triple stores allow inspecting datasets via queries but the results are often sh
 
 ## Project Team
 
-- Interns: 5 UCLA CS undergraduage students
+- Developers: 5 UCLA CS undergraduage students
 - Mentor: Maged Elaasar
 
 If you like to contribute to, provide feedback on, enquire about, or sponsor this project, please contact [Maged Elaasar](https://opencaesar.github.io/contributors/Maged%20Elaasar.html).
