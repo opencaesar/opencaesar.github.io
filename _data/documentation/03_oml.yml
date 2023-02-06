@@ -1,7 +1,7 @@
 title: OML
 contents:
 
-  - name: OML Specification and API
+  - name: OML Specification
     link: http://www.opencaesar.io/oml/
   - name: OML Rosetta Workbench
     link: https://github.com/opencaesar/oml-rosetta/
@@ -9,3 +9,7 @@ contents:
     link: https://github.com/opencaesar/oml-luxor/
   - name: OML Tools
     link: https://github.com/opencaesar/oml-tools/
+  - name: OML Tutorials
+    link: https://github.com/opencaesar/oml-tutorials/
+  - name: OML Template
+    link: https://github.com/opencaesar/oml-template/
