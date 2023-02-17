@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns:og="http://ogp.me/ns#">
 {% include head.html %}
 
 <body class="d-none">
@@ -60,7 +60,6 @@
                 {% if page.image.feature %}
                 <div style="border-bottom: solid 5px #03a9f4;">
 
-                    <link rel="image_src" href="{{ page.image.feature | prepend: 'assets/img/' | relative_url}}" />
                     <img src="{{ page.image.feature | prepend: 'assets/img/' | relative_url}}"
                         alt="{{ page.title }} feature image" class="img-fluid">
                 </div>

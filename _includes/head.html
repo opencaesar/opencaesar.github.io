@@ -2,8 +2,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-  <meta content="{{page.title}}" property="og:title">
-  <meta content="{{ page.image.feature | prepend: 'assets/img/' | relative_url}}" property="og:image">
+  <meta property="og:title" content="{{page.title}}">
+  <meta property="og:image" content="{{ page.image.feature | prepend: 'assets/img/' | relative_url}}">
   <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
   <link rel="stylesheet" href="{{'/assets/css/animate.css' | relative_url}}" />
   <link rel="stylesheet" href="{{'/assets/css/main.css' | relative_url}}" />
