@@ -17,3 +17,8 @@
   readMoreUrl: ../project/
   buttonLable: "Read More"
   slideId: 2
+- caption: "Check out the new openCAESAR Community"
+  carouselImageName: banner_1.png
+  readMoreUrl: https://github.com/opencaesar/community/discussions
+  buttonLable: "Engage"
+  slideId: 3
