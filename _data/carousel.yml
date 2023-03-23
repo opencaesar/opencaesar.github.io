@@ -9,7 +9,7 @@
 - caption: "OML Tutorial on October 22, 2022"
   carouselImageName: banner_1.png
   floatingImageName: models2022.png
-  readMoreUrl: ../caesar/2022/09/01/Tutorial-on-Ontological-Modeling-Language.html
+  readMoreUrl: http://www.opencaesar.io/oml-tutorials/
   buttonLable: "Read More"
   slideId: 1
 - caption: "Check out new openCAESAR R&D Projects"
