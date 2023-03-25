@@ -10,7 +10,8 @@ image:
   credit: https://worldvectorlogo.com/zh/logo/alexandria
 ---
 
-## Project Demo Video
+## Project Demo
+(Click on the youtube video below)
 
 [![OML Alexandia Demo](https://img.youtube.com/vi/iWXTjC5SzmY/0.jpg)](https://www.youtube.com/watch?v=iWXTjC5SzmY)
 
