@@ -17,8 +17,13 @@
   readMoreUrl: ../project/
   buttonLable: "Read More"
   slideId: 2
-- caption: "Check out the new openCAESAR Community"
+- caption: "Welcome to the new openCAESAR Community"
   carouselImageName: banner_1.png
   readMoreUrl: https://github.com/opencaesar/community/discussions
   buttonLable: "Engage"
   slideId: 3
+- caption: "Kepler16b: a new openCAESAR example"
+  carouselImageName: kepler16b.png
+  readMoreUrl: https://www.opencaesar.io/kepler16b-example/
+  buttonLable: "Learn More"
+  slideId: 4
