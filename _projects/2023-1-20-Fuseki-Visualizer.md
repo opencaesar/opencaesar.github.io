@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Dataset Visualizer"
+title: "Fuseki Visualizer"
 author: "Maged Elaasar"
 author_image: maged.png
 tag: [OML]
@@ -13,7 +13,7 @@ image:
 ## Project Demo
 (Click on the youtube video below)
 
-[![Dataset Visualizer Demo](https://img.youtube.com/vi/rs-jMp2yopY/0.jpg)](https://www.youtube.com/watch?v=rs-jMp2yopY)
+[![Fuseki Visualizer Demo](https://img.youtube.com/vi/rs-jMp2yopY/0.jpg)](https://www.youtube.com/watch?v=rs-jMp2yopY)
 
 
 ## Project Summary
