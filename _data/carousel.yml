@@ -1,29 +1,29 @@
 # Caption should not exceed 40 character
 # If you include special characters (- and :) surround by ""
+- caption: "Kepler16b is a new openCAESAR example"
+  carouselImageName: kepler16b.png
+  readMoreUrl: https://www.opencaesar.io/kepler16b-example/
+  buttonLable: "Learn More"
+  slideId: 4
+- caption: "Welcome to the openCAESAR Community"
+  carouselImageName: banner_1.png
+  readMoreUrl: https://github.com/opencaesar/community/discussions
+  buttonLable: "Engage"
+  slideId: 3
+- caption: "Check out the openCAESAR Projects"
+  carouselImageName: banner_1.png
+  readMoreUrl: ../project/
+  buttonLable: "Read More"
+  slideId: 2
+- caption: "Take an OML Tutorial"
+  carouselImageName: banner_1.png
+  floatingImageName: oml.png
+  readMoreUrl: http://www.opencaesar.io/oml-tutorials/
+  buttonLable: "Read More"
+  slideId: 1
 - caption: OML Specification 1.4 is now available
   carouselImageName: banner_1.png
   floatingImageName: oml.png
   readMoreUrl: http://www.opencaesar.io/oml/
   buttonLable: "Read More"
   slideId: 0
-- caption: "OML Tutorial on October 22, 2022"
-  carouselImageName: banner_1.png
-  floatingImageName: models2022.png
-  readMoreUrl: http://www.opencaesar.io/oml-tutorials/
-  buttonLable: "Read More"
-  slideId: 1
-- caption: "Check out new openCAESAR R&D Projects"
-  carouselImageName: banner_1.png
-  readMoreUrl: ../project/
-  buttonLable: "Read More"
-  slideId: 2
-- caption: "Welcome to the new openCAESAR Community"
-  carouselImageName: banner_1.png
-  readMoreUrl: https://github.com/opencaesar/community/discussions
-  buttonLable: "Engage"
-  slideId: 3
-- caption: "Kepler16b: a new openCAESAR example"
-  carouselImageName: kepler16b.png
-  readMoreUrl: https://www.opencaesar.io/kepler16b-example/
-  buttonLable: "Learn More"
-  slideId: 4

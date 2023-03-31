@@ -1,6 +1,6 @@
 # Name should not exceed 20 character
-- name: Documentation
-  link: /documentation
+- name: Community
+  link: /community
 - name: Projects
   link: /project
 - name: Blog

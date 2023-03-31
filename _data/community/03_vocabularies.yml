@@ -3,6 +3,10 @@ contents:
 
   - name: Core Vocabularies
     link: https://opencaesar.github.io/core-vocabularies/
+  - name: Metrology Vocabularies
+    link: https://opencaesar.github.io/metrology-vocabularies/
+  - name: Provenance Vocabularies
+    link: https://opencaesar.github.io/provenance-vocabularies/
   - name: IMCE Vocabularies
     link: https://opencaesar.github.io/imce-vocabularies/
   - name: Eclipse Vocabularies

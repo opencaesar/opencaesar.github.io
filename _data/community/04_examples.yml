@@ -1,0 +1,9 @@
+title: Examples
+contents:
+
+  - name: FireSat Example
+    link: https://github.com/opencaesar/firesat-example/
+  - name: Kepler16b Example
+    link: https://github.com/opencaesar/kepler16b-example/
+  - name: Project Template
+    link: https://github.com/opencaesar/oml-template/
