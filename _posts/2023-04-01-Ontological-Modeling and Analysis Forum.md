@@ -16,7 +16,7 @@ The onto:Nexus forum is a dynamic and collaborative community for professionals 
 
 ## Events
 
-The onto:Nexus forum offers a wide range of engagment events designed to meet the diverse needs and interests of our members including:
+The onto:Nexus forum offers a wide range of engagement events designed to meet the diverse needs and interests of our members including:
 - Talks
 - Panels
 - Demos
