@@ -15,6 +15,9 @@ image:
 
 [![OML Alexandia Demo](https://img.youtube.com/vi/iWXTjC5SzmY/0.jpg)](https://www.youtube.com/watch?v=iWXTjC5SzmY)
 
+## Project Repository
+
+This is the [Github](https://github.com/0x65-e/oml-alexandria) repo of the project.
 
 ## Project Summary
 
