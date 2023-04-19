@@ -5,16 +5,11 @@ author: "Maged Elaasar"
 author_image: maged.png
 tag: [OML]
 categories: [IMCE]
+current: false
 image:
   feature: datasetviz.jpeg
   credit: https://www.mdpi.com/2078-2489/9/11/285
 ---
-
-## Project Demo
-(Click on the youtube video below)
-
-[![Fuseki Visualizer Demo](https://img.youtube.com/vi/rs-jMp2yopY/0.jpg)](https://www.youtube.com/watch?v=rs-jMp2yopY)
-
 
 ## Project Summary
 
@@ -25,4 +20,12 @@ Triple stores allow inspecting datasets via queries but the results are often sh
 - Developers: 5 UCLA CS undergraduage students
 - Mentor: Maged Elaasar
 
-If you like to contribute to, provide feedback on, enquire about, or sponsor this project, please contact [Maged Elaasar](https://opencaesar.github.io/contributors/Maged%20Elaasar.html).
+## Project Repository
+
+[Github](https://github.com/omerdemirkan/cs-130-project)
+
+## Project Results
+
+Click on the video below to see a demo:
+
+<iframe id="demo" width="420" style="border:1px solid black" height="315" src="http://www.youtube.com/embed/jMp2yopY" frameborder="0" allowfullscreen></iframe>

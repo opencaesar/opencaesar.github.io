@@ -5,6 +5,7 @@ author: "Maged Elaasar"
 author_image: maged.png
 tag: [OML]
 categories: [IMCE]
+current: false
 image:
   feature: firesatfunctions.jpeg
   credit: https://www.mdpi.com/2078-2489/9/11/285

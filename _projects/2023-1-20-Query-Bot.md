@@ -5,6 +5,7 @@ author: "Maged Elaasar"
 author_image: maged.png
 tag: [OML]
 categories: [IMCE]
+current: false
 image:
   feature: querybot.jpeg
   credit: https://querybot.net/
@@ -30,4 +31,8 @@ Our chatbot enables any user regardless of technical background to query specifi
 - Developers: 5 UCLA CS undergraduage students
 - Mentor: Maged Elaasar
 
-If you like to contribute to, provide feedback on, enquire about, or sponsor this project, please contact [Maged Elaasar](https://opencaesar.github.io/contributors/Maged%20Elaasar.html).
+## Project Results
+
+Click on the video below to see a demo:
+
+<iframe id="demo" width="420" style="border:1px solid black" height="315" src="http://www.youtube.com/embed/3c3Zdwbebbo" frameborder="0" allowfullscreen></iframe>

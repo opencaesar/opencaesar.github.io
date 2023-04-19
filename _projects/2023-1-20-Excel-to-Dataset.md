@@ -5,6 +5,7 @@ author: "Maged Elaasar"
 author_image: maged.png
 tag: [OML]
 categories: [IMCE]
+current: false
 image:
   feature: excelify.jpeg
   credit: https://www.mdpi.com/2078-2489/9/11/285
@@ -19,4 +20,8 @@ Microsoft Excel, which is used by a lot of engineers around the world, can be us
 - Developers: 4 UCLA CS undergraduage students
 - Mentor: Maged Elaasar
 
-If you like to contribute to, provide feedback on, enquire about, or sponsor this project, please contact [Maged Elaasar](https://opencaesar.github.io/contributors/Maged%20Elaasar.html).
+## Project Results
+
+Click on the video below to see a demo:
+
+<iframe id="demo" width="420" style="border:1px solid black" height="315" src="http://www.youtube.com/embed/469cE5LRRbc" frameborder="0" allowfullscreen></iframe>

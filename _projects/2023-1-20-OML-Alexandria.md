@@ -5,19 +5,11 @@ author: "Maged Elaasar"
 author_image: maged.png
 tag: [OML]
 categories: [IMCE]
+current: true
 image:
   feature: omlalexandria.png
   credit: https://worldvectorlogo.com/zh/logo/alexandria
 ---
-
-## Project Demo
-(Click on the youtube video below)
-
-[![OML Alexandia Demo](https://img.youtube.com/vi/iWXTjC5SzmY/0.jpg)](https://www.youtube.com/watch?v=iWXTjC5SzmY)
-
-## Project Repository
-
-This is the [Github](https://github.com/0x65-e/oml-alexandria) repo of the project.
 
 ## Project Summary
 
@@ -37,4 +29,13 @@ One of the primary features of the extension is to enable users to visualize the
 - Developers: 5 UCLA CS undergraduage students
 - Mentor: Maged Elaasar
 
-If you like to contribute to, provide feedback on, enquire about, or sponsor this project, please contact [Maged Elaasar](https://opencaesar.github.io/contributors/Maged%20Elaasar.html).
+## Project Repository
+
+[Github](https://github.com/0x65-e/oml-alexandria)
+
+## Project Results
+
+Click on the video below to see a demo:
+
+<iframe id="demo" width="420" style="border:1px solid black" height="315" src="http://www.youtube.com/embed/iWXTjC5SzmY" frameborder="0" allowfullscreen></iframe>
+

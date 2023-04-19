@@ -5,6 +5,7 @@ author: "Maged Elaasar"
 author_image: maged.png
 tag: [OML]
 categories: [IMCE]
+current: false
 image:
   feature: commitaware.png
   credit: https://www.mdpi.com/2078-2489/9/11/285
@@ -21,4 +22,15 @@ Conveniently, Git stores versions of its files through commit-hashes, allowing u
 - Developers: 4 UCLA CS undergraduage students
 - Mentor: Maged Elaasar
 
-If you like to contribute to, provide feedback on, enquire about, or sponsor this project, please contact [Maged Elaasar](https://opencaesar.github.io/contributors/Maged%20Elaasar.html).
+## Project Results
+
+Click on the Slideshow button below to see a presentation with demos:
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<!-- this is the embed code provided by Google -->
+  <iframe src="https://docs.google.com/presentation/d/154OgqLC_zEqtdFAmmNy-m42jGNd_ENqlh1-FhWpkt_k/edit?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<!-- Google embed ends -->
+</div>
