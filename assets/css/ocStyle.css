@@ -274,6 +274,28 @@ a {
   text-decoration: underline;
 }
 
+.get-started-link-flip {
+  background: white;
+  border-radius: 0;
+  text-decoration: underline;
+  border-top: 10px;
+  border-style: solid;
+  padding-right: 60px;
+  padding-left: 60px;
+  border-color: #03a9f4;
+  color: #03a9f4;
+  font-family: Roboto, sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.22;
+  letter-spacing: normal;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
 .get-started-link:hover {
   text-decoration: underline;
   color: white;
@@ -447,7 +469,7 @@ div#content blockquote blockquote{
 
 @media (min-width: 992px) {
   .heading-width {
-    width: 70%;
+    width: 80%;
   }
 
   .contributor-info-oc{
