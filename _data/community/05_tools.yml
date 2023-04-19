@@ -1,17 +1,17 @@
 title: Tools
 contents:
 
-  - name: OML Rosetta (Eclipse Editor)
+  - name: OML Rosetta (Eclipse-based IDE)
     link: https://github.com/opencaesar/oml-rosetta/
-  - name: OML Luxor (VS Code Editor)
+  - name: OML Luxor (VS Code-based IDE)
     link: https://github.com/opencaesar/oml-luxor/
-  - name: OML Tools
+  - name: OML Tools (Download, Validate, Convert, etc.)
     link: https://github.com/opencaesar/oml-tools/
-  - name: OWL Tools
+  - name: OWL Tools (Query, Rule, Reason, Docgen, etc)
     link: https://github.com/opencaesar/owl-tools/
-  - name: Ecore Tools
+  - name: Ecore Tools (Docgen)
     link: https://github.com/opencaesar/ecore-tools/
-  - name: OWL Adapter
+  - name: OWL Adapter (oml2owl)
     link: https://github.com/opencaesar/owl-adapter/
-  - name: Ecore Adapter
+  - name: Ecore Adapter (ecore2oml)
     link: https://github.com/opencaesar/ecore-adapter/

@@ -3,11 +3,11 @@
   link: /community
 - name: Blog
   link: /blog
+- name: Contributors
+  link: /contributors
 - name: Projects
   link: /project
 - name: Papers
   link: /paper
-- name: Contributors
-  link: /contributors
-- name: Download
-  link: /download
+- name: Tutorials
+  link: /tutorials
