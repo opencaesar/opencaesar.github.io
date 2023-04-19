@@ -1,10 +1,10 @@
 # Name should not exceed 20 character
 - name: Community
   link: /community
-- name: Blog
-  link: /blog
 - name: Contributors
   link: /contributors
+- name: Blog
+  link: /blog
 - name: Projects
   link: /projects
 - name: Papers
