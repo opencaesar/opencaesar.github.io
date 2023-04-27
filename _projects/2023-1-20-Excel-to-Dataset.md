@@ -24,4 +24,4 @@ Microsoft Excel, which is used by a lot of engineers around the world, can be us
 
 Click on the video below to see a demo:
 
-<iframe id="demo" width="420" style="border:1px solid black" height="315" src="http://www.youtube.com/embed/469cE5LRRbc" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html id="469cE5LRRbc" %}
