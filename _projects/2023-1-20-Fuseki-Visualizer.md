@@ -28,4 +28,4 @@ Triple stores allow inspecting datasets via queries but the results are often sh
 
 Click on the video below to see a demo:
 
-<iframe id="demo" width="420" style="border:1px solid black" height="315" src="http://www.youtube.com/embed/jMp2yopY" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html id="jMp2yopY" %}

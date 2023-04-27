@@ -35,4 +35,4 @@ Our chatbot enables any user regardless of technical background to query specifi
 
 Click on the video below to see a demo:
 
-<iframe id="demo" width="420" style="border:1px solid black" height="315" src="http://www.youtube.com/embed/3c3Zdwbebbo" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html id="3c3Zdwbebbo" %}

@@ -37,5 +37,4 @@ One of the primary features of the extension is to enable users to visualize the
 
 Click on the video below to see a demo:
 
-<iframe id="demo" width="420" style="border:1px solid black" height="315" src="http://www.youtube.com/embed/iWXTjC5SzmY" frameborder="0" allowfullscreen></iframe>
-
+{% include youtube.html id="iWXTjC5SzmY" %}
