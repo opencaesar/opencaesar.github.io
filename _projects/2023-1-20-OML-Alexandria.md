@@ -5,7 +5,7 @@ author: "Maged Elaasar"
 author_image: maged.png
 tag: [OML]
 categories: [IMCE]
-current: true
+current: false
 image:
   feature: omlalexandria.png
   credit: https://worldvectorlogo.com/zh/logo/alexandria
