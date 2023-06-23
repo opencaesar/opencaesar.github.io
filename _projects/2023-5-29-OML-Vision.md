@@ -13,21 +13,24 @@ image:
 
 ## Project Summary
 
-The OML Vision project aims to provide engineers with a web-based, user-friendly application that will allow users to interact with the OML language through a Visual Studio Code extension which exposes tables and forms within VSCode.  The VSCode extension can be installed on any desktop or web-based instance of Visual Studio Code such as VSCode running in Gitpod or Github Codespaces.
+The OML Vision project aims to develop a Visual Studio (VS) Code extension that provides modern user-friendly customizable webviews to edit OML files with. The extension can be installed on any VS Code IDE (Desktop, Codespaces, Gitpod, etc).
 
-Our primary objective is to transition the existing eclipse-based desktop application, OML Rosetta, into a VSCode extension that can be deployed on a desktop or the web through Gitpod of Github Codespaces. This project's goal is to produce a cost estimate for the complete implementation while concurrently striving to complete the application. The development team will focus on designing a comprehensive user interface (UI) that streamlines the use of the OML language. This interface will query data to and from a backend API via a service layer, separate from the frontend VS Code plugin. Beyond simply reimplementing the existing application's functionality, the project aims to find ways to improve the presentation of information via a tabular UI and form-based UI subviews.
+Our goal is to develop table-based and form-based (property sheet) views that are comparable to ones available in the Eclipse-based OML Roseeta IDE but using modern web-based UI frameworks. Our objective is to develop a prototype to assess the cost of a full implementation, but we will strive to complete the implementation in the project's timeframe.
 
-Ultimately, the project seeks to reimagine how engineers interact with the OML language by abstracting its complexities behind a more accessible and user-friendly web-based interface.  This approach will empower engineers to effectively utilize the robust capabilities of OML for systems modeling without needing to master every detail of the language. By enhancing the user experience, IMCE customers, sponsors, and stakeholders will be incentivized to fund the completion and broader adoption of OML Vision.
+Our extension's architecture consists of a backend and a frontend. The backend loads OML files, exposes SPARQL query/update endpoints, provide wrapper Typescript APIs, supports incremental reasoning on update, and saves the updated OML files. The frontend provides (table, form) webviews developed using React.js that uses the provided APIs to query/update the OML data and can be customized using configuration files.
+
+Ultimately, the project seeks to reimagine how system modelers interact with OML by abstracting its complexities behind a more accessible and user-friendly web-based interface.  This approach will empower users to effectively utilize the robust capabilities of OML for systems modeling without needing to master every detail of the language. By enhancing the user experience, we hope to encourage a broader adoption of OML.
 
 ### Namesake Origin
-https://www.futureengineers.org/nametherover/gallery/23269
+
+<https://www.futureengineers.org/nametherover/gallery/23269/>
 
 ## Project Team
 
 - [Maged Elaasar, Ph.D (Mentor)](https://www.opencaesar.io/contributors/Maged%20Elaasar.html)
 - [David Wagner (Mentor)](https://www.opencaesar.io/contributors/David%20Wagner.html)
 - [Aaron Levitt (Software Systems Engineer)](https://www.opencaesar.io/contributors/Aaron%20Levitt.html)
-- Aaron Minkov (Intern, UCLA)
-- Richie Raymond Wong (Intern, CalPoly Pomona)
+- [Aaron Minkov (Intern, UCLA)](https://www.linkedin.com/in/aaronminkov)
+- [Richie Raymond Wong (Intern, CalPoly Pomona)](https://www.linkedin.com/in/raymond-exe)
 
 ---
