@@ -603,7 +603,6 @@ div#content blockquote blockquote{
   }
 
   pre code {
-    background-color: unset;
     border: unset;
     display: block;
     padding: 20px;    
