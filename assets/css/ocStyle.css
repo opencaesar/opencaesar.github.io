@@ -603,8 +603,8 @@ div#content blockquote blockquote{
   }
 
   pre code {
-    background-color: #eee;
-    border: 1px solid #999;
+    background-color: unset;
+    border: 1px solid unset;
     display: block;
     padding: 20px;    
   }
