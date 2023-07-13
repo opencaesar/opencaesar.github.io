@@ -604,7 +604,7 @@ div#content blockquote blockquote{
 
   pre code {
     background-color: unset;
-    border: 1px solid unset;
+    border: unset;
     display: block;
     padding: 20px;    
   }
