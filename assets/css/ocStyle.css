@@ -600,11 +600,15 @@ div#content blockquote blockquote{
 
   pre {
     overflow-x: auto;
+    background-color: #e9ecef;
+    border: 1px solid #999;
   }
+  pre {
+}
 
   pre code {
-    background-color: #eee;
-    border: 1px solid #999;
+    background-color: unset;
+    border: unset;
     display: block;
     padding: 20px;    
   }
