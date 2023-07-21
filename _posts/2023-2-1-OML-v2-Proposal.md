@@ -13,7 +13,7 @@ image:
 
 ## Summary
 
-The openCAESAR team is currently planning on a major revision (v2) of OML that will include:
+The openCAESAR team is currently planning a major revision (v2) of OML that will feature:
 
 #### Syntax Simplifications
 
