@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "OML v2"
+title: "OML v2 Proposal"
 author: "Maged Elaasar"
 author_image: maged.png
 tag: [OML]
