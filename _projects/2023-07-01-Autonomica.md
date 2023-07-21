@@ -17,7 +17,7 @@ The goals of this project is to develop a rigorous method and toolset for archit
 
 ## Team
 
-- Dr [Maged Elaasar](maged.e.elaasar@jpl.nasa.gov) (JPL)- PI
+- Dr [Maged Elaasar](maged.e.elaasar@jpl.nasa.gov) (JPL) - PI
 - Dr [Nicolas Rouquette](nicolas.f.rouquette@jpl.nasa.gov) (JPL)
 - Dr [Klaus Havelund](klaus.havelund@jpl.nasa.gov) (JPL)
 - Dr [Martin Feather](martin.s.feather@jpl.nasa.gov) (JPL)
