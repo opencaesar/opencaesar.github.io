@@ -13,7 +13,7 @@ image:
 
 ## Summary
 
-The goals of this project is to develop a rigorous method and toolset for architecting multi-disciplinary (e.g., GN&C, power) autonomous system behavior that can be efficiently implemented, analyzed, and tested (using simulations). The methdology adopts the [State Analysis](https://mds.jpl.nasa.gov/public/sa/) arc hitectural pattern from JPL and formalizes it in [OML](http://www.opencaesar.io/oml/).
+The goals of this project is to develop a rigorous method and toolset for architecting multi-disciplinary (e.g., GN&C, power) autonomous system behavior that can be efficiently implemented, analyzed, and tested (using simulations). The methdology adopts the [State Analysis](https://mds.jpl.nasa.gov/public/sa/) architectural pattern from JPL and formalizes it in [OML](http://www.opencaesar.io/oml/).
 
 ## Team
 
