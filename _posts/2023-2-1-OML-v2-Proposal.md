@@ -15,6 +15,8 @@ image:
 
 The openCAESAR team is currently planning a major revision (v2) of OML that will feature:
 
+>Note: you can read about the OML v2 release in May 2023 [here]](https://www.opencaesar.io/projects/2023-7-21-OML-v2.html).
+
 #### Syntax Simplifications
 
 Changes to the OML abstract syntax and its Java API that does not impact the textual syntax:
