@@ -175,4 +175,4 @@ Features under consideration that we appreciate your feedback on.
     ]
     ```
 
-Please provide your feedback to [Maged Elaasar](https://opencaesar.github.io/contributors/Maged%20Elaasar.html) directly, or by commenting on this community [discussion](https://github.com/opencaesar/community/discussions/2).
+Please provide your feedback by posting a [discussion](https://github.com/opencaesar/community/discussions/2) thread, or by contacting [Maged Elaasar](https://opencaesar.github.io/contributors/Maged%20Elaasar.html) directly.
