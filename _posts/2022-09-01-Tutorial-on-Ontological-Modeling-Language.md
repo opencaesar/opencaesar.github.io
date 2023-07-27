@@ -4,7 +4,7 @@ title: "Tutorial on Ontological Modeling Language"
 author: "Maged Elaasar"
 author_image: maged.png
 tag: [MBSE, IMCE, CAESAR]
-categories: [CAESAR]
+categories: [blog]
 image:
   feature: oml.png
   credit: openCAESAR Project

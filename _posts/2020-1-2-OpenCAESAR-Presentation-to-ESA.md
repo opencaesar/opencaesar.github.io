@@ -4,7 +4,7 @@ title: "Presentation to ESA on openCAESAR"
 author: "Maged Elaasar"
 author_image: maged.png
 tag: [MBSE, IMCE, CAESAR, OML]
-categories: [IMCE]
+categories: [blog]
 image:
   feature: esa.png
   credit: European Space Agency

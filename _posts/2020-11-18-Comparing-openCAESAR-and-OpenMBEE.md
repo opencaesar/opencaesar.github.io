@@ -4,7 +4,7 @@ title: "Comparison Between openCAESAR and OpenMBEE"
 author: "Maged Elaasar"
 author_image: maged.png
 tag: [MBSE, IMCE, CAESAR, OML, ASCEND]
-categories: [IMCE]
+categories: [blog]
 image:
   feature: ascend2020.jpg
   credit: https://ascend2020.ascend.events/event/member/689666

@@ -4,7 +4,7 @@ title: "Ontology PSIG: Ontological Modeling and Analysis with openCAESAR"
 author: "Maged Elaasar"
 author_image: maged.png
 tag: [MBSE, IMCE, CAESAR]
-categories: [CAESAR]
+categories: [blog]
 image:
   feature: OMG-logo-web-sm.png
   credit: SiriusCon 2022

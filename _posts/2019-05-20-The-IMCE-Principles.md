@@ -4,7 +4,7 @@ title: "The IMCE Principles"
 author: "Steve Jenkins"
 author_image: stevej.png
 tag: [MBSE, IMCE, CAESAR]
-categories: [IMCE]
+categories: [blog]
 image:
   feature: jpl.png
   credit: Jet Propulsion Laboratory

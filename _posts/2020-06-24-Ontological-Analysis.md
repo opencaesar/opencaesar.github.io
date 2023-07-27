@@ -4,7 +4,7 @@ title: "What is Ontological Analysis?"
 author: "David Wagner, Maged Elaasar"
 author_image: wagner.jpg
 tag: [MBSE, IMCE, CAESAR, ONTOLOGY]
-categories: [IMCE]
+categories: [blog]
 image:
   feature: jpl.png
   credit: Jet Propulsion Laboratory

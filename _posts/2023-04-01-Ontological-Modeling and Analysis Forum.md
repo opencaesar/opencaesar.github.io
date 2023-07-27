@@ -4,7 +4,7 @@ title: "Ontological Modeling and Analysis Forum"
 author: "Maged Elaasar"
 author_image: maged.png
 tag: [Ontology, openCAESAR]
-categories: [openCAESAR]
+categories: [blog]
 image:
   feature: nexus.png
   credit: openCAESAR Project

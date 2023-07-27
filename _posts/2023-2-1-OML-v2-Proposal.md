@@ -4,7 +4,7 @@ title: "OML v2 Proposal"
 author: "Maged Elaasar"
 author_image: maged.png
 tag: [OML]
-categories: [IMCE]
+categories: [blog]
 current: true
 image:
   feature: oml.png

@@ -4,7 +4,7 @@ title: "Defining Viewpoints for Ontology-Based DSLs"
 author: "Maged Elaasar"
 author_image: maged.png
 tag: [MBSE, IMCE, CAESAR]
-categories: [CAESAR]
+categories: [blog]
 image:
   feature: siriuscon_2022.jpeg
   credit: SiriusCon 2022
