@@ -27,9 +27,9 @@ Ultimately, the project seeks to reimagine how system modelers interact with OML
 
 ## Project Team
 
-- [Maged Elaasar, Ph.D (Mentor)](https://www.opencaesar.io/contributors/Maged%20Elaasar.html)
-- [David Wagner (Mentor)](https://www.opencaesar.io/contributors/David%20Wagner.html)
-- [Aaron Levitt (Software Systems Engineer)](https://www.opencaesar.io/contributors/Aaron%20Levitt.html)
+- [Maged Elaasar, Ph.D (Mentor)](/contributors/Maged%20Elaasar.html)
+- [David Wagner (Mentor)](/contributors/David%20Wagner.html)
+- [Aaron Levitt (Software Systems Engineer)](/contributors/Aaron%20Levitt.html)
 - [Aaron Minkov (Intern, UCLA)](https://www.linkedin.com/in/aaronminkov)
 - [Richie Raymond Wong (Intern, CalPoly Pomona)](https://www.linkedin.com/in/raymond-exe)
 
