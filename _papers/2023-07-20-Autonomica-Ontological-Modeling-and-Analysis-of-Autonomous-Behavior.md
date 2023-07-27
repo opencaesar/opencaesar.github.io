@@ -6,7 +6,7 @@ author_image: maged.png
 tag: [openCAESAR, OML, Autonomy]
 categories: [MBSE]
 image:
-  feature: Autonnomica.png
+  feature: Autonomica.png
   credit: Jet Propulsion Laboratory, Calfornia Institute of Technology
 ---
 > Elaasar, M., Rouquette, N., Havelund, K., Feather, M., Bandyopadhyay, S., Candela, A., "Autonomica: Ontological Modeling and Analysis of Autonomous Behavior", Proceedings of INCOSE IS 2023, Honolulu, Hawaii, July, 2023.
