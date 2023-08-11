@@ -17,7 +17,7 @@ The OML Vision project aims to develop a Visual Studio (VS) Code extension that 
 
 Our goal is to develop table-based and form-based (property sheet) views that are comparable to ones available in the Eclipse-based OML Roseeta IDE but using modern web-based UI frameworks. Our objective is to develop a prototype to assess the cost of a full implementation, but we will strive to complete the implementation in the project's timeframe.
 
-Our extension's architecture consists of a backend and a frontend. The backend loads OML files, exposes SPARQL query/update endpoints, provide wrapper Typescript APIs, supports incremental reasoning on update, and saves the updated OML files. The frontend provides (table, form) webviews developed using React.js that uses the provided APIs to query/update the OML data and can be customized using configuration files.
+Our extension's architecture consists of a backend and a frontend. The backend loads OML files, exposes SPARQL query/update endpoints, provide wrapper Typescript APIs, supports incremental reasoning on update, and saves the updated OML files. The frontend provides (table, diagram, treem, form) webviews developed using React.js that uses the provided APIs to query/update the OML data and can be customized using configuration files.
 
 Ultimately, the project seeks to reimagine how system modelers interact with OML by abstracting its complexities behind a more accessible and user-friendly web-based interface.  This approach will empower users to effectively utilize the robust capabilities of OML for systems modeling without needing to master every detail of the language. By enhancing the user experience, we hope to encourage a broader adoption of OML.
 
