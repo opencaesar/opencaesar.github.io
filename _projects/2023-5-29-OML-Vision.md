@@ -35,4 +35,4 @@ Ultimately, the project seeks to reimagine how system modelers interact with OML
 
 ## Sponsors
 
-[![JPL](/assets/img/jpl-logo.png)](https://www.jpl.nasa.gov/)
+[<img width="400" src="https://www.opencaesar.io/assets/img/jpl-logo.png"/>](https://www.jpl.nasa.gov/)

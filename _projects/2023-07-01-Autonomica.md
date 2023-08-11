@@ -30,4 +30,4 @@ The goals of this project is to develop a rigorous method and toolset for archit
 
 ## Sponsors
 
-[![JPL](/assets/img/jpl-logo.png)](https://www.jpl.nasa.gov/)
+[<img width="400" src="https://www.opencaesar.io/assets/img/jpl-logo.png"/>](https://www.jpl.nasa.gov/)

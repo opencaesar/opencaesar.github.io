@@ -24,4 +24,4 @@ If you like to contribute to, provide feedback on, enquire about, or sponsor thi
 
 ## Sponsors
 
-[![JPL](/assets/img/jpl-logo.png)](https://www.jpl.nasa.gov/)
+[<img width="400" src="https://www.opencaesar.io/assets/img/jpl-logo.png"/>](https://www.jpl.nasa.gov/)
