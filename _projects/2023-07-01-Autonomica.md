@@ -27,3 +27,7 @@ The goals of this project is to develop a rigorous method and toolset for archit
 ## Publications
 
 - [Elaasar, M., Rouquette, N., Havelund, K., Feather, M., Bandyopadhyay, S., Candela, A., "Autonomica: Ontological Modeling and Analysis of Autonomous Behavior", Proceedings of INCOSE IS 2023, Honolulu, Hawaii, July, 2023.](/papers/2023-07-20-Autonomica-Ontological-Modeling-and-Analysis-of-Autonomous-Behavior.html)
+
+## Sponsors
+
+[![JPL](/assets/img/jpl-logo.png)](https://www.jpl.nasa.gov/)

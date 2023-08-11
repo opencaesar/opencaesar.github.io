@@ -34,3 +34,7 @@ Click on the Slideshow button below to see a presentation with demos:
   <iframe src="https://docs.google.com/presentation/d/154OgqLC_zEqtdFAmmNy-m42jGNd_ENqlh1-FhWpkt_k/edit?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <!-- Google embed ends -->
 </div>
+
+## Sponsors
+
+[![Modelware](/assets/img/modelware.png)](https://modelware.io/)

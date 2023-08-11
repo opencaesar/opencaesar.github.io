@@ -33,4 +33,6 @@ Ultimately, the project seeks to reimagine how system modelers interact with OML
 - [Aaron Minkov (Intern, UCLA)](https://www.linkedin.com/in/aaronminkov)
 - [Richie Raymond Wong (Intern, CalPoly Pomona)](https://www.linkedin.com/in/raymond-exe)
 
----
+## Sponsors
+
+[![JPL](/assets/img/jpl-logo.png)](https://www.jpl.nasa.gov/)

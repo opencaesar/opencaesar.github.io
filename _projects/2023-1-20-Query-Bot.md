@@ -36,3 +36,7 @@ Our chatbot enables any user regardless of technical background to query specifi
 Click on the video below to see a demo:
 
 {% include youtube.html id="3c3Zdwbebbo" %}
+
+## Sponsors
+
+[![Modelware](/assets/img/modelware.png)](https://modelware.io/)

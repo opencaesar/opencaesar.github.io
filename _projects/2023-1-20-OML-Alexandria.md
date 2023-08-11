@@ -38,3 +38,7 @@ One of the primary features of the extension is to enable users to visualize the
 Click on the video below to see a demo:
 
 {% include youtube.html id="iWXTjC5SzmY" %}
+
+## Sponsors
+
+[![Modelware](/assets/img/modelware.png)](https://modelware.io/)

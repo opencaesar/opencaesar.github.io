@@ -25,3 +25,7 @@ Microsoft Excel, which is used by a lot of engineers around the world, can be us
 Click on the video below to see a demo:
 
 {% include youtube.html id="469cE5LRRbc" %}
+
+## Sponsors
+
+[![Modelware](/assets/img/modelware.png)](https://modelware.io/)

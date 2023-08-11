@@ -21,3 +21,7 @@ This project is a case study that aims to develop a methodology for functional d
 - Mentor: Maged Elaasar
 
 If you like to contribute to, provide feedback on, enquire about, or sponsor this project, please contact [Maged Elaasar](https://opencaesar.github.io/contributors/Maged%20Elaasar.html).
+
+## Sponsors
+
+[![JPL](/assets/img/jpl-logo.png)](https://www.jpl.nasa.gov/)

@@ -29,3 +29,7 @@ Triple stores allow inspecting datasets via queries but the results are often sh
 Click on the video below to see a demo:
 
 {% include youtube.html id="rs-jMp2yopY" %}
+
+## Sponsors
+
+[![Modelware](/assets/img/modelware.png)](https://modelware.io/)
