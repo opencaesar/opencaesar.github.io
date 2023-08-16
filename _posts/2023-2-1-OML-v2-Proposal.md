@@ -123,8 +123,8 @@ New features to add to the expressivity of OML abstract syntax (and textual synt
     ]
 
     aspect A = B & C & D [
-        restricts scalar property p1 to max 1
-        restricts scalar property p2 to exatly 5 P
+        restricts p1 to max 1
+        restricts p2 to exatly 5 P
     ]
 
     concept Z [
