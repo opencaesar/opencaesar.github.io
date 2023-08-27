@@ -16,27 +16,27 @@ Welcome to a mind-boggling journey through the tangled web of the KerML and SysM
 
 ## The Cast of Characters
 
-Our story unfolds with an ensemble of metaclasses: LiteralBoolean, LiteralExpression, Expression, Step, Feature, Behavior, Class, and Classifier. These players each have their roles to play, but oh boy, do they take us for a wild ride.
+Our story unfolds with an ensemble of metaclasses: `LiteralBoolean`, `LiteralExpression`, `Expression`, `Step`, `Feature`, `Behavior`, `Class`, and `Classifier`. These players each have their roles to play, but oh boy, do they take us for a wild ride.
 
 ## The Class Hierarchy Cha-Cha
 
-At the heart of this metamodel is a dance of inheritance that rivals even the most intricate tango. LiteralBoolean struts its stuff as a subclass of LiteralExpression. Following suit, LiteralExpression sashays into the realm of Expression, which waltzes right into Step, and finally, Feature takes the stage.
+At the heart of this metamodel is a dance of inheritance that rivals even the most intricate tango. `LiteralBoolean` struts its stuff as a subclass of `LiteralExpression`. Following suit, `LiteralExpression` sashays into the realm of `Expression`, which waltzes right into `Step`, and finally, `Feature` takes the stage.
 
 ## The Disjoint Dilemma
 
-In a twist worthy of a daytime soap opera, Behavior decides to crash the party, subclassing Class and transitively Classifier. But, oh dear, we have a little feud on our hands! You see, concrete metaclass Classifier being unrelated to concrete metaclass Expression by a common subclass is grounds to infer the pair as "disjoint" by a special algorithm in OML (bundle closure algorithm). Drama alert! Expression and Behavior are now mortal enemies.
+In a twist worthy of a daytime soap opera, `Behavior` decides to crash the party, subclassing `Class` and transitively `Classifier`. But, oh dear, we have a little feud on our hands! You see, concrete metaclass `Classifier` being unrelated to concrete metaclass `Expression` by a common subclass is grounds to infer the pair as "disjoint" by a special algorithm in OML (bundle closure algorithm). Drama alert! `Expression` and `Behavior` are now mortal enemies.
 
 ## The Property Puzzle
 
-Just when you think things couldn't get any juicier, enter the property relations. Expression is linked to Feature through the property "result," with a strict cardinality of exactly 1. Not only that, but the "result" property is a subproperty of (subsets) the "template" property. The "template" property is like the overbearing parent, with Behavior as the domain and Feature as the range.
+Just when you think things couldn't get any juicier, enter the property relations. `Expression` is linked to `Feature` through the property `result`, with a strict cardinality of exactly 1. Not only that, but the `result` property is a subproperty of (subsets) the `template` property. The `template` property is like the overbearing parent, with `Behavior` as the domain and `Feature` as the range.
 
 ## The Conundrum Unveiled
 
-Here's where it gets interesting, folks. Every instance of Expression is now a puppet dancing on the strings of "result." With the strict cardinality, Expression must have a result. And guess what? A result means a parameter is a must. Expression is suddenly wearing the Behavior hat (every Expression is also a Behavior - the *inferred* red inheritance arrow in the classs diagram above), but alas, Expression and Behavior are sworn enemies (remember the disjointness revelation above?) This means Expression's life is a lie, and the jig is up!
+Here's where it gets interesting, folks. Every instance of `Expression` is now a puppet dancing on the strings of `result`. With the strict cardinality, `Expression` must have a `result`. And guess what? A `result` means a `parameter` is a must too. `Expression` is suddenly wearing the `Behavior` hat (every `Expression` is also a `Behavior` - the *inferred* <span style="color: red">red</span> inheritance arrow in the classs diagram above), but alas, `Expression` and `Behavior` are sworn enemies (remember the disjointness revelation above?) This means `Expression`'s life is a lie, and the jig is up!
 
 ## The Unholy Union
 
-With Expression now pulled between two worlds, the metamodel is screaming in agony. The house of cards collapses, and both Expression and Behavior become unsatisfiable. Oh, the tragedy! LiteralBoolean, who had a front-row seat to this madness (being a subclass of Expression), also joins the unsatisfiable club.
+With `Expression` now pulled between two worlds, the metamodel is screaming in agony. The house of cards collapses, and both `Expression` and `Behavior` become unsatisfiable. Oh, the tragedy! `LiteralBoolean`, who had a front-row seat to this madness (being a subclass of `Expression`), also joins the unsatisfiable club.
 
 ## Conclusion
 
