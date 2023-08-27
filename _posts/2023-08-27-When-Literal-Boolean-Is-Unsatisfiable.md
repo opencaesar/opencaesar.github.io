@@ -12,7 +12,7 @@ image:
 
 ## Introduction
 
-Welcome to a mind-boggling journey through the tangled web of the KerML and SysML v2 metamodels. Buckle up as we delve into the intricacies of class relationships and constraints. Embark on an exhilarating expedition where the remarkable prowess of [OML](http://www.opencaesar.io/oml/) and its Description Logic (DL) reasoning brings to light a breathtaking revelation that class LiteralBoolean is unsatisfiable! Huh, isn't this the simplest metaclass in the metamodel? Prepare to be amused, bemused, and utterly confused.
+Welcome to a mind-boggling journey through the tangled web of the KerML and SysML v2 metamodels. Buckle up as we delve into the intricacies of class relationships and constraints. Embark on an exhilarating expedition where the remarkable prowess of [OML](http://www.opencaesar.io/oml/) and its Description Logic (DL) reasoning brings to light a breathtaking revelation that class `LiteralBoolean` is unsatisfiable! Huh, isn't this the simplest metaclass in the metamodel? Prepare to be amused, bemused, and utterly confused.
 
 ## The Cast of Characters
 
