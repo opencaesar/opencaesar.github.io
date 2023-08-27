@@ -46,6 +46,6 @@ In this gripping saga of interconnected classes and hidden conflicts, DL reasoni
 
 [KerML-155](https://issues.omg.org/issues/KERML-155)
 
-## Relevant Project
+## Context Project
 
 [OML Implementation of SysML v2](https://www.opencaesar.io/projects/2023-8-11-SysML-v2.html)
