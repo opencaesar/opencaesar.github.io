@@ -34,7 +34,7 @@ Just when you think things couldn't get any juicier, enter the property relation
 
 Here's where it gets interesting, folks. Every instance of Expression is now a puppet dancing on the strings of "result." With the strict cardinality, Expression must have a result. And guess what? A result means a parameter is a must. Expression is suddenly wearing the Behavior hat (every Expression is also a Behavior - the *inferred* red inheritance arrow in the classs diagram above), but alas, Expression and Behavior are sworn enemies (remember the disjointness revelation above?) This means Expression's life is a lie, and the jig is up!
 
-## he Unholy Union
+## The Unholy Union
 
 With Expression now pulled between two worlds, the metamodel is screaming in agony. The house of cards collapses, and both Expression and Behavior become unsatisfiable. Oh, the tragedy! LiteralBoolean, who had a front-row seat to this madness (being a subclass of Expression), also joins the unsatisfiable club.
 
