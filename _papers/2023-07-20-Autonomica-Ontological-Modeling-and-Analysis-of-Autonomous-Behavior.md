@@ -9,7 +9,7 @@ image:
   feature: Autonomica.png
   credit: Jet Propulsion Laboratory, Calfornia Institute of Technology
 ---
-> Elaasar, M., Rouquette, N., Havelund, K., Feather, M., Bandyopadhyay, S., Candela, A., "Autonomica: Ontological Modeling and Analysis of Autonomous Behavior", Proceedings of INCOSE IS 2023, Honolulu, Hawaii, July, 2023.
+> [Elaasar, M., Rouquette, N., Havelund, K., Feather, M., Bandyopadhyay, S., Candela, A., "Autonomica: Ontological Modeling and Analysis of Autonomous Behavior", Proceedings of INCOSE IS 2023, Honolulu, Hawaii, July, 2023.](https://incose.onlinelibrary.wiley.com/doi/10.1002/iis2.13099)
 
 ## Abstract 
 
@@ -17,4 +17,4 @@ Model-based system autonomy is a complex integration of planning of low-level co
 
 ## Project
 
-This paper is a result of the [Autonomica](/projects/2023-07-01-Autonomica.html) project.
+This paper is a product of the [Autonomica](/projects/2023-07-01-Autonomica.html) project.
