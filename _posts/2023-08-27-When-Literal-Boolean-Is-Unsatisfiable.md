@@ -3,7 +3,7 @@ layout: post
 title: "When Literal Boolean Is Unsatisfiable"
 author: "Maged Elaasar"
 author_image: maged.png
-tag: [Ontology, openCAESAR]
+tag: [Ontology, openCAESAR, OML, KerML, SysML]
 categories: [blog]
 image:
   feature: unsatisfiable-literal-boolean.png
