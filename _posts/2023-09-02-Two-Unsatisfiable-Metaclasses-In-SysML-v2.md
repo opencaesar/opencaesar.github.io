@@ -26,7 +26,7 @@ In this case, we can observe a portion of the inheritance hierarchy for the meta
 
 ![RequirementUsage](http://www.plantuml.com/plantuml/png/VP31IWGn38RlVOemdlVW2opBYbuLnTjUOkTtjpAJZaagWlhkZbI7eQB7VFdeHxCpP_Ko3c70evDdqdGyEVL94Jrb2U4MpsMUHeZV6nz1cytxbYwoc2kdRnYQkKhNCHPLICG_qZxd0IoNhvF2x2lvYrHnPRIhEySKcbhTrF0AN86zA4BOuyGlAUkCjzGTP6Bb4Gxj5gVzUbMjF3mX-isFJ-S7eRUP6jneUUQZg_6_BhZqpnHzs47wCWwV)
 
-The situation with metaclass `RequirementUsage` closely parallels that of metaclass `CaseUsage` above. The issue is that  the property `RequirementUsage::subjectParameter` subsets `Behavior::parameter` without `RequirementUsage` subclassing `Behavior`. The fix is also to switch the subsetting from `Behavior::parameter` to `Step::parameter` since `Step` is a transitive supertype of metaclass `RequirementUsage`. Again, another simple oversight that can hard to detect but easy to fix.
+The situation with metaclass `RequirementUsage` closely parallels that of metaclass `CaseUsage` above. The issue is that  the property `RequirementUsage::subjectParameter` subsets `Behavior::parameter` without `RequirementUsage` subclassing `Behavior`. The fix is also to switch the subsetting from `Behavior::parameter` to `Step::parameter` since `Step` is a transitive supertype of metaclass `RequirementUsage`. Again, another simple oversight that can be hard to detect but easy to fix.
 
 ## Conclusion
 
