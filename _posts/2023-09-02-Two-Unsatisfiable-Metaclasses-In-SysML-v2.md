@@ -30,7 +30,7 @@ The situation with metaclass `RequirementUsage` closely parallels that of metacl
 
 ## Conclusion
 
-Using a Description Logic (DL) reasoner can lead to enlightening discoveries in ontologies. As we author and maintain complex vocabularies like SysML v2, having such an analytical tool becomes a huge asset. This is due to its ability to discover inconsistencies without explicitly writing audit rules. Stay tuned for further insights and updates as we work towards a consistent vocabulary for SysML v2.
+Using a Description Logic (DL) reasoner can lead to enlightening discoveries in ontologies. As we author and maintain complex vocabularies like SysML v2, having such an analytical tool becomes an asset. This is due to its ability to discover inconsistencies without explicitly writing audit rules. Stay tuned for further insights and updates as we work towards a consistent vocabulary for SysML v2.
 
 ## Reported Issue
 
