@@ -18,13 +18,13 @@ Before delving further into these findings, let's clarify what an unsatisfiable 
 
 ## Case 1: Metaclass CaseUsage
 
-![CaseUsage](http://www.plantuml.com/plantuml/png/NO-nZeCm38PtFuN5pGpt0WWEwUPALJSMDxYGAWJaE5tQldkXKLE99LA-_xFykmvAed5ouFYYg3EA7KR5tWeRjRC7Q2dmAT30M9QF2bjo9ZhQiZU5FKXQOxv6OtRXKNc1xKdVVoQDmW1_FDBDphBY2elEBoGqiR8KsSbjaXFY-Sf63nyHVpkFzvK6re1v_bbWghA_9c_y4Uu1QlPzdDmB)
+![CaseUsage](http://www.plantuml.com/plantuml/png/TO-nReCm48RtUueJdHcwCY1QfCwLgcuiLtC5HyQWypbBadSFnCAHaB9OzlT_jlzhWf9ed1mu_bVK6SKEes9lXOtQsGEq5FWtqC1ObjSQMt8cEjgo1uKZIDg7UHhxFeS_oWjiIpf-CMaK1lZaaSvsbXNNM7H-8Q69bQN8JhhrCivbanFYtucDVkyYldSUBoiDh07txwegltGhC7K-ZfshlGdtqB3lu-Jk)
 
 In this case, we can observe a portion of the inheritance hierarchy for the metaclass `CaseUsage`, illustrated by the solid black inheritance arrows that trace all the way to metaclass `Feature`. Additionally, metaclass `CaseUsage` has property `CaseUsage::subjectParameter`, which is of type `Usage` and subsets property `Behavior::parameter`. However, this subsetting introduces an unintended constraint: it necessitates that every instance of `CaseUsage` must also be typed by `Behavior` (indicated by the red inheritance arrow). Regrettably, since these two metaclasses lack a shared subclass, they are further declared as disjoint due to OML's bundle closure algorithm. Consequently, this leads to a contradiction for every instance of metaclass `CaseUsage`, rendering the class unsatisfiable. This bug is likely an oversight and fortunately has a simple fix, which is to change the subsetted property to `Step::parameter` since metaclass `Step` is already a supertypes of `CaseUsage`.
 
 ## Case 2: Metaclass RequirementUsage
 
-![RequirementUsage](http://www.plantuml.com/plantuml/png/VP31IWGn38RlVOemdlVW2opBYbuLnTjUOkTtjpAJZaagWlhkZbI7eQB7VFdeHxCpP_Ko3c70evDdqdGyEVL94Jrb2U4MpsMUHeZV6nz1cytxbYwoc2kdRnYQkKhNCHPLICG_qZxd0IoNhvF2x2lvYrHnPRIhEySKcbhTrF0AN86zA4BOuyGlAUkCjzGTP6Bb4Gxj5gVzUbMjF3mX-isFJ-S7eRUP6jneUUQZg_6_BhZqpnHzs47wCWwV)
+![RequirementUsage](http://www.plantuml.com/plantuml/png/VP0nJyD038Nt-nLMc3kmTgYg8bX18BOkvl9e3oM-OFiG4l3VIPKcgeB8wCzV_5vkQyxgfMr2WrSdpwJfS7Igao9woXB28zvBFxKGVpO-W5QhxmtTP35NJcSOPlCWtSTOL24H2z8kvmOijv-TmkmK-OSCueKnNpqvkZ1B6pP3y0Mu0tjHXB33aJzIrXvlgDfBnyej75fDplpNHzNAonkYFunVqFLUwAkd1ZSQ3w_NqycVwbpaL7GXy9_7dgfUAUgmXTIbRNu1)
 
 The situation with metaclass `RequirementUsage` closely parallels that of metaclass `CaseUsage` above. The issue is that  the property `RequirementUsage::subjectParameter` subsets `Behavior::parameter` without `RequirementUsage` subclassing `Behavior`. The fix is also to switch the subsetting from `Behavior::parameter` to `Step::parameter` since `Step` is a transitive supertype of metaclass `RequirementUsage`. Again, another simple oversight that can be hard to detect but easy to fix.
 
