@@ -24,9 +24,9 @@ In this case, we can observe a portion of the inheritance hierarchy for the meta
 
 ## Case 2: Metaclass RequirementUsage
 
-![RequirementUsage](http://www.plantuml.com/plantuml/png/TP31gi8m44NtynL3txgBzmEbl0Tk5S5TDp6zjf4sqSd4ZVhl1e952YxloI5tPjgeHZJD4qquAMjWSSEet3k1LHSyqHxNbDCChuTe1d1TFnh-3pwg65SWQ9MBjBKsYS1R56cLYrIUFi06HfE0w0-ZkRaW6JTSTVvYnCnGIBKuw-6A6jFn3Akxjy-_dUTxfX4QUVdcMPNoRpik_J-2dgY5x_EbNW00)
+![RequirementUsage](http://www.plantuml.com/plantuml/png/VP31IWGn38RlVOemdlVW2opBYbuLnTjUOkTtjpAJZaagWlhkZbI7eQB7VFdeHxCpP_Ko3c70evDdqdGyEVL94Jrb2U4MpsMUHeZV6nz1cytxbYwoc2kdRnYQkKhNCHPLICG_qZxd0IoNhvF2x2lvYrHnPRIhEySKcbhTrF0AN86zA4BOuyGlAUkCjzGTP6Bb4Gxj5gVzUbMjF3mX-isFJ-S7eRUP6jneUUQZg_6_BhZqpnHzs47wCWwV)
 
-The situation with metaclass `RequirementUsage` closely parallels that of metaclass `CaseUsage` above, albeit with a slight difference in the fix required. Unlike the previous case, metaclass `Step` is not a transitive supertype of metaclass `RequirementUsage`. This introduces an intriguing question: should the solution involve adding `Step` as a superclass, or should it entail reconsidering  subsetting the property `Behavior::parameter`? The resolution to this dilemma lies in the hands of the SysML FTF.
+The situation with metaclass `RequirementUsage` closely parallels that of metaclass `CaseUsage` above. The issue is that  the property `RequirementUsage::subjectParameter` subsets `Behavior::parameter` without `RequirementUsage` subclassing `Behavior`. The fix is also to switch the subsetting from `Behavior::parameter` to `Step::parameter`` since `Step` is a transitive supertype of metaclass `RequirementUsage`. Again, another simple oversight that is hard to detect but easy to fix.
 
 ## Conclusion
 
@@ -34,7 +34,7 @@ Using a Description Logic (DL) reasoner can lead to enlightening discoveries in 
 
 ## Reported Issue
 
-TBD
+- [SYSML2-430](https://issues.omg.org/issues/SYSML2-430)
 
 ## Context Project
 
