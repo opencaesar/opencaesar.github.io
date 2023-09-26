@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Semantic Modeling for Power Management using CAESAR"
-author: ["David Wagner (JPL)", "Mark Chosas (JPL)", "Maged Elaasar (JPL)", "Steven Jenkins (JPL", "Nicolas Rouquette (JPL)"]
+author: ["David Wagner", "Mark Chosas", "Maged Elaasar", "Steven Jenkins", "Nicolas Rouquette"]
 author_image: wagner.jpg
 tag: [MBSE, CAESAR, Power]
 categories: [MBSE Application]

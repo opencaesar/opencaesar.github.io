@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "CAESAR Model-Based Approach to Harness Design"
-author: ["David Wagner (JPL)", "So Young Kim (JPL)", "Alejandro Jimenez (JPL)", "Maged Elaasar (JPL", "Nicolas Rouquette (JPL)", "Steven Jenkins (JPL)"]
+author: ["David Wagner", "So Young Kim", "Alejandro Jimenez", "Maged Elaasar", "Nicolas Rouquette", "Steven Jenkins"]
 author_image: wagner.jpg
 tag: [MBSE, CAESAR, Harness]
 categories: [MBSE Application]

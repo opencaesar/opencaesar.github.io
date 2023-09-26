@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "The Case for Integrated Model Centric Engineering"
-author: ["Maged Elaasar (JPL)", "Nicolas Rouquette (JPL)", "Steve Jenkins (JPL)","Sebastien Gerard (CEA-LIST)"]
+author: ["Maged Elaasar", "Nicolas Rouquette", "Steve Jenkins","Sebastien Gerard"]
 author_image: maged.png
 tag: [MBSE, OML, CAESAR]
 categories: [MBSE Methodology]

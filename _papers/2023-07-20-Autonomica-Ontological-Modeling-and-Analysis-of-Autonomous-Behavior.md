@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Autonomica: Ontological Modeling and Analysis of Autonomous Behavior"
-author: ["Maged Elaasar (JPL)", "Nicolas Rouquette (JPL)", "Klaus Havelund (JPL)", "Saptarshi Bandyodhyay (JPL)", "Alberto Garza (JPL)"]
+author: ["Maged Elaasar", "Nicolas Rouquette", "Klaus Havelund", "Saptarshi Bandyodhyay", "Alberto Garza"]
 author_image: maged.png
 tag: [openCAESAR, OML, Autonomy]
 categories: [MBSE]

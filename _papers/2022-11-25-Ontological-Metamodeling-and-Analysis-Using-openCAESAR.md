@@ -1,7 +1,7 @@
 ---
 layout: paper
 title: "Ontological Metamodeling and Analysis Using openCAESAR"
-author: ["David Wagner (JPL)", "Mark Chosas (JPL)", "Maged Elaasar (JPL)", "Steven Jenkins (JPL", "Nicolas Rouquette (JPL)"]
+author: ["David Wagner", "Mark Chosas", "Maged Elaasar", "Steven Jenkins", "Nicolas Rouquette"]
 author_image: wagner.jpg
 tag: [CAESAR, openCAESAR, OML, OWL, OWL 2 DL, Semantic modeling, Metamodeling, Ontology, Description logic]
 categories: [MBSE]

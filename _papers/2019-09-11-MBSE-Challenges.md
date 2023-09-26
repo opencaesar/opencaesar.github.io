@@ -1,8 +1,8 @@
 ---
 layout: paper
 title: "Challenges in Applying Model-Based Systems Engineering: Human-Centered Design Perspective"
-author: ["So Young Kim (JPL)", "David Wagner (JPL)", "Alejandro Jimenez (JPL)"]
-author_image: maged.png
+author: ["So Young Kim", "David Wagner", "Alejandro Jimenez"]
+author_image: soyoung.jpg
 tag: [MBSE, CAESAR, Human-Centered Design]
 categories: [MBSE Methodology]
 image:
