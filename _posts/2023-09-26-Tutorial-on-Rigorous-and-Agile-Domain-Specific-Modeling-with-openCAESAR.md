@@ -16,7 +16,7 @@ The openCAESAR project has been developed by NASA JPL to balance modeling rigor 
 
 ## Venue
 
-A tutorial session will be given on 10/1/2023 at 9:30pm at [MODELS 2023](https://conf.researchr.org/track/models-2023/models-2023-tutorials#)
+A tutorial session (T1) will be given on 10/1/2023 at 9:30pm at [MODELS 2023](https://conf.researchr.org/track/models-2023/models-2023-tutorials#)
 
 ## Tutorial Material
 
