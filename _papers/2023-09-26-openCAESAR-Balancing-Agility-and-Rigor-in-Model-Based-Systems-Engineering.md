@@ -14,3 +14,15 @@ image:
 ## Abstract 
 
 Model-Based System Engineering (MBSE) employs models and formal languages to support development of complex (systems-of-) systems. NASA Jet Propulsion Laboratory sees MBSE as a key approach to managing the complexity of system development. However, balancing agility and rigor in MBSE has been reported as a challenging task not yet addressed by modeling tools and frameworks. This is because existing MBSE approaches may enable agility but compromise rigor, or enhance rigor but impede agility. We discuss the challenges of balancing agility and rigor in MBSE across seven systems engineering architectural functions defined by the JPL Integrated Model-Centric Engineering (IMCE) initiative. We demonstrate how openCAESAR, an open-source MBSE methodology and framework created at JPL, can strike a balance between agility and rigor through a case study of the Kepler16b project and discussion of lessons learned from past projects.
+
+# Presentation
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<!-- this is the embed code provided by Google -->
+  <iframe src="https://docs.google.com/presentation/d/1aDXtn5PstuVsw3noxaJKQwK-BGTczGRe/edit?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<!-- Google embed ends -->
+</div>
+

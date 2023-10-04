@@ -18,6 +18,17 @@ The openCAESAR project has been developed by NASA JPL to balance modeling rigor 
 
 A tutorial session (T1) will be given on 10/1/2023 at 9:30pm at [MODELS 2023](https://conf.researchr.org/track/models-2023/models-2023-tutorials#)
 
-## Tutorial Material
+## Material
 
-The new OML tutorial material can be found by following this [link](http://www.opencaesar.io/oml-tutorials/) and navigating to Tutorials 3, 4, 5, and 6. If you plan to attend the tutorial session in person, it would help to do Tutorials 1 and 2 beforehand.
+[Self-paced OML Tutorials](http://www.opencaesar.io/oml-tutorials/)
+
+## Presentation
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<!-- this is the embed code provided by Google -->
+  <iframe src="https://docs.google.com/presentation/d/1fyMgkF2iIpmj8A0_BxDTZDlaAmRv7TQeKfllpeXRdF8" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<!-- Google embed ends -->
+</div>

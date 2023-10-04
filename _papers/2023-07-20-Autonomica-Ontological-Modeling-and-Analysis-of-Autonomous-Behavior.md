@@ -18,3 +18,14 @@ Model-based system autonomy is a complex integration of planning of low-level co
 ## Project
 
 This paper is a product of the [Autonomica](/projects/2023-07-01-Autonomica.html) project.
+
+# Presentation
+
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<!-- this is the embed code provided by Google -->
+  <iframe src="https://docs.google.com/presentation/d/11pp5c6YgxZLEIIrWQWfhX1sXHPRDOvoe/edit?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<!-- Google embed ends -->
+</div>
