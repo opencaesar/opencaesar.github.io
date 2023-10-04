@@ -145,7 +145,7 @@
 
                 {% if sameTagCount >= minCommonTags %}
 
-                <p class="title-oc mt-5">More from the openCAESAR Team</p>
+                <p class="title-oc mt-5">More from the openCAESAR Community</p>
 
                 {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
                 {% if maxRelatedCounter >= maxRelated %}
@@ -192,22 +192,14 @@
                         <div class="blog-auth-info">
                             <div class="card-underline mb-4"></div>
                             <div class="media">
-                                {% if post.author.size == 1%}
-                                <img src="{{post.author_image | prepend: 'assets/img/' | relative_url}}" class="mr-3"
-                                    style="width: 50px; border-radius: 2rem">
+                                <img src="{{post.author_image | prepend: 'assets/img/' | relative_url}}" class="mr-3" style="width: 50px; border-radius: 2rem">
+                                {% if post.author.size > 1%}
+                                <p class="card-auth-name mt-2">{{post.author[0]}} et al.</p>
+                                {%else%}
+                                <p class="card-auth-name mt-2">{{post.author}}</p>
                                 {%endif%}
-                                <div class="media-body">
-                                    {% if post.author.size > 1%}
-                                    {% for item in post.author%}
-                                    <p class="card-auth-name mb-0">{{item}}</p>
-                                    {%endfor%}
-                                    {%else%}
-                                    <p class="card-auth-name mt-2">{{post.author}}</p>
-                                    {%endif%}
-                                </div>
                             </div>
-                            <a href="{{post.url | relative_url}}" class="btn btn-outline-primary button-oc mt-4">Read
-                                Mores</a>
+                            <a href="{{post.url | relative_url}}" class="btn btn-outline-primary button-oc mt-4">Read Mores</a>
                         </div>
                     </div>
                 </div>
