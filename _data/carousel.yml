@@ -6,26 +6,14 @@
   readMoreUrl: https://www.linkedin.com/groups/14235207/
   buttonLable: "Join"
   slideId: 0
-- caption: "Kepler16b is a new openCAESAR example"
-  carouselImageName: banner_1.png
-  floatingImageName: kepler16b.png
-  readMoreUrl: https://www.opencaesar.io/kepler16b-example/
-  buttonLable: "Learn More"
-  slideId: 1
 - caption: "Welcome to the openCAESAR Discussions"
   carouselImageName: banner_1.png
   readMoreUrl: https://github.com/opencaesar/community/discussions
   buttonLable: "Ask Questions"
-  slideId: 2
-- caption: "Follow an OML Tutorial"
+  slideId: 1
+- caption: "New OML Tutorials in 2023!"
   carouselImageName: banner_1.png
   floatingImageName: oml.png
   readMoreUrl: http://www.opencaesar.io/oml-tutorials/
   buttonLable: "Read More"
-  slideId: 3
-- caption: OML 2.0 Specification is now available
-  carouselImageName: banner_1.png
-  floatingImageName: oml.png
-  readMoreUrl: http://www.opencaesar.io/oml/
-  buttonLable: "Read More"
-  slideId: 4
+  slideId: 2
