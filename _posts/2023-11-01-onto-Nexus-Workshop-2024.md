@@ -16,4 +16,4 @@ This is a free hybrid event but will require advance registration for in-person 
 
 We will be working on the detailed agenda but the workshop will focus on the technology and its MBSE applications. It will cover what has been accomplished so far, what is currently in progress, and what will be the future directions and challenges. This will be done through invited presentations/demos from JPL and other players (from industry and research). This will also be an opportunity to hold discussions and form collaborations. As a bonus for in-person attendance, there will be a tour of JPL given.
 
-Please feel free to [send us](mailto:elaasar@jpl.nasa.gov) your interest to attend and/ present, and any other suggestion you may have.
+Please feel free to [send us](mailto:elaasar@jpl.nasa.gov) your interest to attend and/or present along with any other suggestion.
