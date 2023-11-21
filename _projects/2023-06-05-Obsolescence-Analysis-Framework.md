@@ -28,10 +28,10 @@ This model is used to illustrate the application of the proposed model-based obs
 
 ## Team
 
-- [Sophia Salas Cordero](https://www.linkedin.com/in/sophia-salas/), Ph.D. ISAE-SUPAERO.
-- Michel Ingham, Ph.D. NASA-JPL.
-- Mark Chodas, Ph.D. NASA-JPL.
-- [Maged Elaasar](maged.e.elaasar@jpl.nasa.gov), Ph.D. NASA-JPL.
+- [Sophia Salas Cordero](https://www.linkedin.com/in/sophia-salas/), Ph.D. ISAE-SUPAERO. (PI)
+- Michel Ingham, Ph.D. NASA-JPL. (Co-I)
+- Mark Chodas, Ph.D. NASA-JPL. (Co-I)
+- [Maged Elaasar](maged.e.elaasar@jpl.nasa.gov), Ph.D. NASA-JPL. (Co-I)
 
 
 ## Sponsors
