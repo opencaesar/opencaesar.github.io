@@ -19,6 +19,8 @@ collections:
     output: true
   contributors:
     output: true
+  events:
+    output: true
 
 
 

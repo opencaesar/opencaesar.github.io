@@ -1,0 +1,45 @@
+---
+layout: base
+title: Events
+navlink: /events
+---
+
+<!--Paper Section-->
+<div class="container">
+    <!--Heading-->
+    <div class="row mt-5 mb-4">
+        <div class="col">
+            <p class="title-oc">{{page.title}}</p>
+        </div>
+    </div>
+
+    <!-- event list -->
+    <div class="row pl-1 pb-3 mb-5">
+        {% for event in site.events reversed%}
+        <div id={{forloop.index}} class="col col-sm-12 col-lg-4 pt-3 px-2">
+            <div class="card">
+                <div class="card-body blog-card-oc pt-4">
+                    <p class="blog-card-date-oc">{{event.date | date: '%B %d, %Y'}}</p>
+                    <p class="blog-card-title-oc">{{event.title}}</p>
+                    <div class="blog-auth-info">
+                        <div class="card-underline mb-4"></div>
+                        <div class="media">
+                            <img src="{{event.author_image | prepend: 'assets/img/' | relative_url}}" class="mr-3" style="width: 50px; border-radius: 2rem">
+                            <div class="media-body">
+                                {% if event.author.size > 1%}
+                                <p class="card-auth-name mt-2">{{event.author[0]}} et al.</p>
+                                {%else%}
+                                <p class="card-auth-name mt-2">{{event.author}}</p>
+                                {%endif%}
+                            </div>
+                        </div>
+                        <a href="{{event.url | relative_url}}" class="btn btn-outline-primary button-oc mt-4">Read More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <!---->
+</div>
+<!---->
