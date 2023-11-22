@@ -26,11 +26,7 @@ navlink: /events
                         <div class="media">
                             <img src="{{event.author_image | prepend: 'assets/img/' | relative_url}}" class="mr-3" style="width: 50px; border-radius: 2rem">
                             <div class="media-body">
-                                {% if event.author.size > 1%}
-                                <p class="card-auth-name mt-2">{{event.author[0]}} et al.</p>
-                                {%else%}
                                 <p class="card-auth-name mt-2">{{event.author}}</p>
-                                {%endif%}
                             </div>
                         </div>
                         <a href="{{event.url | relative_url}}" class="btn btn-outline-primary button-oc mt-4">Read More</a>
