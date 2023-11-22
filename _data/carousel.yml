@@ -2,9 +2,9 @@
 # If you include special characters (- and :) surround by ""
 - caption: "Attend onto:Nexus 2024 Workshop"
   carouselImageName: banner_1.png
-  floatingImageName: nexus.png
-  readMoreUrl: blog/2023/11/01/onto-Nexus-Workshop-2024.html
-  buttonLable: "Register"
+  floatingImageName: onto_Nexus.png
+  readMoreUrl: events/2023-11-22-onto-Nexus-Workshop-2024.html
+  buttonLable: "Read More"
   slideId: 0
 - caption: OML 2 Specification is now available	
   carouselImageName: banner_1.png	

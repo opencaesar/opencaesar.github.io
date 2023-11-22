@@ -6,8 +6,8 @@ author_image: maged.png
 tag: [MBSE, IMCE, CAESAR]
 categories: [blog]
 image:
-  feature: jpl_banner.png
-  credit: Jet Propulsion Laboratory
+  feature: onto_Nexus.png
+  credit: openCAESAR
 ---
 
 ## Hybrid Event
