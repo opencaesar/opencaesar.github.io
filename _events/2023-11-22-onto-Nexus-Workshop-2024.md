@@ -12,21 +12,21 @@ image:
 
 ## Hybrid Event
 
-onto:Nexus Workshop 2024 is the 1st version of the workshop on Ontological Modeling and Analysis. The theme of this version is Infusing Rigor and Agility in MBSE. It will discuss what has been accomplished so far, what is being worked on currently, and what the future challenges and directions are. It also intends to build a community of practitioners in this area and foster collaborations among them.
+<b>onto:Nexus Workshop 2024</b> is the 1st version of the workshop on <b>Ontological Modeling and Analysis</b>. The theme of this version is <b>Infusing Rigor and Agility in MBSE</b>. It will discuss what has been accomplished so far, what is being worked on currently, and what the future challenges and directions are. It also intends to build a community of practitioners in this area and foster collaborations among them.
 
-The workshop is a free hybrid event that will take place on Wed Jan 31st, 2024 from 8:30am to 5:00 pm PST at the Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov/)) in Pasadena, CA. This is the day after the [INCOSE IW 2024](https://www.incose.org/IW2024), which will take place Jan 27-30 in (the nearby city of) Torrance, CA.
+The workshop is a free hybrid event that will take place on <b>Wed Jan 31st, 2024 from 8:30am to 5:00 pm PST</b> at the Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov/)) in Pasadena, CA. This is the day after the [INCOSE IW 2024](https://www.incose.org/IW2024), which will take place Jan 27-30 in (the nearby city of) Torrance, CA.
 
-A talk that introduces onto:Nexus Workshop 2024 and its theme will be given by [Maged Elaasar](mailto:elaasar@jpl.nasa.gov) as part of INCOSE IW 2024 agenda and is currently scheduled on Sat 1/27 at 3:30 pm. [A Link will be provided soon].
+> A talk that introduces onto:Nexus Workshop 2024 and its theme will be given by [Maged Elaasar](mailto:elaasar@jpl.nasa.gov) as part of INCOSE IW 2024 agenda and is currently scheduled on Sat 1/27 at 3:30 pm. [A Link will be provided soon].
 
 ## Physical Venue
 
-The physical venue will be room 180-101 at JPL located at 4800 Oak Grove Dr, Pasadena, CA 91109. Registration is required by [contacting us](mailto:elaasar@jpl.nasa.gov) and waiting for a confirmation. The deadline for this is Dec 20, 2023. 
+The physical venue will be room <b>180-101 at JPL located at 4800 Oak Grove Dr, Pasadena, CA 91109</b>. Registration is required by [contacting us](mailto:elaasar@jpl.nasa.gov) and waiting for a confirmation. The deadline for this is Dec 20, 2023. 
 
 Notice that the venue space is limited and there will be time required to complete an onboarding process for JPL visitors. So the sooner you register, the better.
 
 ## Virtual Venue
 
-The virtual venue will be a **Teams** meeting. Registration is required by [contacting us](mailto:elaasar@jpl.nasa.gov) and waiting for an invitation. The deadline for this is Jan 30, 2023.
+The virtual venue will be a <b>Teams meeting</b>. Registration is required by [contacting us](mailto:elaasar@jpl.nasa.gov) and waiting for an invitation. The deadline for this is Jan 30, 2023.
 
 ## Agenda (subject to change)
 
