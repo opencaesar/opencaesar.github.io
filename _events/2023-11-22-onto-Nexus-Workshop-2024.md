@@ -20,13 +20,13 @@ A talk that introduces onto:Nexus Workshop 2024 and its theme will be given by [
 
 ## Physical Venue
 
-The physical venue will be room 180-101 at JPL located at 4800 Oak Grove Dr, Pasadena, CA 91109. Registration is required by contacting [Maged Elaasar](mailto:elaasar@jpl.nasa.gov) and waiting for a confirmation. The deadline for this is Dec 20, 2023. 
+The physical venue will be room 180-101 at JPL located at 4800 Oak Grove Dr, Pasadena, CA 91109. Registration is required by [contacting us](mailto:elaasar@jpl.nasa.gov) and waiting for a confirmation. The deadline for this is Dec 20, 2023. 
 
 Notice that the venue space is limited and there will be time required to complete an onboarding process for JPL visitors. So the sooner you register, the better.
 
 ## Virtual Venue
 
-The virtual venue will be a **Teams** meeting. Registration is required by contacting [Maged Elaasar](mailto:elaasar@jpl.nasa.gov) and waiting for an invitation. The deadline for this is Jan 30, 2023.
+The virtual venue will be a **Teams** meeting. Registration is required by [contacting us](mailto:elaasar@jpl.nasa.gov) and waiting for an invitation. The deadline for this is Jan 30, 2023.
 
 ## Agenda (subject to change)
 
@@ -125,13 +125,13 @@ A link to a pre-event questionnaire will be avialable soon. It will include ques
 
 One of the main objectives of the workshop is to build a community for rigorous and agile MBSE. This is why the agenda includes a 1h 30m session for members of the community to present their context, interests, and plans. Since we want to accomodate as many such presentations as possible, they have to be short (10 mins) so we recommend 2-3 slides only. 
 
-If you like to contribute a short presentation in this slot, we ask you to send [Maged Elaasar](mailto:elaasar@jpl.nasa.gov) a short abstract and wait for a confirmation. You can then send the slides, which will be merged into a single deck to minimize the hand off time between presenters. The deadline is Jan 26, 2024.
+If you like to contribute a short presentation in this slot, we ask you to [send us](mailto:elaasar@jpl.nasa.gov) a short abstract and wait for a confirmation. You can then send the slides, which will be merged into a single deck to minimize the hand off time between presenters. The deadline is Jan 26, 2024.
 
 ## Virtual Posters
 
 The workshop will feature virtual posters contributed by members of the community. Those posters will consist of videos that showcases past or future work accompanied by a title and short description. The poster will be accessible publicly on this page.
 
-If you like to contribute a virtual poster, we ask you to send your contribution to [Maged Elaasar](mailto:elaasar@jpl.nasa.gov). The deadline is Jan 26, 2024.
+If you like to contribute a virtual poster, we ask you to [send us](mailto:elaasar@jpl.nasa.gov) your contribution. The deadline is Jan 26, 2024.
 
 ## Panel
 
