@@ -121,15 +121,15 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
 
 A link to a pre-event questionnaire will be avialable soon. It will include questions that are meant to poll the community for their experiences, interests, and expectations. A summary of the answers will be presented in the introductory talk of the workshop.
 
-## Short Presentations
+## Call for Short Presentations
 
 One of the main objectives of the workshop is to build a community for rigorous and agile MBSE. This is why the agenda includes a 1h 30m session for members of the community to present their context, interests, and plans. Since we want to accomodate as many such presentations as possible, they have to be short (10 mins) so we recommend 2-3 slides only. 
 
 If you like to contribute a short presentation in this slot, we ask you to [send us](mailto:elaasar@jpl.nasa.gov) a short abstract and wait for a confirmation. You can then send the slides, which will be merged into a single deck to minimize the hand off time between presenters. The deadline is Jan 26, 2024.
 
-## Virtual Posters
+## Call for Virtual Posters
 
-The workshop will feature virtual posters contributed by members of the community. Those posters will consist of videos that showcases past or future work accompanied by a title and short description. The poster will be accessible publicly on this page.
+The workshop will feature virtual posters contributed by members of the community. Those posters will consist of videos that showcases past or future work accompanied by a title and short description. The poster will be accessible publicly on the workshop's page (this page).
 
 If you like to contribute a virtual poster, we ask you to [send us](mailto:elaasar@jpl.nasa.gov) your contribution. The deadline is Jan 26, 2024.
 
