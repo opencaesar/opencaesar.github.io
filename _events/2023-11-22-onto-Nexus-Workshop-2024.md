@@ -14,7 +14,7 @@ image:
 
 <b>onto:Nexus Workshop 2024</b> is the 1st version of the workshop on <b>Ontological Modeling and Analysis</b>. The theme of this version is <b>Infusing Rigor and Agility in MBSE</b>. It will discuss what has been accomplished so far, what is being worked on currently, and what the future challenges and directions are. It also intends to build a community of practitioners in this area and foster collaborations among them.
 
-The workshop is a free hybrid event that will take place on <b>Wed Jan 31st, 2024 from 8:30am to 5:00 pm PST</b> at the Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov/)) in Pasadena, CA. This is the day after the [INCOSE IW 2024](https://www.incose.org/IW2024), which will take place Jan 27-30 in (the nearby city of) Torrance, CA.
+The workshop is a free hybrid event that will take place on <b>Wed Jan 31st, 2024 from 8:30am to 5:00 pm PST</b> at the Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov/)) in Pasadena, CA. This is the day after the [INCOSE IW 2024](https://www.incose.org/IW2024), which will take place on Jan 27-30 in (the nearby city of) Torrance, CA.
 
 > A talk that introduces onto:Nexus Workshop 2024 and its theme will be given by [Maged Elaasar](mailto:elaasar@jpl.nasa.gov) as part of INCOSE IW 2024 agenda and is currently scheduled on Sat Jan 27, 2024 at 3:30 pm. [A Link will be provided soon].
 
