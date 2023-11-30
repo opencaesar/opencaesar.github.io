@@ -144,3 +144,7 @@ The agenda has a 45 mins slot for a JPL campus tour for in-person attendees. (We
 ## Breaks
 
 A few breaks are planned in the agenda. Coffee will be provided by JPL. However, lunch will be the responsibility of attendees (can be brought or purchased from the JPL cafeteria during lunch break).
+
+## onto:Nexus Forum
+
+If you are not yet a member of the [onto:Nexus Forum](https://www.linkedin.com/groups/14235207/) (LinkedIn group), we invite you to join to be part of the community going forward.
