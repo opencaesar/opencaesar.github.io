@@ -1,8 +1,8 @@
 ---
 layout: project
 title: "Firesat Functions"
-author: "Maged Elaasar"
-author_image: maged.png
+author: "Jessica Bojorquez"
+author_image: jessica.jpeg
 tag: [OML]
 categories: [IMCE]
 current: false
