@@ -36,7 +36,7 @@ This model is used to illustrate the application of the proposed model-based obs
 
 ## Sponsors
 
-[<img width="400 src="https://fondation-isae-supaero.org/wp-content/uploads/2022/04/logo-fondation-ras-293px.svg"/>](https://fondation-isae-supaero.org/en/)
+[<img src="https://fondation-isae-supaero.org/wp-content/uploads/2022/04/logo-fondation-ras-293px.svg"/>](https://fondation-isae-supaero.org/en/)
 
 [<img width="400" src="https://www.opencaesar.io/assets/img/jpl-logo.png"/>](https://www.jpl.nasa.gov/)
 
