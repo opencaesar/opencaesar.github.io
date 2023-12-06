@@ -16,7 +16,7 @@ image:
 
 The workshop is a free hybrid event that will take place on <b>Wed Jan 31st, 2024 from 8:30am to 5:00 pm PST</b> at the Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov/)) in Pasadena, CA. This is the day after the [INCOSE IW 2024](https://www.incose.org/IW2024), which will take place on Jan 27-30 in (the nearby city of) Torrance, CA.
 
-> A talk that introduces onto:Nexus Workshop 2024 and its theme will be given by [Maged Elaasar](mailto:elaasar@jpl.nasa.gov) as part of INCOSE IW 2024 agenda and is currently scheduled on Sat Jan 27, 2024 at 3:30 pm. [A Link will be provided soon].
+> A [talk](https://event.conflr.com/IW2024/sessiondetail_404272) that introduces onto:Nexus Workshop 2024 and its theme will be given by [Maged Elaasar](mailto:elaasar@jpl.nasa.gov) as part of INCOSE IW 2024 agenda and is currently scheduled on Sat Jan 27, 2024 at 3:30 pm.
 
 ## Physical Venue
 
