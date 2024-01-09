@@ -43,7 +43,7 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   <tr>
     <td>8:30 - 9:00</td>
     <td>Introduction to onto:Nexus 2024</td>
-    <td><a href="/_contributors/Maged%20Elaasar.md">Maged Elaasar (JPL)</a></td>
+    <td><a href="/contributors/Maged%20Elaasar.md">Maged Elaasar (JPL)</a></td>
   </tr>
   <tr>
     <td colspan="3">Existing Capabilities</td>
@@ -51,7 +51,7 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   <tr>
     <td>9:00 - 9:30</td>
     <td>MBSE@JPL: The CAESAR Journey</td>
-    <td><a href="/_contributors/David%20Wagner.md">David Wagner (JPL)</a></td>
+    <td><a href="/contributors/David%20Wagner.md">David Wagner (JPL)</a></td>
   </tr>
   <tr>
     <td>9:30 - 10:00</td>
@@ -65,7 +65,7 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   <tr>
     <td>10:15 - 10:45</td>
     <td>OML > OWL + MOF + OSLC</td>
-    <td><a href="/_contributors/Nicolas%20Rouquette.md">Nicolas Rouquette (JPL)</a></td>
+    <td><a href="/contributors/Nicolas%20Rouquette.md">Nicolas Rouquette (JPL)</a></td>
   </tr>
   <tr>
     <td>10:45 - 11:15</td>
@@ -86,7 +86,7 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   <tr>
     <td>12:45 - 1:15</td>
     <td>Demo: System Model DevOps with <i>OML Vision</i></td>
-    <td><a href="/_contributors/Aaron%20Levitt.md">Aaron Levitt (JPL)</a></td>
+    <td><a href="/contributors/Aaron%20Levitt.md">Aaron Levitt (JPL)</a></td>
   </tr>
   <tr>
     <td>1:15 - 2:45</td>
@@ -103,7 +103,7 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   <tr>
     <td>3:00 - 3:30</td>
     <td>R&D Directions for Onto MBSE</td>
-    <td><a href="/_contributors/Maged%20Elaasar.md">Maged Elaasar (JPL)</a></td>
+    <td><a href="/contributors/Maged%20Elaasar.md">Maged Elaasar (JPL)</a></td>
   </tr>
   <tr>
     <td>3:30 - 4:30</td>
