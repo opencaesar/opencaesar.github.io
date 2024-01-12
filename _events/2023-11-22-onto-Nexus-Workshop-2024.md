@@ -119,7 +119,7 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
 
 ## Pre-Event Questionnaire
 
-A link to a pre-event questionnaire will be avialable soon. It will include questions that are meant to poll the community for their experiences, interests, and expectations. A summary of the answers will be presented in the introductory talk of the workshop.
+We have defined a [pre-event questionnaire](https://forms.gle/xcvj8ukLngLN31xYA) for you to fill out. It has four sections: a) Gett to Know you, b) MBSE in Practice (optional), c) Panel: How should we collaborate? (optional) and d) Questions from the organizers. The questionnaire is anonymous and a summary of the answers will be presented in the introduction to the workshop. We highly encourage you to fill out the questionnaire before the event as a contribution. We will keep the questionnare open even after the event, publish the summary online, and update it frequently. It will help define our goals for the coming period.
 
 ## Call for Short Presentations
 
