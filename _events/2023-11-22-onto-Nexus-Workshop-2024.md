@@ -32,7 +32,7 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
 
 <table>
   <tr>
-    <th>Time (PST)</th>
+    <th width="150px">Time (PST)</th>
     <th>Topic</th>
     <th>Presenter</th>
   </tr>
