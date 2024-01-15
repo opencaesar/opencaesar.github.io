@@ -108,12 +108,12 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   <tr>
     <td>3:30 - 4:30</td>
     <td>Discussion Panel: How Should we Collaborate?</td>
-    <td>TBD</td>
+    <td><a href="/contributors/David%20Wagner.md">David Wagner (JPL)</a></td>
   </tr>
   <tr>
     <td>4:30 - 4:40</td>
     <td>Conclusion</td>
-    <td>David Wagner (JPL)</td>
+    <td><a href="/contributors/Nicolas%20Rouquette.md">Nicolas Rouquette (JPL)</a></td>
   </tr>
 </table>
 
