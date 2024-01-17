@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Electronic Data Sheet"
+title: "SysML v2"
 author: "Mohammad Hamdaqa"
 author_image: maged.png
 tag: [OML]
