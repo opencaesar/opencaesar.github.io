@@ -7,8 +7,8 @@ tag: [OML]
 categories: [IMCE]
 current: false
 image:
-  feature: ccsds.png
-  credit: CCSDS
+  feature: papyrus.png
+  credit: CEA List
 ---
 
 ## Project Summary
