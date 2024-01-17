@@ -12,7 +12,7 @@ image:
 
 ## Introduction
 
-Welcome to another analytical session exploring the KerML and SysML v2 metamodels using the openCAESAR tools. This analysis is part of an ongoing [project](projects/2023-8-11-SysML-v2.html) dedicated to implementing these metamodels as ontologies using the Ontological Modeling Language (OML). As a quick reminder, our project initially uncovered an instance of an [unsatisfiable metaclass](/blog/2023/08/27/When-Literal-Boolean-Is-Unsatisfiable.html) within the KerML metamodel. In our latest examination, we've identified a couple of cases of unsatisfiable metaclasses within the SysML v2 metamodel.
+Welcome to another analytical session exploring the KerML and SysML v2 metamodels using the openCAESAR tools. This analysis is part of an ongoing [project](/projects/2023-8-11-SysML-v2.html) dedicated to implementing these metamodels as ontologies using the Ontological Modeling Language (OML). As a quick reminder, our project initially uncovered an instance of an [unsatisfiable metaclass](/blog/2023/08/27/When-Literal-Boolean-Is-Unsatisfiable.html) within the KerML metamodel. In our latest examination, we've identified a couple of cases of unsatisfiable metaclasses within the SysML v2 metamodel.
 
 Before delving further into these findings, let's clarify what an unsatisfiable class signifies in logical terms. Essentially, an unsatisfiable class is one burdened with a set of constraints that cannot coexist harmoniously. Consequently, this predicament renders the class devoid of any instances, resulting in an empty extent. A prevalent factor contributing to classes becoming unsatisfiable is the presence of contradictory constraints.
 
