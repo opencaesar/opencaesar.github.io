@@ -14,7 +14,7 @@ image:
 
 <b>onto:Nexus Workshop 2024</b> is the 1st version of the workshop on <b>Ontological Modeling and Analysis</b>. The theme of this version is <b>Infusing Rigor and Agility in MBSE</b>. It will discuss what has been accomplished so far, what is being worked on currently, and what the future challenges and directions are. It also intends to build a community of practitioners in this area and foster collaborations among them.
 
-The workshop is a free hybrid event that will take place on <b>Wed Jan 31st, 2024 from 8:30am to 5:00 pm PST</b> at the Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov/)) in Pasadena, CA. This is the day after the [INCOSE IW 2024](https://www.incose.org/IW2024), which will take place on Jan 27-30 in (the nearby city of) Torrance, CA.
+The workshop is a free hybrid event that will take place on <b>Wed Jan 31st, 2024 from 8:30 am to 5:00 pm PST</b> at the Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov/)) in Pasadena, CA. This is the day after the [INCOSE IW 2024](https://www.incose.org/IW2024), which will take place on Jan 27-30 in (the nearby city of) Torrance, CA.
 
 > A [talk](https://event.conflr.com/IW2024/sessiondetail_404272) that introduces onto:Nexus Workshop 2024 and its theme will be given by [Maged Elaasar](mailto:elaasar@jpl.nasa.gov) as part of INCOSE IW 2024 agenda and is currently scheduled on Sat Jan 27, 2024 at 3:30 pm.
 
@@ -107,7 +107,7 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   </tr>
   <tr>
     <td>3:30 - 4:30</td>
-    <td>Discussion Panel: How Should we Collaborate?</td>
+    <td>Discussion Panel: How should we collaborate?</td>
     <td><a href="/contributors/David%20Wagner.md">David Wagner (JPL)</a></td>
   </tr>
   <tr>
@@ -119,7 +119,7 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
 
 ## Pre-Event Questionnaire
 
-We have defined a [pre-event questionnaire](https://forms.gle/xcvj8ukLngLN31xYA) for you to fill out. It has four sections: a) Gett to Know you, b) MBSE in Practice (optional), c) Panel: How should we collaborate? (optional) and d) Questions from the organizers. The questionnaire is anonymous and a summary of the answers will be presented in the introduction to the workshop. We highly encourage you to fill out the questionnaire before the event as a contribution. We will keep the questionnare open even after the event, publish the summary online, and update it frequently. It will help define our goals for the coming period.
+We have created a [pre-event questionnaire](https://forms.gle/xcvj8ukLngLN31xYA) for you to fill out. It has four sections: a) Gett to Know you, b) MBSE in Practice (optional), c) Panel: How should we collaborate? (optional) and d) Questions from the organizers. The questionnaire is anonymous and a summary of the answers will be presented in the introduction to the workshop. We highly encourage you to fill out the questionnaire as a contribution (even if you do not plan to attend). We will also keep it open after the event, publish the summary online, and update it frequently. It will help define the community's R&D agenda going forward.
 
 ## Call for Short Presentations
 
@@ -129,7 +129,7 @@ If you like to contribute a short presentation in this slot, we ask you to [send
 
 ## Call for Virtual Posters
 
-The workshop will feature virtual posters contributed by members of the community. Those posters will consist of videos that showcases past or future work accompanied by a title and short description. The poster will be accessible publicly on the workshop's page (this page).
+The workshop will feature virtual posters contributed by members of the community. Those posters will consist of videos/slides that showcases past or future work accompanied by a title and short description. The poster will be accessible publicly on the workshop's page (this page).
 
 If you like to contribute a virtual poster, we ask you to [send us](mailto:elaasar@jpl.nasa.gov) your contribution. The deadline is Jan 26, 2024.
 
@@ -143,7 +143,7 @@ The agenda has a 45 mins slot for a JPL campus tour for in-person attendees. (We
 
 ## Breaks
 
-A few breaks are planned in the agenda. Coffee will be provided by JPL. However, lunch will be the responsibility of attendees (can be brought or purchased from the JPL cafeteria during lunch break).
+A few breaks are planned in the agenda. Some coffee/tea will be provided by JPL. However, other food/drinks can be brought with you or purchased from the JPL cafeteria during breaks.
 
 ## onto:Nexus Forum
 
