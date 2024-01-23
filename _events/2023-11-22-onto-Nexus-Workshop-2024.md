@@ -69,7 +69,7 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   </tr>
   <tr>
     <td>10:45 - 11:15</td>
-    <td><a href="/_events/onto-Nexus-Workshop-2024/Talk-05.md">OntoUML: Bringing Conceptual Clarity, Semantic Transparency and Ontological Soundness to Models</a></td>
+    <td><a href="/events/onto-Nexus-Workshop-2024/Talk-05.md">OntoUML: Bringing Conceptual Clarity, Semantic Transparency and Ontological Soundness to Models</a></td>
     <td>Giancarlo Guizzardi (uTwente)</td>
   </tr>
   <tr style="color: blue;">
