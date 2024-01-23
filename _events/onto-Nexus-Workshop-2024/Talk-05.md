@@ -1,3 +1,15 @@
+---
+layout: base
+title: "OntoUML: Bringing Conceptual Clarity, Semantic Transparency and Ontological Soundness to Models"
+author: "Giancarlo Guizzardi"
+author_image: maged.png
+tag: [MBSE, IMCE, CAESAR]
+categories: [blog]
+image:
+  feature: onto_Nexus.png
+  credit: openCAESAR
+---
+
 ## Title
 OntoUML: Bringing Conceptual Clarity, Semantic Transparency and Ontological Soundness to Models
 
