@@ -17,4 +17,4 @@ The Digital Engineering Framework for Integration and Interoperability (DEFII) p
 
 ![Daniel Dunbar](img/Dunbar.jpg){: style="float: left;margin-right: 1em;"}
 
-Daniel Dunbar is a PhD Candidate in Systems Engineering at Stevens Institute of Technology. His research interests include Digital Engineering and formal knowledge representation as a means to enable better multidisciplinary collaboration. He currently works as a Research Assistant for the Systems Engineering Research Center (SERC) under Dr. Mark Blackburn’s leadership. Before joining Stevens, he worked in the telecommunications domain designing and implementing two-way radio systems.
+<h2>Daniel Dunbar</h2> is a PhD Candidate in Systems Engineering at Stevens Institute of Technology. His research interests include Digital Engineering and formal knowledge representation as a means to enable better multidisciplinary collaboration. He currently works as a Research Assistant for the Systems Engineering Research Center (SERC) under Dr. Mark Blackburn’s leadership. Before joining Stevens, he worked in the telecommunications domain designing and implementing two-way radio systems.

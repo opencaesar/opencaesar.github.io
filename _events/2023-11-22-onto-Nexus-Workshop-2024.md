@@ -118,8 +118,8 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   </tr>
   <tr>
     <td>3:30 - 4:30</td>
-    <td>Discussion Panel: How should we collaborate?</td>
-    <td><a href="/contributors/David%20Wagner.md">David Wagner (JPL)</a></td>
+    <td><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Panel">Discussion Panel: How should we collaborate?</a></td>
+    <td>David Wagner (JPL)</td>
   </tr>
   <tr>
     <td>4:30 - 4:40</td>

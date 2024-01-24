@@ -15,4 +15,4 @@ TBD
 
 ## Speaker
 
-Yuta Nakajima, JAXA
+<h2>Yuta Nakajima, JAXA</h2>

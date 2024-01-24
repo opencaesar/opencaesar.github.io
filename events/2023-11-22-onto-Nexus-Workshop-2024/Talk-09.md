@@ -15,4 +15,4 @@ TBD
 
 ## Speaker
 
-Bentley Oakes, Polytechnique Montreal
+<h2>Bentley Oakes, Polytechnique Montreal</h2>

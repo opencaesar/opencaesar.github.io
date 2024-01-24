@@ -27,4 +27,4 @@ We have formalized the main elements of our approach [2], and we are interested 
 
 ## Speaker
 
-Luis Palacios, CEA List
+<h2>Luis Palacios, CEA List</h2>
