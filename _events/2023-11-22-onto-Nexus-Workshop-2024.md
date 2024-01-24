@@ -24,9 +24,11 @@ The workshop is a free hybrid event that will take place on <b>Wed Jan 31st, 202
 
 ## Physical Venue
 
-The physical venue will be room <b>180-101 at JPL located at 4800 Oak Grove Dr, Pasadena, CA 91109</b>. Registration is required by [contacting us](mailto:elaasar@jpl.nasa.gov) and waiting for a confirmation. The deadline for this is Dec 20, 2023. 
+The physical venue will be room <b>180-101 at the JPL campus located at [4800 Oak Grove Dr, Pasadena, CA 91109](https://maps.app.goo.gl/F8tbA4cT21b94vJJ9)</b>. Registration is required by [contacting us](mailto:elaasar@jpl.nasa.gov) and waiting for a confirmation. The deadline for this is Dec 20, 2023.
 
 Notice that the venue space is limited and there will be time required to complete an onboarding process for JPL visitors. So the sooner you register, the better.
+
+<u>Directions</u>: On the day of the event, please plan to arrive to the address above early (before 7:30 am). As you approach the enterance, mention that you are attending the event to the security personnel, then turn left and proceed to the JPL Badging Office. If you will be driving, you will need to park your vehicle in the visitor parking across (another reason to arrive as this may take time). Park there then walk back to the Badgging Office where you will need to check-in and get a visitor tag. As there will be many visitors trying to do the same process, this may take time. We need to finish this process by 8:15 am max then walk together as a group to the venue inside the JPL campus.
 
 ## Virtual Venue
 
