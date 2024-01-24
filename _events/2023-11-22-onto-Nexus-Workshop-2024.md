@@ -90,10 +90,19 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   <tr>
     <td>1:00 - 2:45</td>
     <td>
-    <p>Short Presentations:</p>
     <p><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Talk-06">System Model DevOps with OML Vision</a></p>
+    <p><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Talk-07">Using Graph Theory to Gain Insights About System Models</a></p>
+    <p><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Talk-08">Knowledge Integration and Acquisition in Model-Based Systems Engineering</a></p>
+    <p><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Talk-09">Developing Digital Twins with Ontologies</a></p>
+    <p><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Talk-10">Model Validation Ontologies for Government Reference Architectures</a></p>
+    <p><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Talk-11">Using Ontologies to Enhance Digital Engineering Models</a></p>
+    <p><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Talk-12">Towards a Digital Engineering Factory for Students</a></p>
+    <p><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Talk-13">Lessons learned from OpenCAESAR Application to JAXA’s ETS-9 Project</a></p>
+    <p><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Talk-14">Ontological Utility Exemplified: The Synthesis of Project Management and Systems Engineering within EMPIRE</a></p>
+    <p><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Talk-15">MHI’s MBSE Initiatives in Commercial Aircraft and Space Divisions</a></p>
+    <p><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Talk-16">Reducing Cycle Time from Design Stage to Work Order using MBSE and AI: A Concept</a></p>
     </td>
-    <td>Multiple Presenters</td>
+    <td>Multiple Presenters (10-min each)</td>
   </tr>
   <tr style="color: blue;">
     <td>2:45 - 3:00</td>
@@ -104,8 +113,8 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   </tr>
   <tr>
     <td>3:00 - 3:30</td>
-    <td>R&D Directions for Onto MBSE</td>
-    <td><a href="/contributors/Maged%20Elaasar.md">Maged Elaasar (JPL)</a></td>
+    <td><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Talk-17">R&D Directions for Onto MBSE</a></td>
+    <td>Maged Elaasar (JPL)</td>
   </tr>
   <tr>
     <td>3:30 - 4:30</td>

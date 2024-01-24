@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "OntoUML: Bringing Conceptual Clarity, Semantic Transparency and Ontological Soundness to Models"
-author: "Giancarlo Guizzardi"
+author: "Aaron Levitt"
 tag: [ontoNexus]
 categories: [event]
 image:
