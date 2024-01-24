@@ -10,13 +10,17 @@ image:
   credit: openCAESAR
 ---
 
-## Hybrid Event
+## Hybrid Workshop
 
 <b>onto:Nexus Workshop 2024</b> is the 1st version of the workshop on <b>Ontological Modeling and Analysis</b>. The theme of this version is <b>Infusing Rigor and Agility in MBSE</b>. It will discuss what has been accomplished so far, what is being worked on currently, and what the future challenges and directions are. It also intends to build a community of practitioners in this area and foster collaborations among them.
 
 The workshop is a free hybrid event that will take place on <b>Wed Jan 31st, 2024 from 8:30 am to 5:00 pm PST</b> at the Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov/)) in Pasadena, CA. This is the day after the [INCOSE IW 2024](https://www.incose.org/IW2024), which will take place on Jan 27-30 in (the nearby city of) Torrance, CA.
 
-> A [talk](https://event.conflr.com/IW2024/sessiondetail_404272) that introduces onto:Nexus Workshop 2024 and its theme will be given by [Maged Elaasar](mailto:elaasar@jpl.nasa.gov) as part of INCOSE IW 2024 agenda and is currently scheduled on Sat Jan 27, 2024 at 3:30 pm.
+## Workshop Chair
+
+* [Maged Elaasar](/contributors/Maged%20Elaasar.html), JPL (chair)
+
+> A [talk](https://event.conflr.com/IW2024/sessiondetail_404272) that introduces onto:Nexus Workshop 2024 and its theme will be given by Maged Elaasar as part of INCOSE IW 2024 agenda and is currently scheduled on Sat Jan 27, 2024 at 3:30 pm.
 
 ## Physical Venue
 
@@ -28,13 +32,13 @@ Notice that the venue space is limited and there will be time required to comple
 
 The virtual venue will be a <b>Teams meeting</b>. Registration is required by [contacting us](mailto:elaasar@jpl.nasa.gov) and waiting for an invitation. The deadline for this is Jan 30, 2024.
 
-## Agenda (subject to change)
+## Agenda
 
 <table>
   <tr>
     <th width="150px">Time (PST)</th>
     <th>Topic</th>
-    <th>Presenter</th>
+    <th width="200px">Presenter</th>
   </tr>
   <tr style="color: blue;">
     <td>7:30 - 8:15</td>
@@ -42,20 +46,20 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   </tr>
   <tr>
     <td>8:30 - 9:00</td>
-    <td>Introduction to onto:Nexus 2024</td>
-    <td><a href="/contributors/Maged%20Elaasar.md">Maged Elaasar (JPL)</a></td>
+    <td><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Talk-01">Introduction to onto:Nexus 2024</a></td>
+    <td>Maged Elaasar (JPL)</td>
   </tr>
   <tr>
     <td colspan="3">Existing Capabilities</td>
   </tr>
   <tr>
     <td>9:00 - 9:30</td>
-    <td>MBSE@JPL: The CAESAR Journey</td>
-    <td><a href="/contributors/David%20Wagner.md">David Wagner (JPL)</a></td>
+    <td><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Talk-02">MBSE@JPL: The CAESAR Journey</a></td>
+    <td>David Wagner (JPL)</td>
   </tr>
   <tr>
     <td>9:30 - 10:00</td>
-    <td>MBSE@Ford: Experience Applying Ontological Approach</td>
+    <td><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Talk-03">MBSE@Ford: Experience Applying Ontological Approach</a></td>
     <td>Ahsan Qamar (Ford)</td>
   </tr>
   <tr style="color: blue;">
@@ -64,8 +68,8 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   </tr>
   <tr>
     <td>10:15 - 10:45</td>
-    <td>OML > OWL + MOF + OSLC</td>
-    <td><a href="/contributors/Nicolas%20Rouquette.md">Nicolas Rouquette (JPL)</a></td>
+    <td><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Talk-04">OML > OWL + MOF + OSLC</a></td>
+    <td>Nicolas Rouquette (JPL)</td>
   </tr>
   <tr>
     <td>10:45 - 11:15</td>
@@ -77,20 +81,18 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
     <td colspan="2">Lunch @ 167 Cafeteria</td>
   </tr>
   <tr style="color: blue;">
-    <td>12:00 - 12:45</td>
+    <td>12:00 - 1:00</td>
     <td colspan="2">Tour of JPL Campus</td>
   </tr>
   <tr>
     <td colspan="3">Emerging Activities</td>
   </tr>
   <tr>
-    <td>12:45 - 1:15</td>
-    <td>Demo: System Model DevOps with <i>OML Vision</i></td>
-    <td><a href="/contributors/Aaron%20Levitt.md">Aaron Levitt (JPL)</a></td>
-  </tr>
-  <tr>
-    <td>1:15 - 2:45</td>
-    <td>Short Presentations by Community Members</td>
+    <td>1:00 - 2:45</td>
+    <td>
+    <p>Short Presentations:</p>
+    <p><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Talk-06">System Model DevOps with OML Vision</a></p>
+    </td>
     <td>Multiple Presenters</td>
   </tr>
   <tr style="color: blue;">
