@@ -12,7 +12,7 @@ image:
 
 ## Hybrid Workshop
 
-<b>onto:Nexus Workshop 2024</b> is the 1st version of the workshop on <b>Ontological Modeling and Analysis</b>. The theme of this version is <b>Infusing Rigor and Agility in MBSE</b>. It will discuss what has been accomplished so far, what is being worked on currently, and what the future challenges and directions are. It also intends to build a community of practitioners in this area and foster collaborations among them.
+<b>onto:Nexus Workshop 2024</b> is the 1st International Workshop on <b>Ontological Modeling and Analysis</b>. The theme of this version is <b>Infusing Rigor and Agility in MBSE</b>. It will discuss what has been accomplished so far, what is being worked on currently, and what the future challenges and directions are. It also intends to build a community of practitioners in this area and foster collaborations among them.
 
 The workshop is a free hybrid event that will take place on <b>Wed Jan 31st, 2024 from 8:30 am to 5:00 pm PST</b> at the Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov/)) in Pasadena, CA. This is the day after the [INCOSE IW 2024](https://www.incose.org/IW2024), which will take place on Jan 27-30 in (the nearby city of) Torrance, CA.
 
