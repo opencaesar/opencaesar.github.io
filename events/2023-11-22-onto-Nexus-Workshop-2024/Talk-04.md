@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "OML > OWL + MOF + OSLC"
+title: "OML Overview"
 author: "Nicolas Rouquette"
 tag: [ontoNexus]
 categories: [event]

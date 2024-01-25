@@ -70,7 +70,7 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   </tr>
   <tr>
     <td>10:15 - 10:45</td>
-    <td><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Talk-04">OML > OWL + MOF + OSLC</a></td>
+    <td><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Talk-04">OML Overview</a></td>
     <td>Nicolas Rouquette (JPL)</td>
   </tr>
   <tr>
