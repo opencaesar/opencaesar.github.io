@@ -16,6 +16,8 @@ image:
 
 The workshop is a free hybrid event that will take place on <b>Wed Jan 31st, 2024 from 8:30 am to 5:00 pm PST</b> at the Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov/)) in Pasadena, CA. This is the day after the [INCOSE IW 2024](https://www.incose.org/IW2024), which will take place on Jan 27-30 in (the nearby city of) Torrance, CA.
 
+> Please use the hashtag #ontoNexus when posting about the event on social media
+
 ## Workshop Chair
 
 * [Maged Elaasar](mailto:elaasar@jpl.nasa.gov), JPL
