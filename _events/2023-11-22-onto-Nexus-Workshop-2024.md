@@ -138,7 +138,7 @@ We have created a [pre-event questionnaire](https://forms.gle/xcvj8ukLngLN31xYA)
 
 ## Call for Short Presentations
 
-One of the main objectives of the workshop is to build a community for rigorous and agile MBSE. This is why the agenda includes a 1h 30m session for members of the community to present their context, interests, and plans. Since we want to accomodate as many such presentations as possible, they have to be short (10 mins) so we recommend 2-3 slides only. 
+One of the main objectives of the workshop is to build a community for rigorous and agile MBSE. This is why the agenda includes a session for members of the community to present their context, interests, and plans. Since we want to accomodate as many such presentations as possible, they have to be short (10 mins) so we recommend 2-3 slides only. 
 
 If you like to contribute a short presentation in this slot, we ask you to [send us](mailto:elaasar@jpl.nasa.gov) a short abstract and wait for a confirmation. You can then send the slides, which will be merged into a single deck to minimize the hand off time between presenters. The deadline is Jan 26, 2024.
 
@@ -154,7 +154,7 @@ The agenda includes a 1h panel session that will discuss how the community shoul
 
 ## JPL Campus Tour
 
-The agenda has a 45 mins slot for a JPL campus tour for in-person attendees. (We will try to have a concurrent virtual tour for online attendees.)
+The agenda has a slot for a JPL campus tour for in-person attendees. We will also provide a URL to do a virtual tour for online attendees.
 
 ## Breaks
 
