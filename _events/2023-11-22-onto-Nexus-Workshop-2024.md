@@ -134,7 +134,7 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
 
 ## Pre-Event Questionnaire
 
-We have created a [pre-event questionnaire](https://forms.gle/xcvj8ukLngLN31xYA) for you to fill out. It has four sections: a) Gett to Know you, b) MBSE in Practice (optional), c) Panel: How should we collaborate? (optional) and d) Questions from the organizers. The questionnaire is anonymous and a summary of the answers will be presented in the introduction to the workshop. We highly encourage you to fill out the questionnaire as a contribution (even if you do not plan to attend). We will also keep it open after the event, publish the summary online, and update it frequently. It will help define the community's R&D agenda going forward.
+We have created a [pre-event questionnaire](https://forms.gle/xcvj8ukLngLN31xYA) for you to fill out. It has four sections: a) Getting to Know you, b) MBSE in Practice (optional), c) Panel: How should we collaborate? (optional) and d) Questions from the organizers. The questionnaire is anonymous and a summary of the answers will be presented in the introduction to the workshop. We highly encourage you to fill out the questionnaire as a contribution (even if you do not plan to attend). We will also keep it open after the event, publish the summary online, and update it frequently. It will help define the community's R&D agenda going forward.
 
 ## Call for Short Presentations
 
