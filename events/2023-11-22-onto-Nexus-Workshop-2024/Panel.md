@@ -34,3 +34,7 @@ This panel will pose questions about what the community could collaborate on the
 ![Florian Noyrit](img/Noyrit.jpg){: style="float: left;margin-right: 1em;"}
 
 <h2>Florian Noyrit</h2> received his PhD for his thesis on heterogeneous modeling languages from Paris Saclay University in 2012. He then joined CEA LIST as a researcher to pursue his research on model-based approaches and to contribute to Papyrus, an open source MBSE tool based on UML and SysML. Through several industrial and academic collaborations, he contributed to the development, adoption and use of model-based technologies in the industry with an emphasis on the design and use of domain specific modeling languages, collaborative modeling and integration of models using ontology technologies. Dr. Florian Noyrit teaches model-based approaches in some Master’s programs in French universities and institutes of technologies.
+
+![Kane Ishibashi](img/Ishibashi.jpeg){: style="float: left;margin-right: 1em;"}
+
+<h2>Kane Ishibashi</h2>

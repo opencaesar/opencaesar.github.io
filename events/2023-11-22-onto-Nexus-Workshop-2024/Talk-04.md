@@ -11,7 +11,7 @@ image:
 
 ## Abstract
 
-TBD
+This presentation provides a chronological restrospective about the origins of the Ontological Modeling Language (OML). After a brief tour of the language, the presentation summarizes the four key value propositions of OML: 1) understandability of reasoner explanations, 2) improved authoring via judicious design of abstractions, 3) flexible scoping of closed-world semantics, and 4) scalable reasoning performance.
 
 ## Speaker
 ![Nicolas Rouquette](img/Rouquette.jpeg){: style="float: left;margin-right: 1em;"}
