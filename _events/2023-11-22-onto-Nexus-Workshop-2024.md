@@ -22,7 +22,7 @@ The workshop is a free hybrid event that will take place on <b>Wed Jan 31st, 202
 
 * [Maged Elaasar](mailto:elaasar@jpl.nasa.gov), JPL
 
-> A [talk](https://event.conflr.com/IW2024/sessiondetail_404272) that introduces onto:Nexus Workshop 2024 and its theme will be given by Maged Elaasar as part of INCOSE IW 2024 agenda and is currently scheduled on Sat Jan 27, 2024 at 3:30 pm.
+> A [talk](https://docs.google.com/presentation/d/1DpRqLBLn4BCvdYgqaSr9uYsl-RpbjShxfrbGm6S_oxY) that introduces onto:Nexus Workshop 2024 and its theme will be given by Maged Elaasar as part of INCOSE IW 2024 agenda and is currently scheduled on Sat Jan 27, 2024 at 3:30 pm.
 
 ## Physical Venue
 
