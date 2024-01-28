@@ -27,4 +27,8 @@ We have formalized the main elements of our approach [2], and we are interested 
 
 ## Speaker
 
-<h2>Luis Palacios, CEA List</h2>
+![Luis Palacios](img/Palacios.jpg){: style="float: left;margin-right: 1em;"}
+
+<h2>Luis Palacios</h2> graduated as a Systems Engineer at the Universidad Católica Boliviana, in La Paz, Bolivia.
+Worked in La Paz for 5 years developing online systems and websites. Afterwards, he graduated from the European Master in Computational Logic, based on Dresden (Germany) and Bolzano (Italy). Finally, he obtain a PhD in Computer Science, with focus on Knowledge Representation, at the Université Paris-Saclay/Thales in Palaiseau, France.
+Luis is currently working as a research engineer at the CEA at Palaiseau, France.
