@@ -127,8 +127,7 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   </tr>
   <tr>
     <td>4:30 - 4:40</td>
-    <td>Conclusion</td>
-    <td><a href="/contributors/Nicolas%20Rouquette.md">Nicolas Rouquette (JPL)</a></td>
+    <td colspan="2">Conclusion</td>
   </tr>
 </table>
 
