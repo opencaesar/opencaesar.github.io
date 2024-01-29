@@ -18,12 +18,6 @@ The workshop is a free hybrid event that will take place on <b>Wed Jan 31st, 202
 
 > Please use the hashtag #ontoNexus when posting about the event on social media
 
-## Workshop Chair
-
-* [Maged Elaasar](mailto:elaasar@jpl.nasa.gov), JPL
-
-> A [talk that introduces openCAESAR and onto:Nexus Workshop 2024](https://docs.google.com/presentation/d/1DpRqLBLn4BCvdYgqaSr9uYsl-RpbjShxfrbGm6S_oxY) will be given by Maged Elaasar at INCOSE IW 2024 on Sat Jan 27, 2024 at 3:30 pm.
-
 ## Physical Venue
 
 The physical venue will be room <b>180-101 at the JPL campus located at [4800 Oak Grove Dr, Pasadena, CA 91109](https://maps.app.goo.gl/F8tbA4cT21b94vJJ9)</b>. Registration is required by [contacting us](mailto:elaasar@jpl.nasa.gov) and waiting for a confirmation. The deadline for this is Dec 20, 2023.
@@ -35,6 +29,12 @@ Notice that the venue space is limited and there will be time required to comple
 ## Virtual Venue
 
 The virtual venue will be a <b>Teams meeting</b>. Registration is required by [contacting us](mailto:elaasar@jpl.nasa.gov) and waiting for an invitation. The deadline for this is Jan 30, 2024.
+
+## Workshop Chair
+
+* [Maged Elaasar](mailto:elaasar@jpl.nasa.gov), JPL
+
+> A [talk that introduces openCAESAR and onto:Nexus Workshop 2024](https://docs.google.com/presentation/d/1DpRqLBLn4BCvdYgqaSr9uYsl-RpbjShxfrbGm6S_oxY) will be given by Maged Elaasar at INCOSE IW 2024 on Sat Jan 27, 2024 at 3:30 pm.
 
 ## Agenda
 
