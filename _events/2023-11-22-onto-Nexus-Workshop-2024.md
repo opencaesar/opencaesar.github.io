@@ -26,6 +26,8 @@ Notice that the venue space is limited and there will be time required to comple
 
 <u>Directions</u>: On the day of the event, please plan to arrive to the address above early (before 7:30 am). As you approach the enterance, mention that you are attending the event to the security personnel, then turn left and proceed to the JPL Badging Office. If you will be driving, you will need to park your vehicle in the visitor parking across (another reason to arrive early as this may take time). Park there then walk back to the Badgging Office where you will need to check-in and get a visitor tag. As there will be many visitors trying to do the same process, this may take time. We need to finish this process by 8:15 am max then walk together as a group to the venue inside the JPL campus.
 
+<p style="color: red">IMPORTANT: visitors should bring with them the "same id" they used in the JPL Onboarding process (this is usually a passport for foreign nationals and a gov id for US persons). Without such id, access to the JPL campus will be denied.</p>
+
 ## Virtual Venue
 
 The virtual venue will be a <b>Teams meeting</b>. Registration is required by [contacting us](mailto:elaasar@jpl.nasa.gov) and waiting for an invitation. The deadline for this is Jan 30, 2024.
