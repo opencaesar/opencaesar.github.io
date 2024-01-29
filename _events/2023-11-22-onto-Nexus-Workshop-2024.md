@@ -132,6 +132,35 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   </tr>
 </table>
 
+## Virtual Posters
+
+<table>
+  <tr>
+    <td>
+      <p>A Digital Engineering Factory for Students</p>
+      <p>J. Gregory, A. Salado, S. O’Neal</p>
+      <p>Department of Systems and Industrial Engineering, University of Arizona</p>
+    </td>
+    <td width="350px">
+      <object style="float: left;margin-right: 1em;" data="/events/2023-11-22-onto-Nexus-Workshop-2024/files/Poster1.pdf" type="application/pdf" width="100%" height="300px">
+          <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/events/2023-11-22-onto-Nexus-Workshop-2024/files/Poster1.pdf">Download PDF</a>.</p>
+      </object>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Commons Ontology Library - Digital Engineering Model Interoperability (DEMI)</p>
+      <p>E. Kendall and R. Burkhart</p>
+      <p>Thematix Partners LLC</p>
+    </td>
+    <td>
+      <object style="float: left;margin-right: 1em;" data="/events/2023-11-22-onto-Nexus-Workshop-2024/files/Poster2.pdf" type="application/pdf" width="100%" height="300px">
+          <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/events/2023-11-22-onto-Nexus-Workshop-2024/files/Poster2.pdf">Download PDF</a>.</p>
+      </object>
+    </td>
+  </tr>
+</table>
+
 ## Pre-Event Questionnaire
 
 We have created a [pre-event questionnaire](https://forms.gle/xcvj8ukLngLN31xYA) for you to fill out. It has four sections: a) Getting to Know you, b) MBSE in Practice (optional), c) Panel: How should we collaborate? (optional) and d) Questions from the organizers. The questionnaire is anonymous and a summary of the answers will be presented in the introduction to the workshop. We highly encourage you to fill out the questionnaire as a contribution (even if you do not plan to attend). We will also keep it open after the event, publish the summary online, and update it frequently. It will help define the community's R&D agenda going forward.
