@@ -11,9 +11,10 @@ image:
 
 ## Abstract
 
-TBD
+This talk will focus on ontological foundation for formal specification and test-driven development.  It will provide some insights into modeling and embedded code implementation, in a test-driven development setup.
 
 ## Speaker
+
 ![Ahsan Qamar](img/Qamar.jpeg){: style="float: left;margin-right: 1em;"}
 
-<h2>Ahsan Qamar</h2> has a multidisciplinary background in control design, mechatronics, embedded systems and Model-Based Systems Engineering (MBSE). He graduated with a MSc. in Electrical Engineering from Aalborg University Denmark, followed by a PhD. in Mechatronics from KTH-Royal Institute of Technology, Sweden. He has ten years of experience in applying systems engineering (MBSE) within automotive, aerospace, robotic manufacturing and semiconductor domains. Most recently, he has been applying systems engineering and MBSE to the design of autonomous applications, especially feature delivery, system architecture, requirement maturity, and ontological foundation for digital thread/twin. In his current role as Technical Manager, he oversees system architecture and systems engineering for development of autonomy features at Ford. He is also a principal investigator on Ford’s research efforts with Georgia Tech and Clemson, focusing on visual analytics and variant management, that led to the development of tools as Datahawk, SafetyLens and DigitalLens. Dr. Qamar is an invited speaker for several systems engineering, safety and model-driven engineering conferences, and reviews research publications for many journals within these areas.
+<h2>Ahsan Qamar</h2> has a multidisciplinary background in control design, mechatronics, embedded systems and Model-Based Systems Engineering (MBSE). He has twelve years of experience in building and operationalizing complex-engineered systems, including autonomous robots, autonomous vehicles, and software defined vehicles. He leads Ford’s platform architecture and system design team, developing and testing system and software architecture for an embedded and connected platform that will power all future Ford’s vehicles. He also researches problems in systems engineering analytics, executable specification, ontological foundations and digital thread/twin, and developed tools as Datahawk, SafetyLens and DigitalLens.
