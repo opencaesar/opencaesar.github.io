@@ -138,8 +138,6 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   <tr>
     <td>
       <p>A Digital Engineering Factory for Students</p>
-      <p>J. Gregory, A. Salado, S. O’Neal</p>
-      <p>Department of Systems and Industrial Engineering, University of Arizona</p>
     </td>
     <td width="350px">
       <object style="float: left;margin-right: 1em;" data="/events/2023-11-22-onto-Nexus-Workshop-2024/files/Poster1.pdf" type="application/pdf" width="100%" height="300px">
@@ -150,8 +148,6 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   <tr>
     <td>
       <p>Commons Ontology Library - Digital Engineering Model Interoperability (DEMI)</p>
-      <p>E. Kendall and R. Burkhart</p>
-      <p>Thematix Partners LLC</p>
     </td>
     <td>
       <object style="float: left;margin-right: 1em;" data="/events/2023-11-22-onto-Nexus-Workshop-2024/files/Poster2.pdf" type="application/pdf" width="100%" height="300px">
