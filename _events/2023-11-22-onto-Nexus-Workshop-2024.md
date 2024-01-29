@@ -126,7 +126,7 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
     <td>David Wagner (JPL)</td>
   </tr>
   <tr>
-    <td>4:30 - 4:40</td>
+    <td>4:30</td>
     <td colspan="2">Conclusion</td>
   </tr>
 </table>
