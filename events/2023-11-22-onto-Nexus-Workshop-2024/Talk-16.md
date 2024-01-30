@@ -22,7 +22,7 @@ The proposed approach addresses critical challenges:
 * Reduced Time-to-Production: AI-powered predictive modeling minimizes design-to-production delays, enhancing efficiency and competitiveness.
 By combining MBSE and AI, this paper presents a novel and promising framework for drastically reducing cycle times, leading to significant cost savings and improved product launch.
 
-## Speakers
+## Speaker
 
 ![Sanghamitra Goswami](img/Goswami.jpg){: style="float: left;margin-right: 1em;"}
 
