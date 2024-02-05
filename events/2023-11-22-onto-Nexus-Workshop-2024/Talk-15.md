@@ -31,3 +31,11 @@ Mitsubishi Heavy Industries (MHI) is a versatile conglomerate with operations sp
 ![Takeshi Kai](img/Kai.png){: style="float: left;margin-right: 1em;"}
 
 <h2>Takeshi Kai</h2> is a Lead Systems Engineer at Mitsubishi Heavy Industries' (MHI) Space Systems division, leading the development of a Japanese next-generation rocket and lunar base architecture. He has previously served as a Lead Electrical Systems engineer for H3 rocket’s booster engine development. Currently, he is taking the initiative to accelerate the organizational implementation of MBSE in MHI’s Space Systems division.
+
+## Slides
+
+{% include googleslides.html id="1JJGBfLrvC2VatzaaOnwJIVXmgoTwUu-w" %}
+
+## Recording
+
+TBD

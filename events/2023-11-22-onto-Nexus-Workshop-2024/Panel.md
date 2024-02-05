@@ -45,3 +45,11 @@ This panel will pose questions about what the community could collaborate on the
 ![Ahsan Qamar](img/Qamar.jpeg){: style="float: left;margin-right: 1em;"}
 
 <h2>Ahsan Qamar</h2> has a multidisciplinary background in control design, mechatronics, embedded systems and Model-Based Systems Engineering (MBSE). He has twelve years of experience in building and operationalizing complex-engineered systems, including autonomous robots, autonomous vehicles, and software defined vehicles. He leads Ford’s platform architecture and system design team, developing and testing system and software architecture for an embedded and connected platform that will power all future Ford’s vehicles. He also researches problems in systems engineering analytics, executable specification, ontological foundations and digital thread/twin, and developed tools as Datahawk, SafetyLens and DigitalLens.
+
+## Slides
+
+{% include googleslides.html id="11mnNcG9L7lySnZVfkrg8giTU_o-4EP-CXVYK7kw-qzw" %}
+
+## Recording
+
+TBD
