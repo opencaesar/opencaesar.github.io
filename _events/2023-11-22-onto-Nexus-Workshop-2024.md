@@ -65,7 +65,7 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   </tr>
   <tr>
     <td>9:30 - 10:00</td>
-    <td><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Talk-03">MBSE@Ford: Experience Applying Ontological Approach</a></td>
+    <td><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Talk-03">Ontological Foundation for Automotive System Design and Testing</a></td>
     <td>Ahsan Qamar (Ford)</td>
   </tr>
   <tr style="color: blue;">
@@ -79,7 +79,7 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   </tr>
   <tr>
     <td>10:45 - 11:15</td>
-    <td><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Talk-05">OntoUML: Bringing Conceptual Clarity, Semantic Transparency and Ontological Soundness to Models</a></td>
+    <td><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Talk-05">A Whirlwind Tour to OntoUML and its Ecosystem</a></td>
     <td>Giancarlo Guizzardi (uTwente)</td>
   </tr>
   <tr style="color: blue;">

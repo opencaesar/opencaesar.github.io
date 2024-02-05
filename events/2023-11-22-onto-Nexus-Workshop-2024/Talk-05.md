@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "OntoUML: Bringing Conceptual Clarity, Semantic Transparency and Ontological Soundness to Models"
+title: "A Whirlwind Tour to OntoUML and its Ecosystem"
 author: "Giancarlo Guizzardi"
 tag: [ontoNexus]
 categories: [event]

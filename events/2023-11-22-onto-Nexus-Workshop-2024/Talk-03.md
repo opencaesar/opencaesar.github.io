@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "MBSE@Ford: Experience Applying Ontological Approach"
+title: "Ontological Foundation for Automotive System Design and Testing"
 author: "Ahsan Qamar"
 tag: [ontoNexus]
 categories: [event]
