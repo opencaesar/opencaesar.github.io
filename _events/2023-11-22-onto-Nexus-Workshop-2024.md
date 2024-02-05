@@ -26,7 +26,7 @@ Notice that the venue space is limited and there will be time required to comple
 
 <u>Directions</u>: On the day of the event, please plan to arrive to the address above early (before 7:30 am). As you approach the enterance, mention that you are attending the event to the security personnel, then turn left and proceed to the JPL Badging Office. If you will be driving, you will need to park your vehicle in the visitor parking across (another reason to arrive early as this may take time). Park there then walk back to the Badgging Office where you will need to check-in and get a visitor tag. As there will be many visitors trying to do the same process, this may take time. We need to finish this process by 8:15 am max then walk together as a group to the venue inside the JPL campus.
 
-<p style="color: red">IMPORTANT: visitors should bring with them the "same id" they used in the JPL Onboarding process (this is usually a passport for foreign nationals and a gov id for US persons). Without such id, access to the JPL campus will be denied.</p>
+<p>IMPORTANT: visitors should bring with them the "same id" they used in the JPL Onboarding process (this is usually a passport for foreign nationals and a gov id for US persons). Without such id, access to the JPL campus will be denied.</p>
 
 ## Virtual Venue
 
@@ -36,9 +36,9 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
 
 * [Maged Elaasar](mailto:elaasar@jpl.nasa.gov), JPL
 
-> A [talk that introduces openCAESAR and onto:Nexus Workshop 2024](https://docs.google.com/presentation/d/1DpRqLBLn4BCvdYgqaSr9uYsl-RpbjShxfrbGm6S_oxY) will be given by Maged Elaasar at INCOSE IW 2024 on Sat Jan 27, 2024 at 3:30 pm.
-
 ## Agenda
+
+> A talk titled [openCAESAR: Balanacing Rigor and Agility in MBSE Practice](/blog/2024/01/27/Enabling-Rigor-and-Agility-in-MBSE-Practice.html) will be given by Maged Elaasar at INCOSE IW 2024 on Sat Jan 27, 2024 at 3:30 pm. It will introduce the onto:Nexus Workshop 2024 to that community.
 
 <table>
   <tr>
