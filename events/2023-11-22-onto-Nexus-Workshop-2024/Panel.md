@@ -7,6 +7,7 @@ categories: [event]
 image:
   feature: onto_Nexus.png
   credit: openCAESAR
+  url: http://127.0.0.1:4000/events/2023-11-22-onto-Nexus-Workshop-2024
 ---
 
 ## Topic

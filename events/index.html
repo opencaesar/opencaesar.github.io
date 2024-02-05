@@ -21,9 +21,9 @@ navlink: /events
                 <div class="card-body blog-card-oc pt-4">
                     <p class="blog-card-date-oc">{{event.date | date: '%B %d, %Y'}}</p>
                     <p class="blog-card-title-oc">{{event.title}}</p>
-                    <img src="{{event.image.feature | prepend: 'assets/img/' | relative_url}}" class="mr-3" style="width: 300px;">
+                    <img src="{{event.image.feature | prepend: 'assets/img/' | relative_url}}" class="mr-3" style="width: 300px;"/>
                     <div class="blog-auth-info">
-                        <div class="card-underline mb-4"></div>
+                        <div class="card-underline mb-4"/>
                         <div class="media">
                             <img src="{{event.author_image | prepend: 'assets/img/' | relative_url}}" class="mr-3" style="width: 50px; border-radius: 2rem">
                             <div class="media-body">

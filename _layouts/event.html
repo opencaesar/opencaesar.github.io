@@ -28,8 +28,7 @@
                 <div class="media">
                     {% if page.author.size == 1%}
                     {% if page.author_image %}
-                    <img src="{{page.author_image | prepend: 'assets/img/' | relative_url}}" class="mr-3"
-                        style="width: 50px; border-radius: 2rem">
+                    <img src="{{page.author_image | prepend: 'assets/img/' | relative_url}}" class="mr-3" style="width: 50px; border-radius: 2rem"/>
                     {% endif %}
                     {% endif %}
                     <div class="media-body">
@@ -59,9 +58,7 @@
             <div class="col-lg-8 col-sm-12 pl-3 py-1" style="font-size:18px">
                 {% if page.image.feature %}
                 <div style="border-bottom: solid 5px #03a9f4;">
-
-                    <img src="{{ page.image.feature | prepend: 'assets/img/' | relative_url}}"
-                        alt="{{ page.title }} feature image" class="img-fluid">
+                    <a href="{{page.image.url}}"><img src="{{ page.image.feature | prepend: 'assets/img/' | relative_url}}" alt="{{ page.title }} feature image" class="img-fluid"/></a>
                 </div>
                 {% if page.image.credit %}
                 <span class="image-credit">Photo Credit: {{ page.image.credit }} </span>
