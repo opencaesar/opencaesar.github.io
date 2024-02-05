@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "OntoUML: Bringing Conceptual Clarity, Semantic Transparency and Ontological Soundness to Models"
+title: "System Model DevOps with OML Vision"
 author: "Aaron Levitt"
 tag: [ontoNexus]
 categories: [event]
