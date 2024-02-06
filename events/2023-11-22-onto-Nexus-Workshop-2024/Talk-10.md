@@ -27,3 +27,7 @@ Hierarchical structures provide a means to systematically deconstruct an enginee
 ## Recording
 
 {% include youtube.html id="sjkmhNy4RuE" %}
+
+## Interesting Links
+
+-  [A recently released National Academies report on Digital Twin Research Gaps](https://www.nationalacademies.org/our-work/foundational-research-gaps-and-future-directions-for-digital-twins)
