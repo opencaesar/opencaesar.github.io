@@ -27,7 +27,7 @@ By combining MBSE and AI, this paper presents a novel and promising framework fo
 
 ![Sanghamitra Goswami](img/Goswami.jpg){: style="float: left;margin-right: 1em;"}
 
-<h2>Sanghamitra Goswami</h2> currently works in Blue Origin. Before joining Blue Origin, she worked in retail, technology, and financial services industries, using data science and machine learning to solve problems related to demand forecasting, real time monitoring of inventory, fraud detection and customer retention. 
+<h2><a href="mailto:mgoswami@blueorigin.com">Sanghamitra Goswami</a></h2> currently works in Blue Origin. Before joining Blue Origin, she worked in retail, technology, and financial services industries, using data science and machine learning to solve problems related to demand forecasting, real time monitoring of inventory, fraud detection and customer retention. 
 She did her graduate and undergraduate education from India, completing Ph.D. from Indian Institute of Science, Bangalore and subsequently a post-doctoral fellowship from Kellogg School of Management, Northwestern University. In addition to her work, Sanghamitra is passionate about providing access to aerospace and STEM education to underserved communities. In her free time, she conducts online STEM education programs for underserved community schools across India, igniting a love for science and technology in young minds. She is also interested in arts and dreams of running her own studio, where people can participate in creating music and art amidst their busy professional life.
 
 ## Slides
@@ -36,4 +36,4 @@ She did her graduate and undergraduate education from India, completing Ph.D. fr
 
 ## Recording
 
-TBD
+{% include youtube.html id="mjkKDdJq6rc" %}

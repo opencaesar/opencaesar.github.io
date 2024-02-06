@@ -18,7 +18,7 @@ Engineering education has the potential to benefit significantly from the deploy
 
 ![Joe Gregory](img/Gregory.png){: style="float: left;margin-right: 1em;"}
 
-<h2>Joe Gregory</h2> is a postdoctoral research associate at the University of Arizona. His research interests include digital engineering, model-based systems engineering, and the application of semantic web technologies to support engineering. In 2022, he received his PhD in Aerospace Engineering from the University of Bristol for his development of the SysML-based ‘Spacecraft Early Analysis Model’. He is the co-chair of the Digital Engineering Information Exchange (DEIX) Taxonomy Working Group.
+<h2><a href="mailto:joegregory@arizona.edu">Joe Gregory</a></h2> is a postdoctoral research associate at the University of Arizona. His research interests include digital engineering, model-based systems engineering, and the application of semantic web technologies to support engineering. In 2022, he received his PhD in Aerospace Engineering from the University of Bristol for his development of the SysML-based ‘Spacecraft Early Analysis Model’. He is the co-chair of the Digital Engineering Information Exchange (DEIX) Taxonomy Working Group.
 
 ## Slides
 
@@ -26,4 +26,4 @@ Engineering education has the potential to benefit significantly from the deploy
 
 ## Recording
 
-TBD
+{% include youtube.html id="wJJ3XOAruEE" %}

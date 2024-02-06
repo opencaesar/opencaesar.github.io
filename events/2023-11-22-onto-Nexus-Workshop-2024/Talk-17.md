@@ -26,4 +26,4 @@ This talk will discuss the need to create an open source software ecosystem to p
 
 ## Recording
 
-TBD
+{% include youtube.html id="gllXdWFZXN4" %}

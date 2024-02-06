@@ -18,11 +18,11 @@ Mitsubishi Heavy Industries (MHI) is a versatile conglomerate with operations sp
 
 ![Hiroyuki Morino](img/Morino.png){: style="float: left;margin-right: 1em;"}
 
-<h2>Hiroyuki Morino</h2> is a Lead Systems Engineer at Mitsubishi Heavy Industries (MHI), leading the company-wide promotion of Systems Engineering (SE) and Model-Based Systems Engineering（MBSE）as the INCOSE CAB representative of MHI. He has previously served as a project manager for the aircraft integration team in the Mitsubishi SpaceJet program. Currently, he is taking the initiative to deploy SE and MBSE across the various business domains of MHI including aircraft, defense, space and energy plants.
+<h2><a href="mailto:hiroyuki.morino.e5@mhi.com">Hiroyuki Morino</a></h2> is a Lead Systems Engineer at Mitsubishi Heavy Industries (MHI), leading the company-wide promotion of Systems Engineering (SE) and Model-Based Systems Engineering（MBSE）as the INCOSE CAB representative of MHI. He has previously served as a project manager for the aircraft integration team in the Mitsubishi SpaceJet program. Currently, he is taking the initiative to deploy SE and MBSE across the various business domains of MHI including aircraft, defense, space and energy plants.
 
 ![Yuki Utsumi](img/Utsumi.png){: style="float: left;margin-right: 1em;"}
 
-<h2>Yuki Utsumi</h2> is a Systems Engineer at Mitsubishi Heavy Industries' (MHI) Commercial Aviation Systems division. He has previously served as an aircraft integrator for the Mitsubishi SpaceJet program. Currently, his main objective is to develop the future development process for commercial aircraft using MBSE.
+<h2><a href="mailto:yuki.utsumi.z8@mhi.com">Yuki Utsumi</a></h2> is a Systems Engineer at Mitsubishi Heavy Industries' (MHI) Commercial Aviation Systems division. He has previously served as an aircraft integrator for the Mitsubishi SpaceJet program. Currently, his main objective is to develop the future development process for commercial aircraft using MBSE.
 
 
 <br>
@@ -30,7 +30,7 @@ Mitsubishi Heavy Industries (MHI) is a versatile conglomerate with operations sp
 
 ![Takeshi Kai](img/Kai.png){: style="float: left;margin-right: 1em;"}
 
-<h2>Takeshi Kai</h2> is a Lead Systems Engineer at Mitsubishi Heavy Industries' (MHI) Space Systems division, leading the development of a Japanese next-generation rocket and lunar base architecture. He has previously served as a Lead Electrical Systems engineer for H3 rocket’s booster engine development. Currently, he is taking the initiative to accelerate the organizational implementation of MBSE in MHI’s Space Systems division.
+<h2><a href="mailto:takeshi.kai.sf@ds.mhi.com">Takeshi Kai</a></h2> is a Lead Systems Engineer at Mitsubishi Heavy Industries' (MHI) Space Systems division, leading the development of a Japanese next-generation rocket and lunar base architecture. He has previously served as a Lead Electrical Systems engineer for H3 rocket’s booster engine development. Currently, he is taking the initiative to accelerate the organizational implementation of MBSE in MHI’s Space Systems division.
 
 ## Slides
 
@@ -38,4 +38,4 @@ Mitsubishi Heavy Industries (MHI) is a versatile conglomerate with operations sp
 
 ## Recording
 
-TBD
+{% include youtube.html id="uueAzMMzlwM" %}
