@@ -38,13 +38,17 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
 
 ## Agenda
 
-> A talk titled [openCAESAR: Balanacing Rigor and Agility in MBSE Practice](/blog/2024/01/27/Enabling-Rigor-and-Agility-in-MBSE-Practice.html) will be given by Maged Elaasar at INCOSE IW 2024 on Sat Jan 27, 2024 at 3:30 pm. It will introduce the onto:Nexus Workshop 2024 to that community.
 
 <table>
   <tr>
     <th width="150px">Time (PST)</th>
     <th>Topic</th>
     <th width="200px">Presenter</th>
+  </tr>
+  <tr>
+    <td>INCOSE IW 2024</td>
+    <td><a href="/blog/2024/01/27/Enabling-Rigor-and-Agility-in-MBSE-Practice.html">openCAESAR: Balanacing Rigor and Agility in MBSE Practice</a></td>
+    <td>Maged Elaasar (JPL)</td>
   </tr>
   <tr style="color: blue;">
     <td>7:30 - 8:15</td>
