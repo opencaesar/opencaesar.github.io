@@ -45,10 +45,16 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
     <th>Topic</th>
     <th width="200px">Presenter</th>
   </tr>
+  <tr style="color: green;">
+    <td colspan="3">INCOSE IW 2024 (Jan 27)</td>
+  </tr>
   <tr>
-    <td>INCOSE IW 2024</td>
+    <td>3:30 - 4:30</td>
     <td><a href="/blog/2024/01/27/Enabling-Rigor-and-Agility-in-MBSE-Practice.html">openCAESAR: Balanacing Rigor and Agility in MBSE Practice</a></td>
     <td>Maged Elaasar (JPL)</td>
+  </tr>
+  <tr style="color: green;">
+    <td colspan="3">onto:Nexus Workshop 2024 (Jan 31)</td>
   </tr>
   <tr style="color: blue;">
     <td>7:30 - 8:15</td>
@@ -131,7 +137,7 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
     <td><a href="/events/2023-11-22-onto-Nexus-Workshop-2024/Panel">Discussion Panel: How should we collaborate?</a></td>
     <td>David Wagner (JPL)</td>
   </tr>
-  <tr>
+  <tr style="color: blue;">
     <td>4:30</td>
     <td colspan="2">Conclusion</td>
   </tr>
