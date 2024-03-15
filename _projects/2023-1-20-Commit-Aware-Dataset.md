@@ -37,4 +37,4 @@ Click on the Slideshow button below to see a presentation with demos:
 
 ## Sponsors
 
-[![Modelware](/assets/img/modelware.png)](https://modelware.io/)
+[<img width="200px" src="https://brand.ucla.edu/images/logos-and-marks/campus-logo.jpg"/>](https://www.ucla.edu/)
