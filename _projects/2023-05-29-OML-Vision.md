@@ -32,6 +32,7 @@ Ultimately, the project seeks to reimagine how system modelers interact with OML
 - [Aaron Levitt (co-I)](/contributors/Aaron%20Levitt.html)
 - [Aaron Minkov (Intern, UCLA)](https://www.linkedin.com/in/aaronminkov)
 - [Richie Raymond Wong (Intern, CalPoly Pomona)](https://www.linkedin.com/in/raymond-exe)
+- [Alex Matei (Intern, CalPoly Pomona)](https://www.linkedin.com/in/alex-matei-832b70135/)
 
 ## Sponsors
 
