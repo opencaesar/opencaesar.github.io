@@ -1,17 +1,17 @@
 # Name should not exceed 20 character
 - name: Community
   link: /community
-- name: Contributors
-  link: /contributors
 - name: Blog
   link: /blog
-- name: Projects
-  link: /projects
+- name: RAISE
+  link: /raise
 - name: Papers
   link: /papers
 - name: Events
   link: /events
 - name: Tutorials
   link: /tutorials
+- name: Contributors
+  link: /contributors
 - name: GitHub
   link: https://github.com/opencaesar

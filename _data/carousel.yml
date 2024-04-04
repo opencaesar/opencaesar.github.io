@@ -15,6 +15,6 @@
 - caption: "Engage with the RAISE Lab"
   carouselImageName: banner_1.png
   floatingImageName: raise.png
-  readMoreUrl: projects/
+  readMoreUrl: raise/
   buttonLable: "Learn More"
   slideId: 2
