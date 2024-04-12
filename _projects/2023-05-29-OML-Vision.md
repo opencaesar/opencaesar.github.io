@@ -21,9 +21,27 @@ Our extension's architecture consists of a backend and a frontend. The backend l
 
 Ultimately, the project seeks to reimagine how system modelers interact with OML by abstracting its complexities behind a more accessible and user-friendly web-based interface.  This approach will empower users to effectively utilize the robust capabilities of OML for systems modeling without needing to master every detail of the language. By enhancing the user experience, we hope to encourage a broader adoption of OML.
 
-### Namesake Origin
+## Results
 
-<https://www.futureengineers.org/nametherover/gallery/23269/>
+### OML Vision UI
+
+We released in January 2024 an alpha version of the VS Code extension of OML Vision. This version loads an OML dataset to a Fuseki dataset and allows visualize and editing it using custom declaratively-defined UI viewpoints.
+
+{% include youtube.html id="chnKBsok-rY" %}
+
+<br>
+
+### Incremental Reasoning
+
+We have configured the Fuseki triple store run by OML Vision to have an incremental rule-based reasoner. This means every time the description models are changed in Fuseki, the reasoner runs to generate/update entailments and make them available to queries made by the UI viewpoints during the authoring session. This simplies the queries and enables the design of interesting dynamic viewpoints.
+
+### OWL to OML Interface
+
+We released v2.6.0 of the OWL adapter with a new OWL-to-OML interface (in addition to the previously existing OML-to-OWL one). The new interface has two levels of support. 
+
+The first level (already released) assumes that the OWL conforms to the OML profile (a subset of OWL). This level enables any tool to edit an OML dataset by loading it to a triple store in OWL format, updating it using a SPARQL-Update endpoint, then saving it back to OML format. This is one way the new Typescript-based OML Vision IDE will be editing OML models.
+
+The second level (still in alpha) does NOT assume the OWL conforms to the OML profile, so the result might be partial (best effort). This level will be used to convert public domain OWL ontologies to OML. Initial results on converting some public domain ontologies are promising but need to be assessed further.
 
 ## Project Team
 
