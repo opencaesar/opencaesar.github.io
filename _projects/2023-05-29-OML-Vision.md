@@ -23,25 +23,9 @@ Ultimately, the project seeks to reimagine how system modelers interact with OML
 
 ## Results
 
-### OML Vision UI
-
-We released in January 2024 an alpha version of the VS Code extension of OML Vision. This version loads an OML dataset to a Fuseki dataset and allows visualize and editing it using custom declaratively-defined UI viewpoints.
+We released an alpha version of the VS Code extension of OML Vision. This version loads an OML dataset to Fuseki and allows visualize and editing it using custom declaratively-defined UI viewpoints. We have configured the Fuseki triple to have an incremental rule-based reasoner. This means every time the description models are changed in Fuseki, the reasoner runs to generate/update entailments and make them available to queries made by the UI viewpoints during the authoring session. This simplies the queries and enables the design of interesting dynamic viewpoints. We also use the newly developed [OWL-to-OML](/projects/2024-03-29-OWL-to-OML) interface to convert the changed description models back to OML format.
 
 {% include youtube.html id="chnKBsok-rY" %}
-
-<br>
-
-### Incremental Reasoning
-
-We have configured the Fuseki triple store run by OML Vision to have an incremental rule-based reasoner. This means every time the description models are changed in Fuseki, the reasoner runs to generate/update entailments and make them available to queries made by the UI viewpoints during the authoring session. This simplies the queries and enables the design of interesting dynamic viewpoints.
-
-### OWL to OML Interface
-
-We released v2.6.0 of the OWL adapter with a new OWL-to-OML interface (in addition to the previously existing OML-to-OWL one). The new interface has two levels of support. 
-
-The first level (already released) assumes that the OWL conforms to the OML profile (a subset of OWL). This level enables any tool to edit an OML dataset by loading it to a triple store in OWL format, updating it using a SPARQL-Update endpoint, then saving it back to OML format. This is one way the new Typescript-based OML Vision IDE will be editing OML models.
-
-The second level (still in alpha) does NOT assume the OWL conforms to the OML profile, so the result might be partial (best effort). This level will be used to convert public domain OWL ontologies to OML. Initial results on converting some public domain ontologies are promising but need to be assessed further.
 
 ## Project Team
 
