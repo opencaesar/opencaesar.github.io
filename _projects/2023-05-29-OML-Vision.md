@@ -7,7 +7,7 @@ tag: [OML, VSCode]
 categories: [IMCE]
 current: true
 image:
-  feature: oml-vision.png
+  feature: oml-vision-2.png
   credit: Jet Propulsion Laboratory
 ---
 
