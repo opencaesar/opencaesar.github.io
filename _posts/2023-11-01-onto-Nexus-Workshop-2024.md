@@ -18,4 +18,4 @@ The <b>onto:Nexus 2024 workshop</b> is free hybrid event (no registration fees) 
 
 ## Workshop Page
 
-Visit the [workshop page](/events/2023-11-22-onto-Nexus-Workshop-2024.html) for more details.
+Visit the [workshop page](/events/onto-Nexus-Workshop-2024.html) for more details.
