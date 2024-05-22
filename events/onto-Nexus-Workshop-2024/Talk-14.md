@@ -5,7 +5,7 @@ author: "Michael Halvorson"
 tag: [ontoNexus]
 categories: [event]
 image:
-  feature: onto_Nexus.png
+  feature: onto_Nexus_2024.png
   credit: openCAESAR
   url: /events/onto-Nexus-Workshop-2024
 ---
