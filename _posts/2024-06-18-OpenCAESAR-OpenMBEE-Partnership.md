@@ -16,7 +16,7 @@ The [openCAESAR](http://www.opencaesar.io) and [OpenMBEE](https://www.openmbee.o
 
 ## History
 
-[openCAESAR](http://opencaesar.io) and [OpenMBEE](https://www.openmbee.org/) are both open source projects supporting tool suitss that can be used by modelers to help with various aspects of model expression/authoring, analysis, transformation, and storage. Both projects began at NASA's Jet Propulsion Laboratory (JPL) (operated by the California Institute of Technology) as offshoots of model development work on flight projects. The two projects had separate sponsors and supported separate customers. However, the two teams recently agreed to partner toward building complementary solutions.
+[openCAESAR](http://www.opencaesar.io) and [OpenMBEE](https://www.openmbee.org/) are both open source projects supporting tool suitss that can be used by modelers to help with various aspects of model expression/authoring, analysis, transformation, and storage. Both projects began at NASA's Jet Propulsion Laboratory (JPL) (operated by the California Institute of Technology) as offshoots of model development work on flight projects. The two projects had separate sponsors and supported separate customers. However, the two teams recently agreed to partner toward building complementary solutions.
 
 Both solutions realize architectures where descriptive and other kinds of models can be connected into an engineering process -- most specifically, a system engineering method. The method includes aspects such as change control, transformation of models into reports and views needed by other users, or tools, and various forms of model analysis that can compute things like model consistency and completeness, and detect mistakes.
 
