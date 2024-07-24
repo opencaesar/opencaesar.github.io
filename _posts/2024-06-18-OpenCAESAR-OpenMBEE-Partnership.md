@@ -12,7 +12,7 @@ image:
 
 # OpenCAESAR and OpenMBEE Announce Partnership
 
-The [openCAESAR](http://opencaesar.io) and [OpenMBEE](https://www.openmbee.org/) teams have frequently fielded questions about what the differences are between the two platforms. In this post, we explain why that question often came up. We also communicate a plan for the two teams to collaborate going forward.
+The [openCAESAR](http://www.opencaesar.io) and [OpenMBEE](https://www.openmbee.org/) teams have frequently fielded questions about what the differences are between the two platforms. In this post, we explain why that question often came up. We also communicate a plan for the two teams to collaborate going forward.
 
 ## History
 
