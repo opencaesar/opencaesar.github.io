@@ -20,7 +20,7 @@ Maged is a lecturer in the [Department of Computer Science](https://www.cs.ucla.
 
 ## Education & Training
 
-2012 - Ph.D. in Computer Systems, Carleton University
+2012 - Ph.D. in Systems and Computer Engineering, Carleton University
 
 2003 - M.Sc. in Computer Science, Carleton University
 
