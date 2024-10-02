@@ -23,7 +23,7 @@ The <b>onto:Nexus Workshop 2025</b> is the 2nd edition of the International Work
 
 The workshop will be a <b>free two-days hybrid event</b> that will take place at the Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov/)) in Pasadena, CA, on January 29-30, 2025, and online in a Microsoft Teams meeting.
 
-## Organizing Committee
+## Workshop Organizers
 
 * [Maged Elaasar](mailto:elaasar@jpl.nasa.gov), JPL, chair
 
