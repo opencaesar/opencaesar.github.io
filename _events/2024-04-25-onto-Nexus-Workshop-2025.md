@@ -19,9 +19,9 @@ The <b>onto:Nexus Workshop</b>, or the International Workshop on Ontological Mod
 
 ## This Edition
 
-The <b>onto:Nexus Workshop 2025</b> is the 2nd edition of the workshop and has the theme of <b>Collaborations and Demonstrations</b>. This will be an opportunity to report on recent collaborations between community members inspired by last year's call for collaboration. It will also be an opporuntity to showoff new tools, capabilities, and exemplars that demonstrate rigor, agility, and/or intelligence in ontological modeling. Please check out the call for presentation below.
+The <b>onto:Nexus Workshop 2025</b> is the 2nd edition of the International Workshop on Ontological Modeling and Analysis. The theme of this edition is "Realizing the [RAISE](https://www.opencaesar.io/raise) Vision", where we will hear from members of the community about their efforts adding rigor, agility, and intelligence to their systems engineering practices. We will also hear about new and on-going collaborations inspired by the first edition of the workshop. Moreover, will have tutorials featuring approaches, tools and/or case studies that exemply the RAISE vision.
 
-The workshop will be a <b>free two-days hybrid event</b> that will take place at the Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov/)) in Pasadena, CA, on January 29-30, 2025.
+The workshop will be a <b>free two-days hybrid event</b> that will take place at the Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov/)) in Pasadena, CA, on January 29-30, 2025, and online in a Microsoft Teams meeting.
 
 ## Organizing Committee
 
@@ -29,17 +29,13 @@ The workshop will be a <b>free two-days hybrid event</b> that will take place at
 
 ## Call for Presentations
 
-This edition's call for presentation is open to members of the community to report on practice or research activities related to ontological modeling and analysis. Presentations can be about any relevant R&D work but priority will be given to presentations reporting on:
-
-- Collaborative activities between community members
-- New tools and capabilities
-- Exemplar projects (or case studies)
+This edition's call for presentation is open to members of the community to report on practice or research activities related to ontological modeling and analysis. Presentations can be about any relevant R&D work but priority will be given to presentations reporting on collaborations between community members.
 
 > Please send your proposal abstract by email to the chair or the organizing committee. We will follow up with you after that.
 
 ## Call for Tutorials
 
-This year will feature tutorials on technologies supporting ontological modeling and analysis. We are looking for proposals for half-day (3h) tutorials.
+This year will feature tutorials on tools, technologies, and case studies supporting the RAISE vision. We are looking for proposals for half-day (3h) tutorials.
 
 > Please send your tutorial abstract by email to the chair or the organizing committee. We will follow up with you after that.
 
