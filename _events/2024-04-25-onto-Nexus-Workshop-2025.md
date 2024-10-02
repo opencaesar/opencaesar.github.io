@@ -25,21 +25,25 @@ The <b>onto:Nexus Workshop 2025</b> is the 2nd edition of the International Work
 
 The workshop will be a <b>free two-days hybrid event</b> that will take place at the Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov/)) in Pasadena, CA, on January 29-30, 2025, and online in a Microsoft Teams meeting.
 
-## Workshop Organizers
+For online attendance, please register to the [LinkedIn event](https://www.linkedin.com/events/onto-nexusworkshop2025-inperson7247053965337473024?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B8o3OgtDYQPWTIHjJUlHQAQ%3D%3D). Only those who register will be invited to the Microsoft Teams meeting. The deadline for this is January 27, 2025.
 
-* [Maged Elaasar](mailto:elaasar@jpl.nasa.gov), JPL, chair
+For in-person attendance at JPL, please send me an email to the chair of the workshop and wait for a confirmation. Venue space will be limited, so the sooner you reserve your spot, the better. There will be a logistical on-boarding process to go through to gain access to the venue. The deadline for this is January 15, 2025 if you are a US person, and January 1, 2025 if you are a foreign national.
+
+## Workshop Chair
+
+* [Maged Elaasar](mailto:elaasar@jpl.nasa.gov), JPL
 
 ## Call for Presentations
 
 This edition's call for presentation is open to members of the community to report on practice or R&D activities related to ontological modeling and analysis. Presentations can be about any relevant work but priority will be given to presentations reporting on collaborations between community members.
 
-> Please send your proposal abstract by email to the chair of the workshop. We will follow up with you after that.
+Please send your proposal abstract by email to the chair of the workshop. We will follow up with you after that.
 
 ## Call for Tutorials
 
 This year will feature tutorials on tools, technologies, and case studies supporting the RAISE vision. We are looking for proposals for half-day (3h) tutorials.
 
-> Please send your tutorial abstract by email to the chair of the workshop. We will follow up with you after that.
+Please send your tutorial abstract by email to the chair of the workshop. We will follow up with you after that.
 
 ## onto:Nexus Forum
 
