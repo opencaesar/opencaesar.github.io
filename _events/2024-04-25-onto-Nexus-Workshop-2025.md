@@ -11,7 +11,7 @@ image:
 permalink: /events/onto-Nexus-Workshop-2025
 ---
 
-![onto:Nexus Workshop 2025](assets/img/onto_Nexus_2025_poster.jpeg)
+![onto:Nexus Workshop 2025](../assets/img/onto_Nexus_2025_poster.jpeg)
 
 > This page is a work in progress. Please visit frequently for updates.
 
