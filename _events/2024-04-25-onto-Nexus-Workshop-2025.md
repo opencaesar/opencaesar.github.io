@@ -6,7 +6,7 @@ author_image: maged.png
 tag: [MBSE, IMCE, CAESAR, OML, openCAESAR]
 categories: [blog]
 image:
-  feature: onto_Nexus_2025.png
+  feature: onto_Nexus_2025_poster.jpeg
   credit: openCAESAR
 permalink: /events/onto-Nexus-Workshop-2025
 ---
