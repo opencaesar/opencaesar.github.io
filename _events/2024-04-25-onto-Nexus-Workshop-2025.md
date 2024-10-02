@@ -15,10 +15,6 @@ permalink: /events/onto-Nexus-Workshop-2025
 
 ![onto:Nexus Workshop 2025](../assets/img/onto_Nexus_2025_poster.jpeg)
 
-## Workshop Chair
-
-* [Maged Elaasar](mailto:elaasar@jpl.nasa.gov), JPL
-
 ## About onto:Nexus Workshop
 
 The <b>onto:Nexus Workshop</b>, or the International Workshop on Ontological Modeling and Analysis, is a forum for developers, researchers, and practioners to discuss topics related to the application of formal methods (adding rigor), DevOps methods (adding agilility), and AI methods (adding intelligence) to the practice of ontological modeling and analysis. It also intends to foster collaborations within this community.
@@ -52,3 +48,11 @@ Please send your tutorial abstract by email to the chair of the workshop. We wil
 ## onto:Nexus Forum
 
 If you are not yet a member of the [onto:Nexus Forum](https://www.linkedin.com/groups/14235207/) (LinkedIn group), we invite you to join to be part of the community going forward.
+
+## Workshop Chair
+
+* [Maged Elaasar](mailto:elaasar@jpl.nasa.gov), JPL
+
+## Agenda
+
+TBD
