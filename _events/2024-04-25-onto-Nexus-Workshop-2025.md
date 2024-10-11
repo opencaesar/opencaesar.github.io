@@ -31,7 +31,7 @@ Register to the [LinkedIn event](https://www.linkedin.com/events/onto-nexusworks
 
 ## In-Person Attendance
 
-Send me an email to the chair of the workshop and wait for a confirmation. Venue space will be limited, so the sooner you reserve your spot, the better. There will be a logistical on-boarding process to go through to gain access to the venue. The deadline for this is January 15, 2025 if you are a US person, and January 1, 2025 if you are a foreign national.
+Send an email to the chair of the workshop and wait for a confirmation. Venue space will be limited, so the sooner you reserve your spot, the better. There will be a logistical on-boarding process to go through to gain access to the venue. The deadline for this is January 15, 2025 if you are a US person, and January 1, 2025 if you are a foreign national.
 
 ## Call for Presentations
 
