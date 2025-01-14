@@ -11,7 +11,7 @@ image:
 permalink: /events/onto-Nexus-Workshop-2025
 ---
 
-> This page is a work in progress. Please visit frequently for updates.
+> <span style="color:red">In light of the recent wildfires in the Los Angeles region, the event is going to be postponed to Q2 2025 to allow sufficient time for conditions to improve. The tentative new dates are May 7–8 but we will confirm as soon as the arrangements are finalized.</span>
 
 ![onto:Nexus Workshop 2025](../assets/img/onto_Nexus_2025_poster.jpeg)
 
