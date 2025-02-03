@@ -13,15 +13,15 @@ image:
 
 ## Project Summary
 
-This project intends to develop an approach to transform information icontained n (PDF) documents to a semantic Knowledge Graph (KG) conforming to an domain vocabulary (ontology) such that it can be queried. The envisioned approach is to develop an LLM-based assistant to perform this transformation.
+This project intends to develop an approach to use an LLM to extract information in a (PDF) document to a Knowledge Graph (KG) and organize it based on an domain vocabulary (ontology) such that it can be curated and queried more precisely with SPARQL.
 
 ## Results
 
-We are proud to report that the team has won an award from JPL for this project.
+We are proud to report that this project has won a team award from JPL.
 
 ![Document Analyzer Award](/assets/img/doc-analyzer-award.jpeg)
 
-Click on the Slideshow button below to see a presentation with demos:
+Click on the Slideshow button below to see the result in a slide deck:
 
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
@@ -34,12 +34,12 @@ Click on the Slideshow button below to see a presentation with demos:
 
 ## Project Team
 
-- [Maged Elaasar](/contributors/Maged%20Elaasar.html), JPL, co-I
+- [Maged Elaasar](/contributors/Maged%20Elaasar.html), JPL/Modelware, co-I
 - Kelli McCoy, JPL, co-I
 - Patric Bjornstadt, JPL
 - Mahmudur Khan, JPL
-- Kareem Elaasar, student, UCI
-- Namrata Acharya, student, UCLA
+- Kareem Elaasar, student, Modelware
+- Namrata Acharya, student, Modelware
 
 ## Sponsors
 
