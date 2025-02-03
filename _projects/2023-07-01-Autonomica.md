@@ -5,7 +5,7 @@ author: "Maged Elaasar"
 author_image: maged.png
 tag: [oml]
 categories: [autonomy]
-current: true
+current: false
 image:
   feature: Autonomica.png
   credit: Jet Propulsion Laboratory
