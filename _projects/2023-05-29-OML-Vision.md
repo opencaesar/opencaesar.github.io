@@ -1,8 +1,8 @@
 ---
 layout: project
 title: "OML Vision"
-author: "Aaron Levitt, Aaron Minkov, Richie Wong"
-author_image: aaron.jpeg
+author: "Maged Elaasar"
+author_image: maged.png
 tag: [OML, VSCode]
 categories: [IMCE]
 current: true
@@ -31,10 +31,6 @@ We released an alpha version of the VS Code extension of OML Vision. This versio
 
 - [Maged Elaasar, Ph.D (PI)](/contributors/Maged%20Elaasar.html)
 - [David Wagner (co-I)](/contributors/David%20Wagner.html)
-- [Aaron Levitt (co-I)](/contributors/Aaron%20Levitt.html)
-- [Aaron Minkov (Intern, UCLA)](https://www.linkedin.com/in/aaronminkov)
-- [Richie Raymond Wong (Intern, CalPoly Pomona)](https://www.linkedin.com/in/raymond-exe)
-- [Alex Matei (Intern, CalPoly Pomona)](https://www.linkedin.com/in/alex-matei-832b70135/)
 
 ## Sponsors
 
