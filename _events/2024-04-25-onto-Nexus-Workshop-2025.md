@@ -179,49 +179,59 @@ This year will feature tutorials on tools, technologies, and case studies suppor
     <td colspan="2">JPL Visitor Onboarding</td>
   </tr>
   <tr>
-    <td>8:30 - 8:40</td>
+    <td>8:30 - 8:45</td>
     <td>Introduction to Day 2</td>
     <td>Maged Elaasar (JPL)</td>
+  </tr>
+  <tr>
+    <td>8:45 - 9:00</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td style="color: blue;" colspan="3">R&D Projects</td>
   </tr>
   <tr>
-    <td>8:40 - 9:00</td>
+    <td>9:00 - 9:15</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>9:00 - 9:20</td>
+    <td>9:15 - 9:30</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>9:20 - 9:40</td>
+    <td>9:30 - 9:45</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>9:40 - 9:55</td>
+    <td>9:45 - 10:00</td>
     <td colspan="2">Coffee Break (15min)</td>
   </tr>
   <tr>
-    <td>9:55 - 10:15</td>
+    <td>10:00 - 10:15</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>10:15 - 10:35</td>
+    <td>10:00 - 10:30</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>10:35 - 10:55</td>
+    <td>10:30 - 10:45</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>10:55 - 11:15</td>
+    <td>10:45 - 11:00</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>11:00 - 11:15</td>
     <td></td>
     <td></td>
   </tr>
