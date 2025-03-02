@@ -31,7 +31,7 @@ The workshop will be a <b>free two-days hybrid event</b> that will take place at
 
 Register to the [LinkedIn event](https://www.linkedin.com/events/onto-nexusworkshop2025-inperson7247053965337473024?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B8o3OgtDYQPWTIHjJUlHQAQ%3D%3D). Only those who register will be invited to the Microsoft Teams meeting. The deadline for this is May 2, 2025.
 
-A virtual tour of the JPL campus will be provided for online attendees.
+A virtual tour of the JPL campus will be provided for online attendees during the mid day break (see agenda below).
 
 ## In-Person Attendance
 
@@ -39,7 +39,7 @@ Send an email to the chair of the workshop and wait for a confirmation. The soon
 
 Drinks and light refreshments will be provided on both days. Lunch will be the responsibility of attendees and can be purchased from the JPL cafeteria.
 
-In person attendees will be taken on a 1h tour of the JPL campus on both days right after lunch. Different sights will be visited on the two days.
+In person attendees will be taken on a 1h tour of the JPL campus on both days during the mid day break (see agenda below). Different sights will be visited on each day.
 
 ## Call for Presentations
 
