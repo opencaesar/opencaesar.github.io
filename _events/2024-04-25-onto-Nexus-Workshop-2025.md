@@ -17,6 +17,10 @@ permalink: /events/onto-Nexus-Workshop-2025
 
 The <b>onto:Nexus Workshop</b>, or the International Workshop on Ontological Modeling and Analysis, is a forum for developers, researchers, and practioners to discuss topics related to the application of formal methods (adding rigor), DevOps methods (adding agilility), and AI methods (adding intelligence) to the practice of ontological modeling and analysis. It also intends to foster collaborations within this community.
 
+## Workshop Chair
+
+* [Maged Elaasar](mailto:elaasar@jpl.nasa.gov), JPL
+
 ## This Edition
 
 The <b>onto:Nexus Workshop 2025</b> is the 2nd edition of the International Workshop on Ontological Modeling and Analysis. The theme of this edition is "Realizing the RAISE Vision", where we will hear from members of the community about their efforts adding rigor, agility, and intelligence to their systems engineering practices. Moreover, we will have tutorials featuring approaches that exemply the RAISE vision, as well as reports on R&D project led by students of the [RAISE](https://www.opencaesar.io/raise) lab.
@@ -39,16 +43,7 @@ This edition's call for presentation is open to members of the community to repo
 
 This year will feature tutorials on tools, technologies, and case studies supporting the RAISE vision. Please send your tutorial abstract by email to the chair of the workshop. We will follow up with you after that.
 
-## onto:Nexus Forum
-
-If you are not yet a member of the [onto:Nexus Forum](https://www.linkedin.com/groups/14235207/) (LinkedIn group), we invite you to join to be part of the community going forward.
-
-## Workshop Chair
-
-* [Maged Elaasar](mailto:elaasar@jpl.nasa.gov), JPL
-
 ## DAY 1 Agenda (Monday 5, 2025)
-
 
 <table>
   <tr>
@@ -266,3 +261,7 @@ If you are not yet a member of the [onto:Nexus Forum](https://www.linkedin.com/g
     <td colspan="2">Conclusion</td>
   </tr>
 </table>
+
+## onto:Nexus Forum
+
+If you are not yet a member of the [onto:Nexus Forum](https://www.linkedin.com/groups/14235207/) (LinkedIn group), we invite you to join to be part of the community going forward.
