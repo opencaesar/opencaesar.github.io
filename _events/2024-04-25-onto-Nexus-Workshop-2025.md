@@ -11,8 +11,6 @@ image:
 permalink: /events/onto-Nexus-Workshop-2025
 ---
 
-> <span style="color:red">In light of the recent wildfires in the Los Angeles region, the event has been rescheduled to May 5–6 to give time for conditions to improve.</span>
-
 ![onto:Nexus Workshop 2025](../assets/img/onto_Nexus_2025_poster.jpeg)
 
 ## About onto:Nexus Workshop
@@ -21,7 +19,7 @@ The <b>onto:Nexus Workshop</b>, or the International Workshop on Ontological Mod
 
 ## This Edition
 
-The <b>onto:Nexus Workshop 2025</b> is the 2nd edition of the International Workshop on Ontological Modeling and Analysis. The theme of this edition is "Realizing the [RAISE](https://www.opencaesar.io/raise) Vision", where we will hear from members of the community about their efforts adding rigor, agility, and intelligence to their systems engineering practices. We will also hear about new and on-going collaborations inspired by the first edition of the workshop. Moreover, we will have tutorials featuring approaches, tools and/or case studies that exemply the RAISE vision.
+The <b>onto:Nexus Workshop 2025</b> is the 2nd edition of the International Workshop on Ontological Modeling and Analysis. The theme of this edition is "Realizing the RAISE Vision", where we will hear from members of the community about their efforts adding rigor, agility, and intelligence to their systems engineering practices. Moreover, we will have tutorials featuring approaches that exemply the RAISE vision, as well as reports on R&D project led by students of the [RAISE](https://www.opencaesar.io/raise) lab.
 
 The workshop will be a <b>free two-days hybrid event</b> that will take place at the Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov/)) in Pasadena, CA, on May 5-6, 2025, and online in a Microsoft Teams meeting.
 
@@ -31,19 +29,15 @@ Register to the [LinkedIn event](https://www.linkedin.com/events/onto-nexusworks
 
 ## In-Person Attendance
 
-Send an email to the chair of the workshop and wait for a confirmation. Venue space will be limited, so the sooner you reserve your spot, the better. There will be a logistical on-boarding process to go through to gain access to the venue. The deadline for this is April 15, 2025 if you are a US person, and April 1, 2025 if you are a foreign national.
+Send an email to the chair of the workshop and wait for a confirmation. The sooner you reserve your spot the better. There will be a logistical on-boarding process to go through to gain access to the venue. The deadline for this is April 15, 2025 if you are a US person, and March 15, 2025 if you are a foreign national.
 
 ## Call for Presentations
 
-This edition's call for presentation is open to members of the community to report on practice or R&D activities related to ontological modeling and analysis. Presentations can be about any relevant work but priority will be given to presentations reporting on collaborations between community members.
-
-Please send your proposal abstract by email to the chair of the workshop. We will follow up with you after that.
+This edition's call for presentation is open to members of the community to report on practice or R&D activities related to ontological modeling and analysis. Presentations can be about any relevant work to the RAISE vision. Please send your proposal abstract by email to the chair of the workshop. We will follow up with you after that.
 
 ## Call for Tutorials
 
-This year will feature tutorials on tools, technologies, and case studies supporting the RAISE vision. We are looking for proposals for half-day (3h) tutorials.
-
-Please send your tutorial abstract by email to the chair of the workshop. We will follow up with you after that.
+This year will feature tutorials on tools, technologies, and case studies supporting the RAISE vision. Please send your tutorial abstract by email to the chair of the workshop. We will follow up with you after that.
 
 ## onto:Nexus Forum
 
@@ -53,6 +47,222 @@ If you are not yet a member of the [onto:Nexus Forum](https://www.linkedin.com/g
 
 * [Maged Elaasar](mailto:elaasar@jpl.nasa.gov), JPL
 
-## Agenda
+## DAY 1 Agenda (Monday 5, 2025)
 
-TBD
+
+<table>
+  <tr>
+    <th width="150px">Time (PST)</th>
+    <th>Topic</th>
+    <th width="200px">Presenter</th>
+  </tr>
+  <tr>
+    <td style="color: blue;" colspan="3">Introduction</td>
+  </tr>
+  <tr>
+    <td>7:30 - 8:30</td>
+    <td colspan="2">JPL Visitor Onboarding</td>
+  </tr>
+  <tr>
+    <td>8:30 - 8:35</td>
+    <td>Introduction to Day 1</td>
+    <td>Maged Elaasar (JPL)</td>
+  </tr>
+  <tr>
+    <td>8:35 - 9:00</td>
+    <td>Model-Based Systems Engineering: The State of Practice</td>
+    <td>Multiple Presenters</td>
+  </tr>
+  <tr>
+    <td style="color: blue;" colspan="3">Ontological MBSE Applications</td>
+  </tr>
+  <tr>
+    <td>9:00 - 9:30</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>9:30 - 9:50</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>9:50 - 10:05</td>
+    <td colspan="2">Coffee Break (15min)</td>
+  </tr>
+  <tr>
+    <td style="color: blue;" colspan="3">Ontological MBSE Methods and Tools</td>
+  </tr>
+  <tr>
+    <td>10:05 - 10:30</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10:30 - 11:00</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>11:00 - 11:30</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="color: blue;" colspan="3">Lunch and Tour</td>
+  </tr>
+  <tr>
+    <td>11:30 - 12:15</td>
+    <td colspan="2">Lunch @ 167 Cafeteria (45min)</td>
+  </tr>
+  <tr>
+    <td>12:15 - 1:15</td>
+    <td colspan="2">Tour of JPL Campus (1h)</td>
+  </tr>
+  <tr>
+    <td style="color: blue;" colspan="3">Applications of Ontological Modeling Language</td>
+  </tr>
+  <tr>
+    <td>1:15 - 1:45</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>1:45 - 2:15</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2:15 - 2:45</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2:45 - 3:00</td>
+    <td colspan="2">Coffee Break (15min)</td>
+  </tr>
+  <tr>
+    <td style="color: blue;" colspan="3">SysML v2 Ontology</td>
+  </tr>
+  <tr>
+    <td>3:00 - 3:30</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3:30 - 4:00</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4:00 - 4:30</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="color: blue;" colspan="3">Conclusion</td>
+  </tr>
+  <tr>
+    <td>4:30 - 4:40</td>
+    <td colspan="2">Conclusion</td>
+  </tr>
+</table>
+
+## DAY 2 Agenda (Monday 6, 2025)
+
+<table>
+  <tr>
+    <th width="150px">Time (PST)</th>
+    <th>Topic</th>
+    <th width="200px">Presenter</th>
+  </tr>
+  <tr>
+    <td style="color: blue;" colspan="3">Introduction</td>
+  </tr>
+  <tr>
+    <td>7:30 - 8:30</td>
+    <td colspan="2">JPL Visitor Onboarding</td>
+  </tr>
+  <tr>
+    <td>8:30 - 8:40</td>
+    <td>Introduction to Day 2</td>
+    <td>Maged Elaasar (JPL)</td>
+  </tr>
+  <tr>
+    <td style="color: blue;" colspan="3">R&D Projects</td>
+  </tr>
+  <tr>
+    <td>8:40 - 9:00</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>9:00 - 9:20</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>9:20 - 9:40</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>9:40 - 9:55</td>
+    <td colspan="2">Coffee Break (15min)</td>
+  </tr>
+  <tr>
+    <td>9:55 - 10:15</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10:15 - 10:35</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10:35 - 10:55</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10:55 - 11:15</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="color: blue;" colspan="3">Lunch and Tour</td>
+  </tr>
+  <tr>
+    <td>11:15 - 12:00</td>
+    <td colspan="2">Lunch @ 167 Cafeteria (45min)</td>
+  </tr>
+  <tr>
+    <td>12:00 - 1:00</td>
+    <td colspan="2">Tour of JPL Campus (1h)</td>
+  </tr>
+  <tr>
+    <td style="color: blue;" colspan="3">Tutorials</td>
+  </tr>
+  <tr>
+    <td>1:00 - 2:45</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2:45 - 3:00</td>
+    <td colspan="2">Coffee Break (15min)</td>
+  </tr>
+  <tr>
+    <td>3:00 - 4:45</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td style="color: blue;" colspan="3">Conclusion</td>
+  </tr>
+  <tr>
+    <td>4:45 - 4:50</td>
+    <td colspan="2">Conclusion</td>
+  </tr>
+</table>
