@@ -35,9 +35,15 @@ Register to the [LinkedIn event](https://www.linkedin.com/events/onto-nexusworks
 
 Send an email to the chair of the workshop and wait for a confirmation. The sooner you reserve your spot the better. There will be a logistical on-boarding process to go through to gain access to the venue. The deadline for this is April 15, 2025 if you are a US person, and March 15, 2025 if you are a foreign national.
 
+Drinks and light refreshments will be provided on both days. Lunch will be the responsibility of attendees and can be purchased from the JPL cafeteria.
+
+In person attendees will be taken on a 1h tour of the JPL campus on both days right after lunch. Different sights will be visited on the two days.
+
 ## Call for Presentations
 
 This edition's call for presentation is open to members of the community to report on practice or R&D activities related to ontological modeling and analysis. Presentations can be about any relevant work to the RAISE vision. Please send your proposal abstract by email to the chair of the workshop. We will follow up with you after that.
+
+A virtual tour of the JPL campus will be provided for online attendees.
 
 ## Call for Tutorials
 
