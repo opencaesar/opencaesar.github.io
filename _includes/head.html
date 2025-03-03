@@ -17,6 +17,8 @@
   {% else %}
   <meta property="og:image" content="{{page.image.feature| prepend: '/assets/img/' | absolute_url}}">
   {% endif %}
+  <meta name="author" content="{{page.author}}">
+  <meta name="description" property="og:description" content="{{page.title}}">
   <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
   <link rel="stylesheet" href="{{'/assets/css/animate.css' | relative_url}}" />
   <link rel="stylesheet" href="{{'/assets/css/main.css' | relative_url}}" />
