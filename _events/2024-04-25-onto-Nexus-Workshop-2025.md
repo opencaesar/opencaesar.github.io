@@ -50,7 +50,7 @@ This edition's call for presentation is open to members of the community to repo
 This year will feature tutorials on tools, technologies, and case studies supporting the RAISE vision. Please send your tutorial abstract by email to the chair of the workshop. We will follow up with you after that.
 
 ## DAY 1 Agenda (Monday 5, 2025)
-
+> Subject to Change
 <table>
   <tr>
     <th width="150px">Time (PST)</th>
@@ -72,7 +72,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   <tr>
     <td>8:35 - 9:00</td>
     <td>Model-Based Systems Engineering: The State of Practice</td>
-    <td>Multiple Presenters</td>
+    <td>Wahab Hamou-Lhadj (Concordia U)</td>
   </tr>
   <tr>
     <td style="color: blue;" colspan="3">Ontological MBSE Applications</td>
@@ -84,8 +84,8 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>9:30 - 9:50</td>
-    <td></td>
-    <td></td>
+    <td>Applications of Ontologies in Pharma</td>
+    <td>Elisa Kendall (Thematix)</td>
   </tr>
   <tr>
     <td>9:50 - 10:05</td>
@@ -96,13 +96,13 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>10:05 - 10:30</td>
-    <td></td>
-    <td></td>
+    <td>Ontological Modeling in Obsidian</td>
+    <td>Maged Elaasar (JPL)</td>
   </tr>
   <tr>
     <td>10:30 - 11:00</td>
-    <td></td>
-    <td></td>
+    <td>Sierra Method: Operational Analysis of TLR Project</td>
+    <td>Nicolas Rouquette (JPL)</td>
   </tr>
   <tr>
     <td>11:00 - 11:30</td>
@@ -125,18 +125,18 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>1:15 - 1:45</td>
-    <td></td>
-    <td></td>
+    <td>Harness Design at JPL: How Modeling Vocabulary Matters</td>
+    <td>David Wagner (JPL)</td>
   </tr>
   <tr>
     <td>1:45 - 2:15</td>
-    <td></td>
-    <td></td>
+    <td>Ontological Modeling and Analysis Across the Supply Chain</td>
+    <td>Steve Jenkins (Modelware)</td>
   </tr>
   <tr>
     <td>2:15 - 2:45</td>
-    <td></td>
-    <td></td>
+    <td>Integrating Ontological Modeling and Mathematical Analysis using OML Vision</td>
+    <td>Yuta Nakajima (JAXA)</td>
   </tr>
   <tr>
     <td>2:45 - 3:00</td>
@@ -147,8 +147,8 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>3:00 - 3:30</td>
-    <td></td>
-    <td></td>
+    <td>Implementing SysML v2 Ontology</td>
+    <td>Maged Elaasar (JPL)</td>
   </tr>
   <tr>
     <td>3:30 - 4:00</td>
@@ -170,7 +170,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
 </table>
 
 ## DAY 2 Agenda (Monday 6, 2025)
-
+> Subject to Change
 <table>
   <tr>
     <th width="150px">Time (PST)</th>
@@ -209,8 +209,8 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>9:30 - 9:45</td>
-    <td></td>
-    <td></td>
+    <td>Analyzing Documents as Ontologies with LLM</td>
+    <td>Kareem Elaasar (UCI)</td>
   </tr>
   <tr>
     <td>9:45 - 10:00</td>
@@ -218,13 +218,13 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>10:00 - 10:15</td>
-    <td></td>
-    <td></td>
+    <td>Developing CCSDS Ontology and Editor with openCAESAR</td>
+    <td>Mohammad Hamdaqa (U of Montreal)</td>
   </tr>
   <tr>
-    <td>10:00 - 10:30</td>
-    <td></td>
-    <td></td>
+    <td>10:15 - 10:30</td>
+    <td>Ontological Analysis of Building Code on BIM Models</td>
+    <td>Summayah Waseem (CSUN)</td>
   </tr>
   <tr>
     <td>10:30 - 10:45</td>
@@ -233,8 +233,8 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>10:45 - 11:00</td>
-    <td></td>
-    <td></td>
+    <td>OML CoPilot with LLM</td>
+    <td>Ajay Sreekumar (U of Arizona)</td>
   </tr>
   <tr>
     <td>11:00 - 11:15</td>
@@ -257,8 +257,8 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>1:00 - 2:45</td>
-    <td></td>
-    <td></td>
+    <td>OML Tutorial</td>
+    <td>Maged Elaaar (JPL)</td>
   </tr>
   <tr>
     <td>2:45 - 3:00</td>
@@ -266,8 +266,8 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>3:00 - 4:45</td>
-    <td></td>
-    <td></td>
+    <td>EMPIRE Tutorial</td>
+    <td>Michael Halvorson (Auburn U)</td>
   </tr>
   <tr>
     <td style="color: blue;" colspan="3">Conclusion</td>
