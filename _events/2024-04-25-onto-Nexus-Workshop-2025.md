@@ -7,6 +7,7 @@ tag: [MBSE, IMCE, CAESAR, OML, openCAESAR]
 categories: [blog]
 image:
   feature: onto_Nexus_2025.png
+  og: onto_Nexus_2025_og.png
   credit: openCAESAR
 permalink: /events/onto-Nexus-Workshop-2025
 ---
