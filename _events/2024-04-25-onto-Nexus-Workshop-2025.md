@@ -158,8 +158,8 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>4:00 - 4:30</td>
-    <td></td>
-    <td></td>
+    <td>Exploring the Synergy of SysML v2 and OML in Model-Based Aircraft Systems Design</td>
+    <td>Oliver Bertram (DLR)</td>
   </tr>
   <tr>
     <td style="color: blue;" colspan="3">Conclusion</td>
@@ -205,8 +205,8 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>9:15 - 9:30</td>
-    <td></td>
-    <td></td>
+    <td>Embedding Digital Engineering into the Systems Engineering Classroom</td>
+    <td>Joe Gregory (U of Arizona)</td>
   </tr>
   <tr>
     <td>9:30 - 9:45</td>
