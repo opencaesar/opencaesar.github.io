@@ -153,8 +153,8 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>3:30 - 4:00</td>
-    <td></td>
-    <td></td>
+    <td>OpenMBEE Flexo: RDF Repository Service for SysML v2</td>
+    <td>Blake Regalia (JPL)</td>
   </tr>
   <tr>
     <td>4:00 - 4:30</td>
