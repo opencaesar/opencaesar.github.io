@@ -144,7 +144,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
     <td colspan="2">Coffee Break (15min)</td>
   </tr>
   <tr>
-    <td style="color: blue;" colspan="3">SysML v2 Ontology</td>
+    <td style="color: blue;" colspan="3">SysML v2</td>
   </tr>
   <tr>
     <td>3:00 - 3:30</td>
