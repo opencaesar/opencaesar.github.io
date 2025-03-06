@@ -200,8 +200,8 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>9:15 - 9:30</td>
-    <td>Embedding Digital Engineering into the Systems Engineering Classroom</td>
-    <td>Joe Gregory (U of Arizona)</td>
+    <td>Modeling Space – An Ontology Suite for Astronautics and Astronomy</td>
+    <td>Robert Rovetto (U of Maryland)</td>
   </tr>
   <tr>
     <td>9:30 - 9:45</td>
@@ -224,8 +224,8 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>10:30 - 10:45</td>
-    <td></td>
-    <td></td>
+    <td>Embedding Digital Engineering into the Systems Engineering Classroom</td>
+    <td>Joe Gregory (U of Arizona)</td>
   </tr>
   <tr>
     <td>10:45 - 11:00</td>
