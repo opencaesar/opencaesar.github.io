@@ -66,17 +66,17 @@ This year will feature tutorials on tools, technologies, and case studies suppor
     <td colspan="2">JPL Visitor Onboarding</td>
   </tr>
   <tr>
-    <td>8:30 - 8:35</td>
+    <td>8:25 - 8:30</td>
     <td>Introduction to Day 1</td>
     <td>Maged Elaasar (JPL)</td>
   </tr>
   <tr>
-    <td>8:35 - 9:00</td>
-    <td>Model-Based Systems Engineering: The State of Practice</td>
-    <td>Wahab Hamou-Lhadj (Concordia U)</td>
+    <td style="color: blue;" colspan="3">MBSE in Industry</td>
   </tr>
   <tr>
-    <td style="color: blue;" colspan="3">Ontological MBSE Applications</td>
+    <td>8:30 - 9:00</td>
+    <td>Model-Based Systems Engineering: The State of Practice</td>
+    <td>Wahab Hamou-Lhadj (Concordia U)</td>
   </tr>
   <tr>
     <td>9:00 - 9:30</td>
@@ -186,7 +186,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
     <td colspan="2">JPL Visitor Onboarding</td>
   </tr>
   <tr>
-    <td>8:30 - 8:45</td>
+    <td>8:25 - 8:45</td>
     <td>Introduction to Day 2</td>
     <td>Maged Elaasar (JPL)</td>
   </tr>
