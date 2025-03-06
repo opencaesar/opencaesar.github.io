@@ -107,8 +107,8 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>11:00 - 11:30</td>
-    <td></td>
-    <td></td>
+    <td>Integrated Knowledge Centric Engineering at Leonardo</td>
+    <td>Lewis Humphries (Leonardo)</td>
   </tr>
   <tr>
     <td style="color: blue;" colspan="3">Lunch and Tour</td>
