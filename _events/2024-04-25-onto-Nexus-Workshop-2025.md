@@ -66,7 +66,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
     <td style="color: blue;" colspan="3">Introduction</td>
   </tr>
   <tr>
-    <td>8:25 - 8:30</td>
+    <td>8:30 - 8:35</td>
     <td>Introduction to Day 1</td>
     <td>Maged Elaasar (JPL)</td>
   </tr>
@@ -74,7 +74,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
     <td style="color: blue;" colspan="3">MBSE in Industry</td>
   </tr>
   <tr>
-    <td>8:30 - 9:00</td>
+    <td>8:35 - 9:00</td>
     <td>MBSE State of Practice: Survey Results</td>
     <td>Wahab Hamou-Lhadj (Concordia U)</td>
   </tr>
@@ -186,7 +186,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
     <td style="color: blue;" colspan="3">Introduction</td>
   </tr>
   <tr>
-    <td>8:25 - 8:45</td>
+    <td>8:30 - 8:45</td>
     <td>Introduction to Day 2</td>
     <td>Maged Elaasar (JPL)</td>
   </tr>
