@@ -24,7 +24,7 @@ The <b>onto:Nexus Workshop</b>, or the International Workshop on Ontological Mod
 
 ## This Edition
 
-The <b>onto:Nexus Workshop 2025</b> is the 2nd edition of the International Workshop on Ontological Modeling and Analysis. The theme of this edition is "Realizing the RAISE Vision", where we will hear from members of the community about their efforts adding rigor, agility, and intelligence to their systems engineering practices. Moreover, we will have tutorials featuring approaches that exemply the RAISE vision, as well as reports on R&D project led by students of the [RAISE](https://www.opencaesar.io/raise) lab.
+The <b>onto:Nexus Workshop 2025</b> is the 2nd edition of the International Workshop on Ontological Modeling and Analysis. The theme of this edition is "Realizing the RAISE Vision", where we will hear from members of the community about their efforts adding rigor, agility, and intelligence to their systems engineering practices. Moreover, we will have tutorials featuring approaches that exemply the RAISE vision, as well as reports on R&D projects led by students of the [RAISE](https://www.opencaesar.io/raise) lab.
 
 The workshop will be a <b>free two-days hybrid event</b> that will take place at the Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov/)) in Pasadena, CA, on May 5-6, 2025, and online in a Microsoft Teams meeting.
 
