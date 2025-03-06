@@ -59,11 +59,11 @@ This year will feature tutorials on tools, technologies, and case studies suppor
     <th width="200px">Presenter</th>
   </tr>
   <tr>
-    <td style="color: blue;" colspan="3">Introduction</td>
-  </tr>
-  <tr>
     <td>7:30 - 8:30</td>
     <td colspan="2">JPL Visitor Onboarding</td>
+  </tr>
+  <tr>
+    <td style="color: blue;" colspan="3">Introduction</td>
   </tr>
   <tr>
     <td>8:25 - 8:30</td>
@@ -179,11 +179,11 @@ This year will feature tutorials on tools, technologies, and case studies suppor
     <th width="200px">Presenter</th>
   </tr>
   <tr>
-    <td style="color: blue;" colspan="3">Introduction</td>
-  </tr>
-  <tr>
     <td>7:30 - 8:30</td>
     <td colspan="2">JPL Visitor Onboarding</td>
+  </tr>
+  <tr>
+    <td style="color: blue;" colspan="3">Introduction</td>
   </tr>
   <tr>
     <td>8:25 - 8:45</td>
