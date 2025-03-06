@@ -93,7 +93,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
     <td colspan="2">Coffee Break (15min)</td>
   </tr>
   <tr>
-    <td style="color: blue;" colspan="3">Ontological MBSE Methods and Tools</td>
+    <td style="color: blue;" colspan="3">MBSE Methods and Tools</td>
   </tr>
   <tr>
     <td>10:05 - 10:30</td>
@@ -122,7 +122,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
     <td colspan="2">Tour of JPL Campus (1h)</td>
   </tr>
   <tr>
-    <td style="color: blue;" colspan="3">Applications of Ontological Modeling Language</td>
+    <td style="color: blue;" colspan="3">MBSE with Ontological Modeling Language</td>
   </tr>
   <tr>
     <td>1:15 - 1:45</td>
