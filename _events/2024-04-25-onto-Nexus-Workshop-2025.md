@@ -196,7 +196,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
     <td></td>
   </tr>
   <tr>
-    <td style="color: blue;" colspan="3">R&D Projects</td>
+    <td style="color: blue;" colspan="3">Ontology R&D Projects</td>
   </tr>
   <tr>
     <td>9:15 - 9:30</td>
@@ -249,7 +249,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
     <td colspan="2">Tour of JPL Campus (1h)</td>
   </tr>
   <tr>
-    <td style="color: blue;" colspan="3">Tutorials</td>
+    <td style="color: blue;" colspan="3">Ontology Tutorials</td>
   </tr>
   <tr>
     <td>1:00 - 2:45</td>
