@@ -191,17 +191,12 @@ This year will feature tutorials on tools, technologies, and case studies suppor
     <td>Maged Elaasar (JPL)</td>
   </tr>
   <tr>
-    <td>8:45 - 9:00</td>
+    <td>8:45 - 9:15</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td style="color: blue;" colspan="3">R&D Projects</td>
-  </tr>
-  <tr>
-    <td>9:00 - 9:15</td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>9:15 - 9:30</td>
