@@ -75,7 +75,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>8:30 - 9:00</td>
-    <td>Model-Based Systems Engineering: The State of Practice</td>
+    <td>MBSE State of the Practice: Survey Results</td>
     <td>Wahab Hamou-Lhadj (Concordia U)</td>
   </tr>
   <tr>
