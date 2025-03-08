@@ -234,8 +234,8 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>11:00 - 11:15</td>
-    <td></td>
-    <td></td>
+    <td>OML Code Extension</td>
+    <td>Leroy Greg (UCLA)</td>
   </tr>
   <tr>
     <td style="color: blue;" colspan="3">Lunch and Tour</td>
