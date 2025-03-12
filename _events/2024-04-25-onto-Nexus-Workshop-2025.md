@@ -80,7 +80,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>9:00 - 9:30</td>
-    <td>Establishing a Digital Engineering Center of Excellence at JPL</td>
+    <td>Keynote: Establishing a Digital Engineering Center of Excellence at JPL</td>
     <td>Steven Ardito (JPL)</td>
   </tr>
   <tr>
@@ -192,7 +192,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>8:45 - 9:15</td>
-    <td>Ontologies and Semantic Technologies for Trustworthy Systems Engineering</td>
+    <td>Keynote: Ontologies and Semantic Technologies for Trustworthy Systems Engineering</td>
     <td>Giancarlo Guizzardi (U of Twente)</td>
   </tr>
   <tr>
