@@ -84,19 +84,19 @@ This year will feature tutorials on tools, technologies, and case studies suppor
     <td>Steven Ardito (JPL)</td>
   </tr>
   <tr>
-    <td>9:30 - 9:50</td>
+    <td>9:30 - 9:55</td>
     <td>Applications of Ontologies in Pharma</td>
     <td>Elisa Kendall (Thematix)</td>
   </tr>
   <tr>
-    <td>9:50 - 10:05</td>
+    <td>9:55 - 10:10</td>
     <td colspan="2">Coffee Break (15min)</td>
   </tr>
   <tr>
     <td style="color: blue;" colspan="3">MBSE Methods and Tools</td>
   </tr>
   <tr>
-    <td>10:05 - 10:30</td>
+    <td>10:10 - 10:30</td>
     <td>Ontological Modeling in Obsidian</td>
     <td>Maged Elaasar (JPL)</td>
   </tr>
