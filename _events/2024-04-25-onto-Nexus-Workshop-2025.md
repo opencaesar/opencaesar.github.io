@@ -50,7 +50,7 @@ This edition's call for presentation is open to members of the community to repo
 
 This year will feature tutorials on tools, technologies, and case studies supporting the RAISE vision. Please send your tutorial abstract by email to the chair of the workshop. We will follow up with you after that.
 
-## DAY 1 Agenda (Monday 5, 2025)
+## DAY 1 Agenda (Monday, May 5, 2025)
 > Subject to Change
 <table>
   <tr>
@@ -170,7 +170,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
 </table>
 
-## DAY 2 Agenda (Monday 6, 2025)
+## DAY 2 Agenda (Tues, May 6, 2025)
 > Subject to Change
 <table>
   <tr>
