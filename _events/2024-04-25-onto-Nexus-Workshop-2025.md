@@ -170,7 +170,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
 </table>
 
-## DAY 2 Agenda (Tues, May 6, 2025)
+## DAY 2 Agenda (Tuesday, May 6, 2025)
 > Subject to Change
 <table>
   <tr>
