@@ -1,8 +1,8 @@
 ---
 layout: contributor
 name: Steve Jenkins
-position: IMCE Chief Engineer
-orginization: NASA Jet Propulsion Laboratory
+position: Chief Ontologist
+orginization: Modelware
 author_image_thumbnail: stevej.png
 insider: true
 current: true

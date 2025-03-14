@@ -5,7 +5,7 @@ position: IMCE Software Engineer
 orginization: NASA Jet Propulsion Laboratory
 author_image_thumbnail: aaron.jpeg
 insider: true
-current: true
+current: false
 linkedin: https://www.linkedin.com/in/aaron-levitt-91534620a
 ---
 

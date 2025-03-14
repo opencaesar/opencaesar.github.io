@@ -4,7 +4,7 @@ name: Mahmudur Khan
 position: IMCE Software Engineer
 orginization: NASA Jet Propulsion Laboratory
 author_image_thumbnail: khan.jpeg
-current: true
+current: false
 insider: true
 linkedin: "https://www.linkedin.com/in/mahmudurkhan/"
 ---
