@@ -1,23 +1,23 @@
 ---
 layout: event
-title: "onto:Nexus Workshop 2024"
+title: "onto:Nexus Forum 2024"
 author: "Maged Elaasar"
 author_image: maged.png
 tag: [MBSE, IMCE, CAESAR]
 categories: [blog]
 image:
-  feature: onto_Nexus_2024.png
+  feature: onto_Nexus_Forum_2024.png
   credit: openCAESAR
-permalink: /events/onto-Nexus-Workshop-2024
+permalink: /events/onto-Nexus-Forum-2024
 ---
 
-## Hybrid Workshop
+## Hybrid Forum
 
-<b>onto:Nexus Workshop 2024</b> is the 1st International Workshop on <b>Ontological Modeling and Analysis</b>. The theme of this version is <b>Infusing Rigor and Agility in MBSE</b>. It will discuss what has been accomplished so far, what is being worked on currently, and what the future challenges and directions are. It also intends to build a community of practitioners in this area and foster collaborations among them.
+<b>onto:Nexus Forum 2024</b> is the 1st International Forum on <b>Ontological Modeling and Analysis</b>. The theme of this version is <b>Infusing Rigor and Agility in MBSE</b>. It will discuss what has been accomplished so far, what is being worked on currently, and what the future challenges and directions are. It also intends to build a community of practitioners in this area and foster collaborations among them.
 
-The workshop is a free hybrid event that will take place on <b>Wed Jan 31st, 2024 from 8:30 am to 5:00 pm PST</b> at the Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov/)) in Pasadena, CA. This is the day after the [INCOSE IW 2024](https://www.incose.org/IW2024), which will take place on Jan 27-30 in (the nearby city of) Torrance, CA.
+The forum is a free hybrid event that will take place on <b>Wed Jan 31st, 2024 from 8:30 am to 5:00 pm PST</b> at the Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov/)) in Pasadena, CA. This is the day after the [INCOSE IW 2024](https://www.incose.org/IW2024), which will take place on Jan 27-30 in (the nearby city of) Torrance, CA.
 
-## Workshop Chair
+## Forum Chair
 
 * [Maged Elaasar](mailto:elaasar@jpl.nasa.gov), JPL
 
@@ -55,7 +55,7 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
     <td>Maged Elaasar (JPL)</td>
   </tr>
   <tr style="color: green;">
-    <td colspan="3">onto:Nexus Workshop 2024 (Jan 31)</td>
+    <td colspan="3">onto:Nexus Forum 2024 (Jan 31)</td>
   </tr>
   <tr style="color: blue;">
     <td>7:30 - 8:15</td>
@@ -63,7 +63,7 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   </tr>
   <tr>
     <td>8:30 - 9:00</td>
-    <td><a href="/events/onto-Nexus-Workshop-2024/Talk-01">Introduction to onto:Nexus 2024</a></td>
+    <td><a href="/events/onto-Nexus-Forum-2024/Talk-01">Introduction to onto:Nexus 2024</a></td>
     <td>Maged Elaasar (JPL)</td>
   </tr>
   <tr>
@@ -71,12 +71,12 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   </tr>
   <tr>
     <td>9:00 - 9:30</td>
-    <td><a href="/events/onto-Nexus-Workshop-2024/Talk-02">MBSE@JPL: The CAESAR Journey</a></td>
+    <td><a href="/events/onto-Nexus-Forum-2024/Talk-02">MBSE@JPL: The CAESAR Journey</a></td>
     <td>David Wagner (JPL)</td>
   </tr>
   <tr>
     <td>9:30 - 10:00</td>
-    <td><a href="/events/onto-Nexus-Workshop-2024/Talk-03">Ontological Foundation for Automotive System Design and Testing</a></td>
+    <td><a href="/events/onto-Nexus-Forum-2024/Talk-03">Ontological Foundation for Automotive System Design and Testing</a></td>
     <td>Ahsan Qamar (Ford)</td>
   </tr>
   <tr style="color: blue;">
@@ -85,12 +85,12 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   </tr>
   <tr>
     <td>10:15 - 10:45</td>
-    <td><a href="/events/onto-Nexus-Workshop-2024/Talk-04">OML Overview</a></td>
+    <td><a href="/events/onto-Nexus-Forum-2024/Talk-04">OML Overview</a></td>
     <td>Nicolas Rouquette (JPL)</td>
   </tr>
   <tr>
     <td>10:45 - 11:15</td>
-    <td><a href="/events/onto-Nexus-Workshop-2024/Talk-05">A Whirlwind Tour to OntoUML and its Ecosystem</a></td>
+    <td><a href="/events/onto-Nexus-Forum-2024/Talk-05">A Whirlwind Tour to OntoUML and its Ecosystem</a></td>
     <td>Giancarlo Guizzardi (uTwente)</td>
   </tr>
   <tr style="color: blue;">
@@ -107,17 +107,17 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   <tr>
     <td>1:00 - 2:45</td>
     <td>
-    <p><a href="/events/onto-Nexus-Workshop-2024/Talk-06">System Model DevOps with OML Vision</a></p>
-    <p><a href="/events/onto-Nexus-Workshop-2024/Talk-07">Using Graph Theory to Gain Insights About System Models</a></p>
-    <p><a href="/events/onto-Nexus-Workshop-2024/Talk-08">Knowledge Integration and Acquisition in Model-Based Systems Engineering</a></p>
-    <p><a href="/events/onto-Nexus-Workshop-2024/Talk-09">Developing Digital Twins with Ontologies</a></p>
-    <p><a href="/events/onto-Nexus-Workshop-2024/Talk-10">Model Validation Ontologies for Government Reference Architectures</a></p>
-    <p><a href="/events/onto-Nexus-Workshop-2024/Talk-11">Using Ontologies to Enhance Digital Engineering Models</a></p>
-    <p><a href="/events/onto-Nexus-Workshop-2024/Talk-12">Towards a Digital Engineering Factory for Students</a></p>
-    <p><a href="/events/onto-Nexus-Workshop-2024/Talk-13">Lessons learned from OpenCAESAR Application to JAXA’s ETS-9 Project</a></p>
-    <p><a href="/events/onto-Nexus-Workshop-2024/Talk-14">Ontological Utility Exemplified: The Synthesis of Project Management and Systems Engineering within EMPIRE</a></p>
-    <p><a href="/events/onto-Nexus-Workshop-2024/Talk-15">MHI’s MBSE Initiatives in Commercial Aircraft and Space Divisions</a></p>
-    <p><a href="/events/onto-Nexus-Workshop-2024/Talk-16">Reducing Cycle Time from Design Stage to Work Order using MBSE and AI: A Concept</a></p>
+    <p><a href="/events/onto-Nexus-Forum-2024/Talk-06">System Model DevOps with OML Vision</a></p>
+    <p><a href="/events/onto-Nexus-Forum-2024/Talk-07">Using Graph Theory to Gain Insights About System Models</a></p>
+    <p><a href="/events/onto-Nexus-Forum-2024/Talk-08">Knowledge Integration and Acquisition in Model-Based Systems Engineering</a></p>
+    <p><a href="/events/onto-Nexus-Forum-2024/Talk-09">Developing Digital Twins with Ontologies</a></p>
+    <p><a href="/events/onto-Nexus-Forum-2024/Talk-10">Model Validation Ontologies for Government Reference Architectures</a></p>
+    <p><a href="/events/onto-Nexus-Forum-2024/Talk-11">Using Ontologies to Enhance Digital Engineering Models</a></p>
+    <p><a href="/events/onto-Nexus-Forum-2024/Talk-12">Towards a Digital Engineering Factory for Students</a></p>
+    <p><a href="/events/onto-Nexus-Forum-2024/Talk-13">Lessons learned from OpenCAESAR Application to JAXA’s ETS-9 Project</a></p>
+    <p><a href="/events/onto-Nexus-Forum-2024/Talk-14">Ontological Utility Exemplified: The Synthesis of Project Management and Systems Engineering within EMPIRE</a></p>
+    <p><a href="/events/onto-Nexus-Forum-2024/Talk-15">MHI’s MBSE Initiatives in Commercial Aircraft and Space Divisions</a></p>
+    <p><a href="/events/onto-Nexus-Forum-2024/Talk-16">Reducing Cycle Time from Design Stage to Work Order using MBSE and AI: A Concept</a></p>
     </td>
     <td>Multiple Presenters (10-min each)</td>
   </tr>
@@ -130,12 +130,12 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
   </tr>
   <tr>
     <td>3:00 - 3:30</td>
-    <td><a href="/events/onto-Nexus-Workshop-2024/Talk-17">R&D Directions for Onto MBSE</a></td>
+    <td><a href="/events/onto-Nexus-Forum-2024/Talk-17">R&D Directions for Onto MBSE</a></td>
     <td>Maged Elaasar (JPL)</td>
   </tr>
   <tr>
     <td>3:30 - 4:30</td>
-    <td><a href="/events/onto-Nexus-Workshop-2024/Panel">Discussion Panel: How should we collaborate?</a></td>
+    <td><a href="/events/onto-Nexus-Forum-2024/Panel">Discussion Panel: How should we collaborate?</a></td>
     <td>David Wagner (JPL)</td>
   </tr>
   <tr style="color: blue;">
@@ -152,8 +152,8 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
       <p>A Digital Engineering Factory for Students</p>
     </td>
     <td width="350px">
-      <object style="float: left;margin-right: 1em;" data="/events/onto-Nexus-Workshop-2024/files/Poster1.pdf" type="application/pdf" width="100%" height="300px">
-          <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/events/onto-Nexus-Workshop-2024/files/Poster1.pdf">Download PDF</a>.</p>
+      <object style="float: left;margin-right: 1em;" data="/events/onto-Nexus-Forum-2024/files/Poster1.pdf" type="application/pdf" width="100%" height="300px">
+          <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/events/onto-Nexus-Forum-2024/files/Poster1.pdf">Download PDF</a>.</p>
       </object>
     </td>
   </tr>
@@ -162,8 +162,8 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
       <p>Commons Ontology Library - Digital Engineering Model Interoperability (DEMI)</p>
     </td>
     <td>
-      <object style="float: left;margin-right: 1em;" data="/events/onto-Nexus-Workshop-2024/files/Poster2.pdf" type="application/pdf" width="100%" height="300px">
-          <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/events/onto-Nexus-Workshop-2024/files/Poster2.pdf">Download PDF</a>.</p>
+      <object style="float: left;margin-right: 1em;" data="/events/onto-Nexus-Forum-2024/files/Poster2.pdf" type="application/pdf" width="100%" height="300px">
+          <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/events/onto-Nexus-Forum-2024/files/Poster2.pdf">Download PDF</a>.</p>
       </object>
     </td>
   </tr>
@@ -171,17 +171,17 @@ The virtual venue will be a <b>Teams meeting</b>. Registration is required by [c
 
 ## Pre-Event Questionnaire
 
-We have created a [pre-event questionnaire](https://forms.gle/xcvj8ukLngLN31xYA) for you to fill out. It has four sections: a) Getting to Know you, b) MBSE in Practice (optional), c) Panel: How should we collaborate? (optional) and d) Questions from the organizers. The questionnaire is anonymous and a summary of the answers will be presented in the introduction to the workshop. We highly encourage you to fill out the questionnaire as a contribution (even if you do not plan to attend). We will also keep it open after the event, publish the summary online, and update it frequently. It will help define the community's R&D agenda going forward.
+We have created a [pre-event questionnaire](https://forms.gle/xcvj8ukLngLN31xYA) for you to fill out. It has four sections: a) Getting to Know you, b) MBSE in Practice (optional), c) Panel: How should we collaborate? (optional) and d) Questions from the organizers. The questionnaire is anonymous and a summary of the answers will be presented in the introduction to the forum. We highly encourage you to fill out the questionnaire as a contribution (even if you do not plan to attend). We will also keep it open after the event, publish the summary online, and update it frequently. It will help define the community's R&D agenda going forward.
 
 ## Call for Short Presentations
 
-One of the main objectives of the workshop is to build a community for rigorous and agile MBSE. This is why the agenda includes a session for members of the community to present their context, interests, and plans. Since we want to accomodate as many such presentations as possible, they have to be short (10 mins) so we recommend 2-3 slides only. 
+One of the main objectives of the forum is to build a community for rigorous and agile MBSE. This is why the agenda includes a session for members of the community to present their context, interests, and plans. Since we want to accomodate as many such presentations as possible, they have to be short (10 mins) so we recommend 2-3 slides only. 
 
 If you like to contribute a short presentation in this slot, we ask you to [send us](mailto:elaasar@jpl.nasa.gov) a short abstract and wait for a confirmation. You can then send the slides, which will be merged into a single deck to minimize the hand off time between presenters. The deadline is Jan 26, 2024.
 
 ## Call for Virtual Posters
 
-The workshop will feature virtual posters contributed by members of the community. Those posters will consist of videos/slides that showcases past or future work accompanied by a title and short description. The poster will be accessible publicly on the workshop's page (this page).
+The forum will feature virtual posters contributed by members of the community. Those posters will consist of videos/slides that showcases past or future work accompanied by a title and short description. The poster will be accessible publicly on the forum's page (this page).
 
 If you like to contribute a virtual poster, we ask you to [send us](mailto:elaasar@jpl.nasa.gov) your contribution. The deadline is Jan 26, 2024.
 

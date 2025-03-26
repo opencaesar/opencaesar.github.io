@@ -7,7 +7,7 @@ categories: [event]
 image:
   feature: onto_Nexus_2024.png
   credit: openCAESAR
-  url: /events/onto-Nexus-Workshop-2024
+  url: /events/onto-Nexus-Forum-2024
 ---
 
 ## Abstract

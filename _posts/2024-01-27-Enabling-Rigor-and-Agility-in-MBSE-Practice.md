@@ -12,7 +12,7 @@ image:
 
 ## Abstract
 
-Maged Elaasar will introduce the openCAESAR project and its approach to MBSE. It will highlight how the approach increases the rigor of systems description using the Ontological Modeling Language (OML) and other semantic technologies, and increases the agility of systems engineering workflows by using DevOps practices. It will also reflect on experience using this approach for several years on large space projects (Like Psyche, Europa Clipper, and Mars Sample Return) at the Jet Propulsion Laboratory (JPL). Towards the end, the talk will also introduce onto:Nexus 2024, a one-day hybrid workshop planned on Wed 1/31 (the day after IW) at JPL. The workshop on Ontological Modeling and Analysis will be an opportunity to learn more about openCAESAR and the work of other members of its community.
+Maged Elaasar will introduce the openCAESAR project and its approach to MBSE. It will highlight how the approach increases the rigor of systems description using the Ontological Modeling Language (OML) and other semantic technologies, and increases the agility of systems engineering workflows by using DevOps practices. It will also reflect on experience using this approach for several years on large space projects (Like Psyche, Europa Clipper, and Mars Sample Return) at the Jet Propulsion Laboratory (JPL). Towards the end, the talk will also introduce onto:Nexus 2024, a one-day hybrid forum planned on Wed 1/31 (the day after IW) at JPL. The forum on Ontological Modeling and Analysis will be an opportunity to learn more about openCAESAR and the work of other members of its community.
 
 ## Speaker
 

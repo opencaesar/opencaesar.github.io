@@ -1,13 +1,13 @@
 ---
-layout: post
-title: "OMG openCAESAR Workshop"
+layout: event
+title: "openCAESAR Workshop 2022"
 author: "Maged Elaasar"
 author_image: maged.png
 tag: [MBSE, IMCE, CAESAR]
 categories: [blog]
 image:
-  feature: OMG-logo-web-sm.png
-  credit: Object Management Group
+  feature: openCAESAR_Workshop_2022.png
+  credit: openCAESAR
 ---
 
 # Abstract
@@ -28,4 +28,4 @@ Watch the presentation at your pace on Google Drive (several slides contain vide
 
 Alternatively, watch the presentation as delivered on [Bright Talk](https://www.brighttalk.com/webcast/12231/539649) or by clicking the youtube video below.
 
-[![openCAESAR Workshop recording](https://img.youtube.com/vi/Mgxngllc1OE/0.jpg)](https://www.youtube.com/watch?v=Mgxngllc1OE).
+{% include youtube.html id="Mgxngllc1OE" %}

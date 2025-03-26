@@ -189,6 +189,7 @@
                     <div class="card-body blog-card-oc pt-4">
                         <p class="blog-card-date-oc">{{post.date | date: '%B %d, %Y'}}</p>
                         <p class="blog-card-title-oc">{{post.title}}</p>
+                        <img src="{{post.image.feature | prepend: 'assets/img/' | relative_url}}" class="mr-3" style="width: 75%;">
                         <div class="blog-auth-info">
                             <div class="card-underline mb-4"></div>
                             <div class="media">

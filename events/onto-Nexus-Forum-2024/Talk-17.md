@@ -1,18 +1,18 @@
 ---
 layout: event
-title: "Introduction to onto:Nexus 2024"
+title: "R&D Directions for Onto MBSE"
 author: "Maged Elaasar"
 tag: [ontoNexus]
 categories: [event]
 image:
   feature: onto_Nexus_2024.png
   credit: openCAESAR
-  url: /events/onto-Nexus-Workshop-2024
+  url: /events/onto-Nexus-Forum-2024
 ---
 
 ## Abstract
 
-This talk will introduce [ontoNexus Workshop 2024](/events/onto-Nexus-Workshop-2024), its goals, its agenda and its logitics. It will also introduce the theme of the workshop, which is Infusing Rigor and Agility in MBSE. Finally, it will summarize the results of the pre-workshop questionnaire that were submitted by the onto:Nexus community.
+This talk will discuss the need to create an open source software ecosystem to provide tools for Ontological Modeling and Analysis in the context of MBSE. It will also discuss the challenges this ecosystem should aim to tackle, what has already been done, and what remains to be done.
 
 ## Speaker
 
@@ -22,8 +22,8 @@ This talk will introduce [ontoNexus Workshop 2024](/events/onto-Nexus-Workshop-2
 
 ## Slides
 
-{% include googleslides.html id="15kygmVZ3RKhqH3WyAJhqukIbNro7GAZf5V1dkCk1FNg" %}
+{% include googleslides.html id="10CiUuTkMme4PmA2jFcRTtcEi_BqdeoVYNYRcxrNmJo4" %}
 
 ## Recording
 
-{% include youtube.html id="vrz4dXciUM4" %}
+{% include youtube.html id="gllXdWFZXN4" %}

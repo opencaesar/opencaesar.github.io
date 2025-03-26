@@ -20,6 +20,7 @@ The onto:Nexus forum offers a wide range of engagement events designed to meet t
 - Talks
 - Panels
 - Demos
+- Forums
 - Workshops
 - Symposia
 
