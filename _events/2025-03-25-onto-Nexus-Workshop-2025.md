@@ -17,7 +17,7 @@ The <b>onto:Nexus Workshop</b>—formally known as the International Workshop on
 
 ## This Edition
 
-- This edition is proposed to be held in alongside [MODELS 2025](https://conf.researchr.org/home/models-2025). Stay tuned for details!
+- This edition is proposed to be held alongside [MODELS 2025](https://conf.researchr.org/home/models-2025). Stay tuned for details!
 
 ## onto:Nexus Forum
 
