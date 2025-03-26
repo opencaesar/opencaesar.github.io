@@ -197,6 +197,6 @@ The agenda has a slot for a JPL campus tour for in-person attendees. We will als
 
 A few breaks are planned in the agenda. Some coffee/tea will be provided by JPL. However, other food/drinks can be brought with you or purchased from the JPL cafeteria during breaks.
 
-## onto:Nexus Forum
+## Community
 
-If you are not yet a member of the [onto:Nexus Forum](https://www.linkedin.com/groups/14235207/) (LinkedIn group), we invite you to join to be part of the community going forward.
+If you are not yet a member of the [onto:Nexus Forum](https://www.linkedin.com/groups/14235207/) LinkedIn group, we invite you to join to be part of the community going forward.

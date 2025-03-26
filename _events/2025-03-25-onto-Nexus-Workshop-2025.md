@@ -19,6 +19,6 @@ The <b>onto:Nexus Workshop</b>—formally known as the International Workshop on
 
 - This edition is proposed to be held alongside [MODELS 2025](https://conf.researchr.org/home/models-2025). Stay tuned for details!
 
-## onto:Nexus Forum
+## Community
 
-If you are not yet a member of the [onto:Nexus Forum](https://www.linkedin.com/groups/14235207/) (LinkedIn group), we invite you to join to be part of the community going forward.
+If you are not yet a member of the [onto:Nexus Forum](https://www.linkedin.com/groups/14235207/) LinkedIn group, we invite you to join to be part of the community going forward.

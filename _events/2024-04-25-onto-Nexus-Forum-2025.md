@@ -271,6 +271,6 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
 </table>
 
-## onto:Nexus Forum
+## Community
 
-If you are not yet a member of the [onto:Nexus Forum](https://www.linkedin.com/groups/14235207/) (LinkedIn group), we invite you to join to be part of the community going forward.
+If you are not yet a member of the [onto:Nexus Forum](https://www.linkedin.com/groups/14235207/) LinkedIn group, we invite you to join to be part of the community going forward.
