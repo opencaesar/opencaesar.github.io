@@ -1,6 +1,6 @@
 # Caption should not exceed 40 character
 # If you include special characters (- and :) surround by ""
-- caption: "Attend onto:Nexus Forum 2025"
+- caption: "Attend onto:Nexus Forum on May5-6, 2025"
   carouselImageName: banner_1.png
   floatingImageName: onto_Nexus_Forum_2025.png
   readMoreUrl: events/onto-Nexus-Forum-2025.html
@@ -15,6 +15,6 @@
 - caption: "Engage with the RAISE Lab"
   carouselImageName: banner_1.png
   floatingImageName: raise.png
-  readMoreUrl: raise/
+  readMoreUrl: raise
   buttonLable: "Learn More"
   slideId: 2
