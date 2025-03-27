@@ -37,7 +37,7 @@ Send an email to the chair of the forum and wait for a confirmation. The sooner 
 
 Drinks and light refreshments will be provided on both days. Lunch will be the responsibility of attendees and can be purchased from the JPL cafeteria.
 
-In person attendees will be taken on a 1h tour of the JPL campus on both days during the mid day break (see agenda below). Different sights will be visited on each day.
+In person attendees will be taken on a 1h tour of the JPL campus on both days during the mid day break (see agenda below). Different sites will be visited on each day.
 
 ## Call for Presentations
 
@@ -48,7 +48,6 @@ This edition's call for presentation is open to members of the community to repo
 This year will feature tutorials on tools, technologies, and case studies supporting the RAISE vision. Please send your tutorial abstract by email to the chair of the forum. We will follow up with you after that.
 
 ## DAY 1 Agenda (Monday, May 5, 2025)
-> Subject to Change
 <table>
   <tr>
     <th width="150px">Time (PST)</th>
@@ -168,7 +167,6 @@ This year will feature tutorials on tools, technologies, and case studies suppor
 </table>
 
 ## DAY 2 Agenda (Tuesday, May 6, 2025)
-> Subject to Change
 <table>
   <tr>
     <th width="150px">Time (PST)</th>
