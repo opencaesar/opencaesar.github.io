@@ -13,9 +13,9 @@ image:
 
 ## Project Summary
 
-This project intends to develop an [OML](https://www.opencaesar.io/oml/)(Ontological Modeling Language) adapter (a bidirectional transformation) for the [Obsidian](https://obsidian.md/) client. Such adapter will allow Obsidian to be used as an alternative ontological modeling and analysis workbench. This is desirable due to Obsidian's nice core features and its large ecosystem of community extensions, all of which would allow methodologists the ability to setup their tools easily.
+This project intends to develop an [OML](https://www.opencaesar.io/oml/)(Ontological Modeling Language) adapter (a bidirectional transformation) for the [Obsidian](https://obsidian.md/) knowledge management tool. Such adapter will allow Obsidian to be used as a ontological modeling and analysis workbench. This is desirable due to Obsidian's nice knowledge management features and its large ecosystem of community extensions, all of which would allow domain methodologists the ability to setup their modeling workbench easily and lower the bar to onboard their users.
 
-A new ontological systems engineering method called 'Sierra' will be defined and tooled in this environment as a demonstration. A new system model example called 'Trail Power' will be defined in this environment and used to collect user feedback.
+A new ontological systems engineering method called `Sierra` will be specified and developed in this environment as a demonstration. A new system model example called `Trail Power` will be developed and used to collect feedback.
 
 ## Results
 
