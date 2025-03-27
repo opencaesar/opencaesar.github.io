@@ -19,7 +19,7 @@ A new ontological systems engineering method called 'Sierra' will be defined and
 
 ## Results
 
-- This is the openCAESAR repo of the [Obsiduan adapter](https://github.com/opencaesar/obsidian-adapter) on Github.
+- This is the openCAESAR repo of the [Obsidian adapter](https://github.com/opencaesar/obsidian-adapter) on Github.
 - This is the openCAESAR repo of the [example](https://github.com/opencaesar/trailpower-example)  on Github.
 
 > This is still work in progress
