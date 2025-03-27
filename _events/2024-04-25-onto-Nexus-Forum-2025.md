@@ -196,7 +196,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   <tr>
     <td>9:15 - 9:30</td>
     <td>Modeling Space – An Ontology Suite for Astronautics and Astronomy</td>
-    <td>Robert Rovetto (U of Maryland)</td>
+    <td>Robert Rovetto (UNSW)</td>
   </tr>
   <tr>
     <td>9:30 - 9:45</td>
