@@ -27,7 +27,7 @@ The forum will be a <b>free two-days hybrid event</b> that will take place at th
 
 ## Online Attendance
 
-Register to the [LinkedIn event](https://www.linkedin.com/events/onto-nexusforum2025-inperson7247053965337473024?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B8o3OgtDYQPWTIHjJUlHQAQ%3D%3D). Only those who register will be invited to the Microsoft Teams meeting. The deadline for this is May 2, 2025.
+Register to the [LinkedIn event](https://www.linkedin.com/events/onto-nexusworkshop2025-inperson7247053965337473024/). Only those who register will be invited to the Microsoft Teams meeting. The deadline for this is May 2, 2025.
 
 A virtual tour of the JPL campus will be provided for online attendees during the mid day break (see agenda below).
 
