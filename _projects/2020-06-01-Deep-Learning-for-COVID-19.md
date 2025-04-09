@@ -21,7 +21,7 @@ This collaborative project with UAE University while trying to address the COVID
 
 ## Project Team
 
-- [Hadeel El-Kassabi](https://faculty.uaeu.ac.ae/htalaat/), Ph.D., UAE University
+- [Hadeel El-Kassabi](https://www.linkedin.com/in/hadeel-el-kassabi-394386b/), Ph.D., UAE University
 - [Maged Elaasar](/contributors/Maged%20Elaasar.html), Ph.D., Modelware
 
 ## Sponsors
