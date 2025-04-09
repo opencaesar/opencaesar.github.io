@@ -26,6 +26,4 @@ This collaborative project with UAE University while trying to address the COVID
 
 ## Sponsors
 
-[<img width="300" src="https://www.uaeu.ac.ae/images/uaeu-logo.svg"/>](https://www.uaeu.ac.ae/en/cit/)
-
 [![Modelware](/assets/img/modelware.png)](https://modelware.io/)
