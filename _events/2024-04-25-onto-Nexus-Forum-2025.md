@@ -206,7 +206,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>9:30 - 9:45</td>
-    <td>Analyzing Documents as Ontologies with LLM</td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-17">Analyzing Documents as Ontologies with LLM</a></td>
     <td>Kareem Elaasar (UCI)</td>
   </tr>
   <tr>
@@ -215,28 +215,28 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>10:00 - 10:15</td>
-    <td>Developing CCSDS Ontology and Editor with openCAESAR</td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-18">Developing CCSDS Ontology and Editor with openCAESAR</a></td>
     <td>Mohammad Hamdaqa (U of Montreal)</td>
   </tr>
   <tr>
     <td>10:15 - 10:30</td>
-    <td>Ontological Analysis of Building Code on BIM Models</td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-19">Ontological Analysis of Building Code on BIM Models</a></td>
     <td>Summayah Waseem (CSUN)</td>
   </tr>
   <tr>
     <td>10:30 - 10:45</td>
-    <td>Embedding Digital Engineering into the Systems Engineering Classroom</td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-20">Embedding Digital Engineering into the Systems Engineering Classroom</a></td>
     <td>Joe Gregory (U of Arizona)</td>
   </tr>
   <tr>
     <td>10:45 - 11:00</td>
-    <td>OML CoPilot with LLM</td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-21">OML CoPilot with LLM</a></td>
     <td>Ajay Sreekumar (U of Arizona)</td>
   </tr>
   <tr>
     <td>11:00 - 11:15</td>
-    <td>OML Code Extension</td>
-    <td>Leroy Greg (UCLA)</td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-22">OML Code Extension</a></td>
+    <td>Leroy Gage (UCLA)</td>
   </tr>
   <tr>
     <td style="color: blue;" colspan="3">Lunch and Tour</td>
@@ -254,7 +254,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>1:00 - 2:45</td>
-    <td>OML Tutorial</td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-23">OML Foundations & Tutorial</a></td>
     <td>Maged Elaaar (JPL)</td>
   </tr>
   <tr>
@@ -263,7 +263,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>3:00 - 4:45</td>
-    <td>EMPIRE Tutorial</td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-24">EMPIRE Foundations & Tutorial</a></td>
     <td>Michael Halvorson (Auburn U)</td>
   </tr>
   <tr>
