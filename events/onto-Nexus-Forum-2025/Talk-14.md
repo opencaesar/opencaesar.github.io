@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Introduction to onto:Nexus 2025 Day 1"
+title: "Introduction to onto:Nexus 2025 Day 2"
 author: "Maged Elaasar"
 tag: [ontoNexus]
 categories: [event]
@@ -12,7 +12,7 @@ image:
 
 ## Abstract
 
-This short talk will introduce [ontoNexus Forum 2025](/events/onto-Nexus-Forum-2025), its agenda, its logitics, and its theme (realizing the RAISE vision).
+This talk will introduce the vision of the [RAISE—Rigorous, Agile, and Intelligent Systems Engineering—Lab](https://www.opencaesar.io/raise) under the openCAESAR project. RAISE reimagines systems engineering for the modern era by integrating formal methods to ensure rigor, DevOps practices to enhance agility, and AI techniques to enable intelligent automation. The lab's research bridges the gap between ontological modeling, collaborative tooling, and operational workflows to empower engineers to build safer, smarter, and more adaptive systems. This talk will provide a high-level overview of the lab's philosophy, highlight ongoing projects, and set the stage for deeper dives from individual student presentations that follow later in the day.
 
 ## Speaker
 

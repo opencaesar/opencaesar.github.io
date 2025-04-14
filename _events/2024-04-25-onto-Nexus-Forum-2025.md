@@ -188,12 +188,12 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>8:30 - 8:45</td>
-    <td>Introduction to Day 2</td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-14">Introduction to Day 2</a></td>
     <td>Maged Elaasar (JPL)</td>
   </tr>
   <tr>
     <td>8:45 - 9:15</td>
-    <td>Keynote: Ontologies and Semantic Technologies for Trustworthy Systems Engineering</td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-15">Keynote: Ontologies and Semantic Technologies for Trustworthy Systems Engineering</a></td>
     <td>Giancarlo Guizzardi (U of Twente)</td>
   </tr>
   <tr>
@@ -201,7 +201,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>9:15 - 9:30</td>
-    <td>Modeling Space – An Ontology Suite for Astronautics and Astronomy</td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-16">Modeling Space – An Ontology Suite for Astronautics and Astronomy</a></td>
     <td>Robert Rovetto (UNSW)</td>
   </tr>
   <tr>
