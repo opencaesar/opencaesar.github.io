@@ -128,17 +128,17 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>1:15 - 1:45</td>
-    <td>Harness Design at JPL: How Modeling Vocabulary Matters</td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-08">Harness Design at JPL: How Modeling Vocabulary Matters</a></td>
     <td>David Wagner (JPL)</td>
   </tr>
   <tr>
     <td>1:45 - 2:15</td>
-    <td>Ontological Modeling and Analysis Across the Supply Chain</td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-09">Ontological Modeling and Analysis Across the Supply Chain</a></td>
     <td>Steve Jenkins (Modelware)</td>
   </tr>
   <tr>
     <td>2:15 - 2:45</td>
-    <td>Integrating Ontological Modeling and Mathematical Analysis using OML Vision</td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-10">Integrating Ontological Modeling and Mathematical Analysis using OML Vision</a></td>
     <td>Yuta Nakajima (JAXA)</td>
   </tr>
   <tr>
@@ -150,17 +150,17 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>3:00 - 3:30</td>
-    <td>Implementing SysML v2 Ontology</td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-11">Implementing SysML v2 Ontology</a></td>
     <td>Maged Elaasar (JPL)</td>
   </tr>
   <tr>
     <td>3:30 - 4:00</td>
-    <td>OpenMBEE Flexo: RDF Repository Service for SysML v2</td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-12">OpenMBEE Flexo: RDF Repository Service for SysML v2</a></td>
     <td>Christopher Delp (JPL)</td>
   </tr>
   <tr>
     <td>4:00 - 4:30</td>
-    <td>Exploring the Synergy of SysML v2 and OML in Model-Based Aircraft Systems Design</td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-13">Exploring the Synergy of SysML v2 and OML in Model-Based Aircraft Systems Design</a></td>
     <td>Oliver Bertram (DLR)</td>
   </tr>
   <tr>
