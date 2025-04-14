@@ -264,7 +264,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   <tr>
     <td>3:00 - 4:45</td>
     <td><a href="/events/onto-Nexus-Forum-2025/Talk-24">EMPIRE Foundations & Tutorial</a></td>
-    <td>Michael Halvorson (Auburn U)</td>
+    <td>Michael Halvorson (U of Alabama in Huntsville)</td>
   </tr>
   <tr>
     <td style="color: blue;" colspan="3">Conclusion</td>
