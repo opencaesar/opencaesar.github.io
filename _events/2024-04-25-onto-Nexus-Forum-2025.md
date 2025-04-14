@@ -69,7 +69,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>8:30 - 8:35</td>
-    <td>Introduction to Day 1</td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-01">Introduction to Day 1</a></td>
     <td>Maged Elaasar (JPL)</td>
   </tr>
   <tr>
@@ -77,17 +77,17 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>8:35 - 9:00</td>
-    <td>MBSE State of Practice: Survey Results</td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-02">MBSE State of Practice: Survey Results</a></td>
     <td>Wahab Hamou-Lhadj (Concordia U)</td>
   </tr>
   <tr>
     <td>9:00 - 9:30</td>
-    <td>Keynote: Establishing a Digital Engineering Center of Excellence at JPL</td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-03">Keynote: Establishing a Digital Engineering Center of Excellence at JPL</a></td>
     <td>Steven Ardito (JPL)</td>
   </tr>
   <tr>
     <td>9:30 - 9:55</td>
-    <td>Applications of Ontologies in Pharma</td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-04">Applications of Ontologies in Pharma</a></td>
     <td>Elisa Kendall (Thematix)</td>
   </tr>
   <tr>
@@ -99,17 +99,17 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>10:10 - 10:30</td>
-    <td>Ontological Modeling in Obsidian</td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-05">Ontological Modeling in Obsidian</a></td>
     <td>Maged Elaasar (JPL)</td>
   </tr>
   <tr>
     <td>10:30 - 11:00</td>
-    <td>Sierra Method: Operational Analysis of TLR Project</td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-06">Sierra Method: Operational Analysis of TLR Project</a></td>
     <td>Nicolas Rouquette (JPL)</td>
   </tr>
   <tr>
     <td>11:00 - 11:30</td>
-    <td>Integrated Knowledge Centric Engineering at Leonardo</td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-07">Integrated Knowledge Centric Engineering: An approach to Agility and Rigour in Large-Scale Aerospace Projects</a></td>
     <td>Lewis Humphries (Leonardo)</td>
   </tr>
   <tr>

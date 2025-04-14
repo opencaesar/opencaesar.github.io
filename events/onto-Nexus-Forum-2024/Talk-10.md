@@ -5,7 +5,7 @@ author: "Rick Graves"
 tag: [ontoNexus]
 categories: [event]
 image:
-  feature: onto_Nexus_2024.png
+  feature: onto_Nexus_Forum_2024.png
   credit: openCAESAR
   url: /events/onto-Nexus-Forum-2024
 ---
