@@ -39,6 +39,12 @@ Drinks and light refreshments will be provided on both days. Lunch will be the r
 
 In person attendees will be taken on a 1h tour of the JPL campus on both days during the mid day break (see agenda below). Different sites will be visited on each day.
 
+## Physical Venue
+
+The physical venue will be room 180-101 at JPL, which is located at [4800 Oak Grove Drive Pasadena, CA 91109](https://www.jpl.nasa.gov/about/maps/). If you need to reserve local accomodation, hotels in nearby Pasadena will be convenient (15 min drive).
+
+<u>Directions</u>: On the day of the event, please plan to arrive to the address above early (before 7:30 am). As you approach the enterance, mention that you are attending the event to the security personnel, then turn left and proceed to the JPL Badging Office. If you will be driving, you will need to park your vehicle in the visitor parking across (another reason to arrive early as this may take time). Park there then walk back to the Badgging Office where you will need to check-in and get a visitor tag. As there will be many visitors, this may take time. We need to finish this process by 8:15 am max then walk together as a group to the venue inside the JPL campus.
+
 ## Call for Presentations
 
 This edition's call for presentation is open to members of the community to report on practice or R&D activities related to ontological modeling and analysis. Presentations can be about any relevant work to the RAISE vision. Please send your proposal abstract by email to the chair of the forum. We will follow up with you after that.
