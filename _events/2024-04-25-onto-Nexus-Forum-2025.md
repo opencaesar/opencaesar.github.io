@@ -230,7 +230,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>10:45 - 11:00</td>
-    <td><a href="/events/onto-Nexus-Forum-2025/Talk-21">OML CoPilot with LLM</a></td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-21">Developing an OML Co-Pilot - exploring AI-assisted Ontological Modeling</a></td>
     <td>Ajay Sreekumar (U of Arizona)</td>
   </tr>
   <tr>
