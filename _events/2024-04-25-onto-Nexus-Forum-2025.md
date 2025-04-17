@@ -13,45 +13,56 @@ permalink: /events/onto-Nexus-Forum-2025
 
 ## About onto:Nexus Forum
 
-The <b>onto:Nexus Forum</b>, or the International Forum on Ontological Modeling and Analysis, is a forum for developers, researchers, and practioners to discuss topics related to the application of formal methods (adding rigor), DevOps methods (adding agilility), and AI methods (adding intelligence) to the practice of ontological modeling and analysis. It also intends to foster collaborations within this community.
+The **onto:Nexus Forum** — the International Forum on Ontological Modeling and Analysis — is a venue for developers, researchers, and practitioners to exchange ideas and experiences related to the application of formal methods (adding rigor), DevOps methods (adding agility), and AI methods (adding automation) to ontological modeling and analysis. The forum also aims to foster collaborations within the community.
 
 ## Forum Chair
 
-* [Maged Elaasar](mailto:elaasar@jpl.nasa.gov), JPL
+* [Maged Elaasar](mailto:elaasar@jpl.nasa.gov), Jet Propulsion Laboratory (JPL)
 
 ## This Edition
 
-The <b>onto:Nexus Forum 2025</b> is the 2nd edition of the International Forum on Ontological Modeling and Analysis. The theme of this edition is "Realizing the RAISE Vision", where we will hear from members of the community about their efforts adding rigor, agility, and intelligence to their systems engineering practices. Moreover, we will have tutorials featuring approaches that exemply the RAISE vision, as well as reports on R&D projects led by students of the [RAISE](https://www.opencaesar.io/raise) lab.
+The **onto:Nexus Forum 2025** marks the second edition of the International Forum on Ontological Modeling and Analysis. The theme for this year is **"Realizing the RAISE Vision"**, highlighting community efforts to enhance systems engineering practices through rigor, agility, and automation.
 
-The forum will be a <b>free two-days hybrid event</b> that will take place at the Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov/)) in Pasadena, CA, on May 5-6, 2025, and online in a Microsoft Teams meeting.
+The event will feature presentations from the community, tutorials demonstrating approaches that exemplify the RAISE vision, and reports on R&D projects led by students of the [RAISE](https://www.opencaesar.io/raise) Lab.
+
+The forum is a **free, two-day hybrid event**, held both in-person at the Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov/)) in Pasadena, California, and online via Microsoft Teams on **May 5–6, 2025**.
 
 ## Online Attendance
 
-Register to the [LinkedIn event](https://www.linkedin.com/events/onto-nexusworkshop2025-inperson7247053965337473024/). Only those who register will be invited to the [Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTA3NWFkMmMtYzJiOC00NWI4LWEzOTEtNDdmMTIxZjliZmJk%40thread.v2/0?context=%7b%22Tid%22%3a%22545921e0-10ef-4398-8713-9832ac563dad%22%2c%22Oid%22%3a%229bfaf59f-7957-4778-bb9c-b585bb9f4341%22%7d). The deadline for this is May 2, 2025.
+To attend virtually, register via the [LinkedIn event](https://www.linkedin.com/events/onto-nexusworkshop2025-inperson7247053965337473024/). Only registered participants will receive an invitation to the [Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTA3NWFkMmMtYzJiOC00NWI4LWEzOTEtNDdmMTIxZjliZmJk%40thread.v2/0?context=%7b%22Tid%22%3a%22545921e0-10ef-4398-8713-9832ac563dad%22%2c%22Oid%22%3a%229bfaf59f-7957-4778-bb9c-b585bb9f4341%22%7d).  **Registration deadline: May 2, 2025.**
 
-A virtual tour of the JPL campus will be provided for online attendees during the mid day break (see agenda below).
+A virtual tour of the JPL campus will be provided for online attendees during the midday break (see agenda below).
 
 ## In-Person Attendance
 
-Send an email to the chair of the forum and wait for a confirmation. The sooner you reserve your spot the better. There will be a logistical on-boarding process to go through to gain access to the venue. The deadline for this is April 15, 2025 if you are a US person, and March 15, 2025 if you are a foreign national.
+To attend in person, please email the forum chair and await confirmation. Space is limited, so early reservation is strongly encouraged.
 
-Drinks and light refreshments will be provided on both days. Lunch will be the responsibility of attendees and can be purchased from the JPL cafeteria.
+Note that a logistical onboarding process is required for campus access. **Deadlines:**  
+- **US persons:** April 15, 2025  
+- **Foreign nationals:** March 15, 2025
 
-In person attendees will be taken on a 1h tour of the JPL campus on both days during the mid day break (see agenda below). Different sites will be visited on each day.
+Drinks and light refreshments will be provided both days. Lunch is not included but can be purchased at the JPL cafeteria.
+
+In-person attendees will also enjoy a one-hour tour of the JPL campus during the midday break on both days (different sites will be visited each day).
 
 ## Physical Venue
 
-The physical venue will be room 180-101 at JPL, which is located at [4800 Oak Grove Drive Pasadena, CA 91109](https://www.jpl.nasa.gov/about/maps/). If you need to reserve local accomodation, hotels in nearby Pasadena will be convenient (15 min drive).
+The event will be held in **Room 180-101** at JPL, located at [4800 Oak Grove Drive, Pasadena, CA 91109](https://www.jpl.nasa.gov/about/maps/).   If accommodation is needed, hotels in nearby Pasadena are recommended (about a 15-minute drive).
 
-<u>Directions</u>: On the day of the event, please plan to arrive to the address above early (before 7:30 am). As you approach the enterance, mention that you are attending the event to the security personnel, then turn left and proceed to the JPL Badging Office. If you will be driving, you will need to park your vehicle in the visitor parking across (another reason to arrive early as this may take time). Park there then walk back to the Badgging Office where you will need to check-in and get a visitor tag. As there will be many visitors, this may take time. We need to finish this process by 8:15 am max then walk together as a group to the venue inside the JPL campus.
+**Directions:**  
+On the day of the event, please plan to arrive early — ideally **before 7:30 AM**. Upon reaching the entrance, inform security that you are attending the event, then turn left and proceed to the JPL Badging Office. If driving, park in the visitor parking lot (note: parking may take time). After parking, walk to the Badging Office to check in and receive a visitor badge. This process can take time, especially with multiple visitors, so we aim to complete check-in by **8:15 AM** in order to walk to the venue as a group.
 
 ## Call for Presentations
 
-This edition's call for presentation is open to members of the community to report on practice or R&D activities related to ontological modeling and analysis. Presentations can be about any relevant work to the RAISE vision. Please send your proposal abstract by email to the chair of the forum. We will follow up with you after that.
+We invite members of the community to submit proposals for presentations related to ontological modeling and analysis, particularly work aligning with the RAISE vision.
+
+To propose a presentation, please email an abstract to the forum chair. We will follow up with you regarding next steps.
 
 ## Call for Tutorials
 
-This year will feature tutorials on tools, technologies, and case studies supporting the RAISE vision. Please send your tutorial abstract by email to the chair of the forum. We will follow up with you after that.
+This year’s program will include tutorials on tools, technologies, and case studies that support the RAISE vision.
+
+If you would like to offer a tutorial, please email an abstract to the forum chair. We will follow up with you after receiving your submission.
 
 ## DAY 1 Agenda (Monday, May 5, 2025)
 <table>
