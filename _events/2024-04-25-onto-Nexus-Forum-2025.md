@@ -215,7 +215,7 @@ This year will feature tutorials on tools, technologies, and case studies suppor
   </tr>
   <tr>
     <td>10:00 - 10:15</td>
-    <td><a href="/events/onto-Nexus-Forum-2025/Talk-18">Developing CCSDS Ontology and Editor with openCAESAR</a></td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-18">Interactive model reporting and analysis in openCAESAR through NLP</a></td>
     <td>Mohammad Hamdaqa (U of Montreal)</td>
   </tr>
   <tr>
