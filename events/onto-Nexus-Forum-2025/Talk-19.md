@@ -12,6 +12,8 @@ image:
 
 ## Abstract
 
+TBD
+
 ## Speaker
 
 ![Summayah Waseem](img/Waseem.jpeg){: style="float: left;margin-right: 1em;"}
