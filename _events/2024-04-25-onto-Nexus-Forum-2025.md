@@ -49,8 +49,7 @@ In-person attendees will also enjoy a one-hour tour of the JPL campus during the
 
 The event will be held in **Room 180-101** at JPL, located at [4800 Oak Grove Drive, Pasadena, CA 91109](https://www.jpl.nasa.gov/about/maps/).   If accommodation is needed, hotels in nearby Pasadena are recommended (about a 15-minute drive).
 
-**Directions:**  
-On the day of the event, please plan to arrive early — ideally **before 7:30 AM**. Upon reaching the entrance, inform security that you are attending the event, then turn left and proceed to the JPL Badging Office. If driving, park in the visitor parking lot (note: parking may take time). After parking, walk to the Badging Office to check in and receive a visitor badge. This process can take time, especially with multiple visitors, so we aim to complete check-in by **8:15 AM** in order to walk to the venue as a group.
+<u>Directions</u>: On the day of the event, please plan to arrive early — ideally **before 7:30 AM**. Upon reaching the entrance, inform security that you are attending the event, then turn left and proceed to the JPL Badging Office. If driving, park in the visitor parking lot (note: parking may take time). After parking, walk to the Badging Office to check in and receive a visitor badge. This process can take time, especially with multiple visitors, so we aim to complete check-in by **8:15 AM** in order to walk to the venue as a group.
 
 ## Call for Presentations
 
