@@ -18,4 +18,4 @@ This talk describes an R&D project on the automated analysis of documents using 
 
 ![Kareem Elaasar](img/KElaasar.png){: style="float: left;margin-right: 1em;"}
 
-<h2><a href="mailto:kareemelaasar02@gmail.com">Kareem Elaasar</a></h2>
+<h2><a href="mailto:kareemelaasar02@gmail.com">Kareem Elaasar</a></h2> is a M.Sc. in Software Engineering student at the University of California, Irvine. His interests include machine learning, artificial intelligence, and systems engineering, with a focus on applying AI technologies to improve engineering processes and knowledge management. He has interned at NASA’s Jet Propulsion Laboratory, where he developed tools to convert documents into knowledge graphs using language models and graph databases. His recent projects explore semantic web technologies, UML diagram synthesis, and embedding inversion techniques for deep learning models.
