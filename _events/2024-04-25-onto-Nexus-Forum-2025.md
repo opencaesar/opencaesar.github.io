@@ -92,7 +92,7 @@ If you would like to offer a tutorial, please email an abstract to the forum cha
   </tr>
   <tr>
     <td>9:00 - 9:30</td>
-    <td><a href="/events/onto-Nexus-Forum-2025/Talk-03">Keynote: Establishing a Digital Engineering Center of Excellence at JPL</a></td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-03">Keynote: JPL Digital Engineering Transformation</a></td>
     <td>Steven Ardito (JPL)</td>
   </tr>
   <tr>

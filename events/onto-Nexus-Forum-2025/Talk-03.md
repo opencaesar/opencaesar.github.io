@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Establishing a Digital Engineering Center of Excellence at JPL"
+title: "JPL Digital Engineering Transformation"
 author: "Steven Ardito"
 tag: [ontoNexus]
 categories: [event]
@@ -12,7 +12,7 @@ image:
 
 ## Abstract
 
-TBD
+This presentation will summarize the strategies and approach to modernizing how JPL architects, designs, develops, tests, operates, and sustains space systems.  This includes establishing and sustaining a repository of current and accurate data-driven models containing elements of multi-mission applications traceable to stakeholder and mission requirements (authoritative sources of truth).  Our goals include developing and expanding a digitally fluent workforce capable of excelling in a new paradigm, and designing, delivering and sustaining an integrated digital platform that facilitates system of systems development across diverse stakeholders and complex project structures.
 
 ## Speaker
 
