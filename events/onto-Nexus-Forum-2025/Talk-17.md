@@ -12,7 +12,7 @@ image:
 
 ## Abstract
 
-This talk describes an R&D project on the automated analysis of documents using the openCAESAR framework and Large Language Models (LLMs). It identifies the challenges of manual document analysis and proposes a solution that leverages LLMs to structure unstructured document content into analyzable datasets guided by semantic ontologies. The paper outlines a five-step process involving ontology specification, automated dataset extraction, SME curation, knowledge base publishing, and user query analysis. Finally, it discusses future work aimed at enhancing the Document Analyzer's integration, user experience, precision, and applicability to a wider range of documents.
+This talk describes an R&D project on the automated analysis of documents using the openCAESAR framework and Large Language Models (LLMs). It identifies the challenges of manual document analysis and proposes a solution that leverages LLMs to structure unstructured document content into analyzable datasets guided by semantic ontologies. The talk outlines a five-step process involving ontology specification, automated dataset extraction, SME curation, knowledge base publishing, and user query analysis. Finally, it discusses future work aimed at enhancing the Document Analyzer's integration, user experience, precision, and applicability to a wider range of documents.
 
 ## Speaker
 
