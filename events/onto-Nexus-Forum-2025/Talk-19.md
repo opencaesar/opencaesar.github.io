@@ -16,6 +16,6 @@ This work explores a framework for automating building code compliance checks by
 
 ## Speaker
 
-![Summayah Waseem](img/Waseem.jpeg){: style="float: left;margin-right: 1em;"}
+![Summayah Waseem](img/Waseem.jpeg){: style="float: left;margin-right: 1em;width: 30%"}
 
 <h2><a href="mailto:summayah.waseem@gmail.com">Summayah Waseem</a></h2> is a recent master's graduate in Software Engineering from CSUN. As a research fellow at the Autonomy Research Center for STEAHM (ARCS), she collaborated closely with NASA's Jet Propulsion Laboratory (JPL) to develop autonomous systems. Her research focused on Automation in Construction Code Compliance and enhancing Accessibility for People with Disabilities on YouTube. With a strong foundation in software engineering and a passion for innovation, Summayah bridges technical research and real-world applications to advance autonomy and accessibility.
