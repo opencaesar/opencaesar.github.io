@@ -1,4 +1,4 @@
 ---
-permalink: /raise
-redirect_to: /projects
+permalink: /projects
+redirect_to: /raise
 ---
