@@ -19,8 +19,8 @@ This project intends to develop an ontological representation of [SysML v2](http
 
 Insights gained by this project:
 
-- [When Literal Boolean Is Unsatisfiable](https://www.opencaesar.io/blog/2023/08/27/When-Literal-Boolean-Is-Unsatisfiable.html)
-- [Two Unsatisfiable Metaclasses in SysML v2](https://www.opencaesar.io/blog/2023/09/02/Two-Unsatisfiable-Metaclasses-in-SysML-v2.html)
+- [When Literal Boolean Is Unsatisfiable](/blog/2023/08/27/When-Literal-Boolean-Is-Unsatisfiable.html)
+- [Two Unsatisfiable Metaclasses in SysML v2](/blog/2023/09/02/Two-Unsatisfiable-Metaclasses-in-SysML-v2.html)
 
 ## Issues
 
