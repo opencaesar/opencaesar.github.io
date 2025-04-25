@@ -31,6 +31,7 @@ TBD
 
 ## Sponsors
 
-[<img width="400" src="https://www.opencaesar.io/assets/img/jpl-logo.png"/>](https://www.jpl.nasa.gov/)
+[<img width="400px" src="https://www.opencaesar.io/assets/img/jpl-logo.png"/>](https://www.jpl.nasa.gov/)
 
-[![Modelware](/assets/img/modelware.png)](https://modelware.io/)
+[<img width="400px" src="https://upload.wikimedia.org/wikipedia/commons/b/b6/University_of_Arizona_logo.svg"/>](https://sie.engineering.arizona.edu/)
+
