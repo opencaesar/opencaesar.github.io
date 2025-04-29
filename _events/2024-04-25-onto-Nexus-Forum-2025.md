@@ -41,7 +41,7 @@ Note that a logistical onboarding process is required for campus access. **Deadl
 - **US persons:** April 15, 2025  
 - **Foreign nationals:** March 15, 2025
 
-Drinks and light refreshments will be provided both days. Lunch is not included but can be purchased at the JPL cafeteria.
+Drinks and light refreshments will be provided both days in the morning. Lunch is not included but can be purchased at the JPL cafeteria.
 
 In-person attendees will also enjoy a one-hour tour of the JPL campus during the midday break on both days (different sites will be visited each day).
 
