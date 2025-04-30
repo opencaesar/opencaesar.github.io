@@ -1213,3 +1213,7 @@ div#content blockquote blockquote{
 .img-fluid {
   max-width: 50%;
 }
+
+body {
+  font-family: "Open Sans",sans-serif;
+}

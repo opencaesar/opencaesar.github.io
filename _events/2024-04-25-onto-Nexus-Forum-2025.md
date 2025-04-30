@@ -13,7 +13,7 @@ permalink: /events/onto-Nexus-Forum-2025
 
 ## About onto:Nexus Forum
 
-The **onto:Nexus Forum** — the International Forum on Ontological Modeling and Analysis — is a venue for developers, researchers, and practitioners to exchange ideas and experiences related to the application of formal methods (adding rigor), DevOps methods (adding agility), and AI methods (adding automation) to ontological modeling and analysis. The forum also aims to foster collaborations within the community.
+The **onto:Nexus Forum**, the International Forum on Ontological Modeling and Analysis, is a venue for developers, researchers, and practitioners to exchange ideas and experiences related to the application of formal methods (adding rigor), DevOps methods (adding agility), and AI methods (adding automation) to ontological modeling and analysis. The forum also aims to foster collaborations within the community.
 
 ## Forum Chair
 
@@ -21,23 +21,25 @@ The **onto:Nexus Forum** — the International Forum on Ontological Modeling and
 
 ## This Edition
 
-The **onto:Nexus Forum 2025** marks the second edition of the International Forum on Ontological Modeling and Analysis. The theme for this year is **"Realizing the RAISE Vision"**, highlighting community efforts to enhance systems engineering practices through rigor, agility, and automation.
+The **onto:Nexus Forum 2025** marks the second edition of the International Forum on Ontological Modeling and Analysis. The theme for this year is **Realizing the RAISE Vision**, highlighting community efforts to enhance systems engineering practices through rigor, agility, and automation.
 
 The event will feature presentations from the community, tutorials demonstrating approaches that exemplify the RAISE vision, and reports on R&D projects led by students of the [RAISE](https://www.opencaesar.io/raise) Lab.
 
-The forum is a **free, two-day hybrid event**, held both in-person at the Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov/)) in Pasadena, California, and online via Microsoft Teams on **May 5–6, 2025**.
+The forum is a **free, two-day hybrid event**, held both in-person at the Jet Propulsion Laboratory ([JPL](https://www.jpl.nasa.gov/)), and online via Microsoft Teams on **May 5–6, 2025**.
 
 ## Online Attendance
 
-To attend virtually, register via the [LinkedIn event](https://www.linkedin.com/events/onto-nexusworkshop2025-inperson7247053965337473024/). Only registered participants will receive an invitation to the [Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTA3NWFkMmMtYzJiOC00NWI4LWEzOTEtNDdmMTIxZjliZmJk%40thread.v2/0?context=%7b%22Tid%22%3a%22545921e0-10ef-4398-8713-9832ac563dad%22%2c%22Oid%22%3a%229bfaf59f-7957-4778-bb9c-b585bb9f4341%22%7d).  **Registration deadline: May 2, 2025.**
+To attend virtually, register via the [LinkedIn event](https://www.linkedin.com/events/onto-nexusworkshop2025-inperson7247053965337473024/). Only registered participants will receive an invitation to the [Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTA3NWFkMmMtYzJiOC00NWI4LWEzOTEtNDdmMTIxZjliZmJk%40thread.v2/0?context=%7b%22Tid%22%3a%22545921e0-10ef-4398-8713-9832ac563dad%22%2c%22Oid%22%3a%229bfaf59f-7957-4778-bb9c-b585bb9f4341%22%7d).  
+
+**Registration deadline: May 2, 2025.**
 
 A virtual tour of the JPL campus will be provided for online attendees during the midday break (see agenda below).
 
 ## In-Person Attendance
 
-To attend in person, please email the forum chair and await confirmation. Space is limited, so early reservation is strongly encouraged.
+To attend in person, please email the forum chair and await confirmation. Space is limited, so early reservation is strongly encouraged. Note that a logistical onboarding process is required for campus access. 
 
-Note that a logistical onboarding process is required for campus access. **Deadlines:**  
+**Registration Deadlines:**  
 - **US persons:** April 15, 2025  
 - **Foreign nationals:** March 15, 2025
 
