@@ -55,7 +55,7 @@ permalink: /events/onto-Nexus-Workshop-2025
           <h3 style="margin: 0;">Topics of Interest</h3>
         </div>
         <ul>
-          <li>Ontological modeling methods/methodologies, analysis tools, and processes for model-based software or systems engineering</li>
+          <li>Ontological modeling methods / methodologies, analysis tools, and processes for model-based software or systems engineering</li>
           <li>Ontological modeling best practices and guidelines, case studies, and benchmarks</li>
           <li>Creation of ontologies through collaboration, machine learning techniques, or other approaches</li>
           <li>Tooling for ontological modeling and analysis</li>
