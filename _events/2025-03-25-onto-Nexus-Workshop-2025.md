@@ -116,7 +116,7 @@ permalink: /events/onto-Nexus-Workshop-2025
           <h3 style="margin: 0;">Program Committee</h3>
         </div>
         <ul>
-          <li>To be posted</li>
+          <li>To be announced</li>
         </ul>
       </div>
 
