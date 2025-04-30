@@ -91,11 +91,23 @@ permalink: /events/onto-Nexus-Workshop-2025
         <div style="background-color: #333; color: white; padding: 0.5rem 1rem; border-radius: 10px 10px 0 0;">
           <h3 style="margin: 0;">Organizing Committee</h3>
         </div>
-        <ul>
-          <li><strong>Maged Elaasar</strong> — NASA JPL, Caltech — USA</li>
-          <li><strong>Bentley Oakes</strong> — Polytechnique Montréal — Montréal, Canada</li>
-          <li><strong>Wahab Hamou-Lhadj</strong> — Concordia University — Montréal, Canada</li>
-          <li><strong>Mohammad Hamdaqa</strong> — Polytechnique Montréal — Montréal, Canada</li>
+        <ul style="list-style: none; padding: 0;">
+          <li style="display: flex; align-items: center; margin: 0.5rem 0;">
+            <img src="/assets/img/maged.png" alt="Maged Elaasar" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 1rem;">
+            <strong>Maged Elaasar</strong> — NASA Jet Propulsion Laboratory — USA
+          </li>
+          <li style="display: flex; align-items: center; margin: 0.5rem 0;">
+            <img src="/assets/img/oakes.jpg" alt="Bentley Oakes" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 1rem;">
+            <strong>Bentley Oakes</strong> — Polytechnique Montréal - Canada
+          </li>
+          <li style="display: flex; align-items: center; margin: 0.5rem 0;">
+            <img src="/assets/img/wahab.jpg" alt="Wahab Hamou-Lhadj" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 1rem;">
+            <strong>Wahab Hamou-Lhadj</strong> — Concordia University — Canada
+          </li>
+          <li style="display: flex; align-items: center; margin: 0.5rem 0;">
+            <img src="/assets/img/hamdaqa.jpeg" alt="Mohammad Hamdaqa" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 1rem;">
+            <strong>Mohammad Hamdaqa</strong> — Polytechnique Montréal — Canada
+          </li>
         </ul>
       </div>
 
