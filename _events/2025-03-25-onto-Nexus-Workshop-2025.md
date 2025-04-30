@@ -86,27 +86,34 @@ permalink: /events/onto-Nexus-Workshop-2025
         <p>All submitted papers must adhere to the IEEE Conference format.</p>
         <p>Accepted regular, short, and tool papers will be published in the companion proceedings of the <strong>MODELS 2025</strong> conference.</p>
       </div>
-
-      <div style="border-radius: 15px; border: 1px solid #ccc; margin-top: 1rem; padding: 1rem;">
+      <div style="border-radius: 15px; border: 1px solid #ccc; margin-top: 1rem; padding: 1rem; max-width: 100%; box-sizing: border-box;">
         <div style="background-color: #333; color: white; padding: 0.5rem 1rem; border-radius: 10px 10px 0 0;">
           <h3 style="margin: 0;">Organizing Committee</h3>
         </div>
-        <ul style="list-style: none; padding: 0;">
-          <li style="display: flex; align-items: center; margin: 0.5rem 0;">
-            <img src="/assets/img/maged.png" alt="Maged Elaasar" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 1rem;">
-            <strong>Maged Elaasar</strong> — NASA Jet Propulsion Laboratory — USA
+        <ul style="list-style: none; padding: 0; margin: 0;">
+          <li style="display: flex; align-items: flex-start; flex-wrap: wrap; margin: 0.5rem 0;">
+            <img src="/assets/img/maged.png" alt="Maged Elaasar" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 1rem; flex-shrink: 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Maged Elaasar</strong>, NASA Jet Propulsion Laboratory, USA
+            </div>
           </li>
-          <li style="display: flex; align-items: center; margin: 0.5rem 0;">
-            <img src="/assets/img/oakes.jpg" alt="Bentley Oakes" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 1rem;">
-            <strong>Bentley Oakes</strong> — Polytechnique Montréal - Canada
+          <li style="display: flex; align-items: flex-start; flex-wrap: wrap; margin: 0.5rem 0;">
+            <img src="/assets/img/oakes.jpg" alt="Bentley Oakes" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 1rem; flex-shrink: 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Bentley Oakes</strong>, Polytechnique Montréal, Canada
+            </div>
           </li>
-          <li style="display: flex; align-items: center; margin: 0.5rem 0;">
-            <img src="/assets/img/wahab.jpg" alt="Wahab Hamou-Lhadj" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 1rem;">
-            <strong>Wahab Hamou-Lhadj</strong> — Concordia University — Canada
+          <li style="display: flex; align-items: flex-start; flex-wrap: wrap; margin: 0.5rem 0;">
+            <img src="/assets/img/wahab.jpg" alt="Wahab Hamou-Lhadj" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 1rem; flex-shrink: 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Wahab Hamou-Lhadj</strong>, Concordia University, Canada
+            </div>
           </li>
-          <li style="display: flex; align-items: center; margin: 0.5rem 0;">
-            <img src="/assets/img/hamdaqa.jpeg" alt="Mohammad Hamdaqa" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 1rem;">
-            <strong>Mohammad Hamdaqa</strong> — Polytechnique Montréal — Canada
+          <li style="display: flex; align-items: flex-start; flex-wrap: wrap; margin: 0.5rem 0;">
+            <img src="/assets/img/hamdaqa.jpeg" alt="Mohammad Hamdaqa" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 1rem; flex-shrink: 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Mohammad Hamdaqa</strong>, Polytechnique Montréal, Canada
+            </div>
           </li>
         </ul>
       </div>
