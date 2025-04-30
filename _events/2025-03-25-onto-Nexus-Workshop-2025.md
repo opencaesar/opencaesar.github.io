@@ -18,7 +18,7 @@ permalink: /events/onto-Nexus-Workshop-2025
   <div class="row">
     <div class="col-12">
 
-      <div style="border-radius: 15px; border: 1px solid #ccc; margin-bottom: 2rem; padding: 1rem;">
+      <div style="border-radius: 15px; border: 1px solid #ccc; margin-bottom: 1rem; padding: 1rem;">
         <div style="background-color: #333; color: white; padding: 0.5rem 1rem; border-radius: 10px 10px 0 0;">
           <h3 style="margin: 0;">Venue</h3>
         </div>
@@ -27,7 +27,7 @@ permalink: /events/onto-Nexus-Workshop-2025
         <a href="https://conf.researchr.org/home/models-2025"><img width="100%" src="https://conf.researchr.org/getImage/models-2025/carousel/berkley-michigan-adobestock-277129227.jpg?1736477166000"/></a>
       </div>
 
-      <div style="border-radius: 15px; border: 1px solid #ccc; margin-bottom: 2rem; padding: 1rem;">
+      <div style="border-radius: 15px; border: 1px solid #ccc; margin-bottom: 1rem; padding: 1rem;">
         <div style="background-color: #333; color: white; padding: 0.5rem 1rem; border-radius: 10px 10px 0 0;">
           <h3 style="margin: 0;">About</h3>
         </div>
@@ -38,7 +38,7 @@ permalink: /events/onto-Nexus-Workshop-2025
         <p>The secondary objective is to highlight novel and ongoing work in ontological modelling and analysis. With the resurgence of ontological techniques across domains and disciplines, there is a need for a workshop-level venue for promoting early-stage research, fundamental contributions, and applications to case studies.</p>
       </div>
 
-      <div style="border-radius: 15px; border: 1px solid #ccc; margin-bottom: 2rem; padding: 1rem;">
+      <div style="border-radius: 15px; border: 1px solid #ccc; margin-bottom: 1rem; padding: 1rem;">
         <div style="background-color: #333; color: white; padding: 0.5rem 1rem; border-radius: 10px 10px 0 0;">
           <h3 style="margin: 0;">Important Dates</h3>
         </div>
@@ -50,7 +50,7 @@ permalink: /events/onto-Nexus-Workshop-2025
         </ul>
       </div>
 
-      <div style="border-radius: 15px; border: 1px solid #ccc; margin-bottom: 2rem; padding: 1rem;">
+      <div style="border-radius: 15px; border: 1px solid #ccc; margin-bottom: 1rem; padding: 1rem;">
         <div style="background-color: #333; color: white; padding: 0.5rem 1rem; border-radius: 10px 10px 0 0;">
           <h3 style="margin: 0;">Topics of Interest</h3>
         </div>
@@ -68,7 +68,7 @@ permalink: /events/onto-Nexus-Workshop-2025
         </ul>
       </div>
 
-      <div style="border-radius: 15px; border: 1px solid #ccc; margin-bottom: 2rem; padding: 1rem;">
+      <div style="border-radius: 15px; border: 1px solid #ccc; margin-bottom: 1rem; padding: 1rem;">
         <div style="background-color: #333; color: white; padding: 0.5rem 1rem; border-radius: 10px 10px 0 0;">
           <h3 style="margin: 0;">Submission Page Limits</h3>
         </div>
@@ -79,7 +79,7 @@ permalink: /events/onto-Nexus-Workshop-2025
         </ul>
       </div>
 
-      <div style="border-radius: 15px; border: 1px solid #ccc; margin-bottom: 2rem; padding: 1rem;">
+      <div style="border-radius: 15px; border: 1px solid #ccc; margin-bottom: 1rem; padding: 1rem;">
         <div style="background-color: #333; color: white; padding: 0.5rem 1rem; border-radius: 10px 10px 0 0;">
           <h3 style="margin: 0;">Paper Publication</h3>
         </div>
@@ -87,7 +87,7 @@ permalink: /events/onto-Nexus-Workshop-2025
         <p>Accepted regular, short, and tool papers will be published in the companion proceedings of the <strong>MODELS 2025</strong> conference.</p>
       </div>
 
-      <div style="border-radius: 15px; border: 1px solid #ccc; margin-top: 2rem; padding: 1rem;">
+      <div style="border-radius: 15px; border: 1px solid #ccc; margin-top: 1rem; padding: 1rem;">
         <div style="background-color: #333; color: white; padding: 0.5rem 1rem; border-radius: 10px 10px 0 0;">
           <h3 style="margin: 0;">Organizing Committee</h3>
         </div>
@@ -99,7 +99,7 @@ permalink: /events/onto-Nexus-Workshop-2025
         </ul>
       </div>
 
-      <div style="border-radius: 15px; border: 1px solid #ccc; margin-top: 2rem; padding: 1rem;">
+      <div style="border-radius: 15px; border: 1px solid #ccc; margin-top: 1rem; padding: 1rem;">
         <div style="background-color: #333; color: white; padding: 0.5rem 1rem; border-radius: 10px 10px 0 0;">
           <h3 style="margin: 0;">Program Committee</h3>
         </div>
