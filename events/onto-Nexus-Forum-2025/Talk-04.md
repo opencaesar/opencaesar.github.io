@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Applications of Ontologies in Pharma"
+title: "Applications of Ontologies in Finance and Manufacturing"
 author: "Elisa Kendall"
 tag: [ontoNexus]
 categories: [event]
