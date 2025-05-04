@@ -99,7 +99,7 @@ If you would like to offer a tutorial, please email an abstract to the forum cha
   </tr>
   <tr>
     <td>9:30 - 9:55</td>
-    <td><a href="/events/onto-Nexus-Forum-2025/Talk-04">Applications of Ontologies in Pharma</a></td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-04">Ontologies in Finance and Manufacturing</a></td>
     <td>Elisa Kendall (Thematix)</td>
   </tr>
   <tr>
