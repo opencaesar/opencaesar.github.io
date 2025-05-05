@@ -146,7 +146,7 @@ If you would like to offer a tutorial, please email an abstract to the forum cha
   <tr>
     <td>1:45 - 2:15</td>
     <td><a href="/events/onto-Nexus-Forum-2025/Talk-09">Ontological Modeling and Analysis Across the Supply Chain</a></td>
-    <td>Steve Jenkins (Modelware)</td>
+    <td>Steven Jenkins</td>
   </tr>
   <tr>
     <td>2:15 - 2:45</td>
