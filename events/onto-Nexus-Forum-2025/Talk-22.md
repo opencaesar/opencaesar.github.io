@@ -23,3 +23,7 @@ Attendees will gain insights into the project's objectives, the newly introduced
 ![Leroy Gage](img/Gage.jpeg){: style="float: left;margin-right: 1em;"} 
 
 <h2><a href="mailto:leroylightning@g.ucla.edu">Leroy Gage</a></h2> is a graduating senior in the department of Computer Science at the University of California, Los Angeles (UCLA).
+
+## Presentation
+
+{% include youtube.html id="i1JGbsrgQVg" %}

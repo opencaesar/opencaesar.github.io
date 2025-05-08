@@ -27,3 +27,7 @@ To conclude the presentation, we will outline our future plans to develop a set 
 ![Lewis Humphries](img/Humphries.jpg){: style="float: left;margin-right: 1em;width: 30%"}
 
 <h2><a href="mailto:lewis.humphries@leonardo.com">Lewis Humphries</a></h2> received his BSc in Computer Science from Sheffield Hallam University in 2021 and his MSc in Advanced Computer Science from the University of York in 2023. Currently he is working alongside the University of York and Leonardo UK in the creation of the IKCE methodology and its implementation, aiming at increasing the agility of large scale aerospace projects without sacrificing rigour.
+
+## Presentation
+
+{% include youtube.html id="V-dO6LUZ5MY" %}

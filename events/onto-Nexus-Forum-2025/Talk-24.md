@@ -19,3 +19,7 @@ The Engineering Management Platform for Integration, Realization, and Execution 
 ![Michael Halvorson](img/Halvorson.jpg){: style="float: left;margin-right: 1em;"}
 
 <h2><a href="mailto:mch0043@uah.edu">Michael Halvorson</a></h2> received a B.S. in Aerospace Engineering and a B.S. in Mechanical Engineering from Auburn University in 2017. He then received a M.S. in Mechanical Engineering from Auburn University in 2020 and is now a doctoral student in Aerospace Systems Engineering at the University of Alabama in Huntsville. Michael was a NASA Research Fellow from 2018-2022 and has been Chief Engineer and acting Lead Systems Engineer for the Alabama CubeSat Initiative since January 2021. Michael develops new methods for Model-Based Systems Engineering of complex systems including ontologies for architecture, design, integration, reliability, requirements, and verification. He leads the strategic direction of the Unified Ontologies Foundry, the organization developing the ontological basis underpinning the Engineering Management Platform for Integration, Realization, and Execution (EMPIRE).
+
+## Presentation
+
+{% include youtube.html id="NAzfEWbNzKw" %}

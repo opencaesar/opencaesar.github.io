@@ -19,3 +19,7 @@ This presentation summarizes an ambitious project developing a suite of ontologi
 ![Robert Rovetto](img/Rovetto.jpg){: style="float: left;margin-right: 1em;"}
 
 <h2><a href="mailto:ontologos@yahoo.com">Robert Rovetto</a></h2> is an independent researcher interested in conceptual modeling; foundational ontology; ontology for space; ontology for maritime safety; philosophy; highly abstract concepts in ontology; and the ethics of ontology. He innovates and ideates, bringing unsurpassed attention to detail, abstraction, and domain expertise to achieve mission success. Robert has been part of CCSDS, AIAA, IAF, ISO, the NASA Datanauts, and ontology committees for a number of years. Output has included single and co- authored agency technical documents, national & international standards, and journal and conference articles. With a portfolio of various multidisciplinary projects open to collaboration, Robert creates knowledge organization systems, develops fine conceptual distinctions, and produces concept frameworks. Drawing on active participation in the global community since 2010, he brings a unique big- picture and focused perspective. Open to employment, PhD opportunities, and sponsors to realize the vision of one of his prolific projects, interested readers should make contact.
+
+## Presentation
+
+{% include youtube.html id="J13LN9AlqMk" %}

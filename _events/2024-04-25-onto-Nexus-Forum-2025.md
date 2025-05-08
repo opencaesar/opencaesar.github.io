@@ -218,7 +218,7 @@ If you would like to offer a tutorial, please email an abstract to the forum cha
   </tr>
   <tr>
     <td>9:30 - 9:45</td>
-    <td><a href="/events/onto-Nexus-Forum-2025/Talk-17">Analyzing Documents as Ontologies with LLM</a></td>
+    <td><a href="/events/onto-Nexus-Forum-2025/Talk-17">Document Analyzer Using LLM</a></td>
     <td>Kareem Elaasar (UCI)</td>
   </tr>
   <tr>

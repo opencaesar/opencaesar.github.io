@@ -20,3 +20,7 @@ The aim is to develop an initial understanding of how the interaction between th
 ![Oliver Bertram](img/Bertram.jpeg){: style="float: left;margin-right: 1em; width: 40%"}
 
 <h2><a href="mailto:Oliver.Bertram@dlr.de">Oliver Bertram</a></h2> is heading a research group at the German Aerospace Center (DLR), specializing in system design and safety, with a strong focus on Model-Based Systems Engineering (MBSE). With extensive experience in both research and industry projects, he leads his team in advancing the use of MBSE and SysML in the development of complex aircraft systems. His passion for systems engineering, combined with his background in systems design and safety, drives his work to enhance the integration of cutting-edge technologies into the aircraft systems lifecycle. Dr. Bertram holds a Ph.D. in Engineering and has been leading research efforts in this field for over a decade.
+
+## Presentation
+
+{% include youtube.html id="j3sKBE4c-DA" %}
