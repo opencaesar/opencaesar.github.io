@@ -70,22 +70,29 @@ permalink: /events/onto-Nexus-Workshop-2025
 
       <div style="border-radius: 15px; border: 1px solid #ccc; margin-bottom: 1rem; padding: 1rem;">
         <div style="background-color: #333; color: white; padding: 0.5rem 1rem; border-radius: 10px 10px 0 0;">
-          <h3 style="margin: 0;">Submission Page Limits</h3>
+          <h3 style="margin: 0;">Submissions</h3>
         </div>
+        <p>The following types of papers are invited for submission:</p>
         <ul>
-          <li><strong>Regular papers:</strong> Maximum 10 pages — Novel research or applications</li>
-          <li><strong>Short and tool papers:</strong> Maximum 5 pages — Vision papers, tools, demos, case studies</li>
-          <li><strong>Industry short talks:</strong> Maximum 2 pages — Open to all industry practitioners</li>
+          <li><strong>Regular Papers:</strong> Up to 10 pages — Novel research contributions or innovative applications.</li>
+          <li><strong>Short and Tool Papers:</strong> Up to 5 pages — Vision papers, tool descriptions, demonstrations, or case studies.</li>
+          <li><strong>Industry Short Talks:</strong> Up to 2 pages — Open to all industry practitioners.</li>
         </ul>
+
+        <p>Submit your paper via the onto:Nexus Workshop 2025
+          <a href="https://easychair.org/conferences?conf=ontonexus2025" target="_blank" rel="noopener noreferrer">
+             EasyChair
+          </a> website.
+        </p>
+
+        <p>All submissions must comply with the <a href="https://www.ieee.org/conferences/publishing/templates.html" target="_blank" rel="noopener noreferrer"> IEEE formatting instructions.</a>.</p>
+
+        <p>Submissions will undergo a single-blind review process, with each paper reviewed by at least three members of the program committee. Reviewers will assess the relevance, clarity, and potential to stimulate engaging discussion at the workshop. Accepted papers will be published by IEEE in the joint workshop proceedings.</p>
+
+        <p>Submissions must not be under review or submitted elsewhere concurrently. Violation of this policy — as explicitly outlined by both <a href="https://www.comsoc.org/publications/ieee-communications-society-policy-plagiarism-and-multiple-submissions" target="_blank" rel="noopener noreferrer">IEEE</a> and <a href="https://www.acm.org/publications/policies/simultaneous-submissions" target="_blank" rel="noopener noreferrer">ACM</a> — will be considered a breach of scientific ethics, and appropriate actions will be taken.
+        </p>
       </div>
 
-      <div style="border-radius: 15px; border: 1px solid #ccc; margin-bottom: 1rem; padding: 1rem;">
-        <div style="background-color: #333; color: white; padding: 0.5rem 1rem; border-radius: 10px 10px 0 0;">
-          <h3 style="margin: 0;">Paper Publication</h3>
-        </div>
-        <p>All submitted papers must adhere to the IEEE Conference format.</p>
-        <p>Accepted regular, short, and tool papers will be published in the companion proceedings of the <strong>MODELS 2025</strong> conference.</p>
-      </div>
       <div style="border-radius: 15px; border: 1px solid #ccc; margin-top: 1rem; padding: 1rem; max-width: 100%; box-sizing: border-box;">
         <div style="background-color: #333; color: white; padding: 0.5rem 1rem; border-radius: 10px 10px 0 0;">
           <h3 style="margin: 0;">Organizing Committee</h3>

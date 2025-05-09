@@ -1,12 +1,12 @@
 # Caption should not exceed 40 character
 # If you include special characters (- and :) surround by ""
-- caption: "Attend onto:Nexus Forum on May 5-6, 2025"
+- caption: "Attend onto:Nexus Workshop @MODELS 2025"
   carouselImageName: banner_1.png
-  floatingImageName: onto_Nexus_Forum_2025.png
-  readMoreUrl: events/onto-Nexus-Forum-2025.html
+  floatingImageName: onto_Nexus_Workshop_2025.png
+  readMoreUrl: events/onto-Nexus-Workshop-2025.html
   buttonLable: "Read More"
   slideId: 0
-- caption: "Four New OML Tutorials!"
+- caption: "Follow Six Self-Paced OML Tutorials"
   carouselImageName: banner_1.png
   floatingImageName: oml.png
   readMoreUrl: http://www.opencaesar.io/oml-tutorials/
