@@ -101,7 +101,7 @@ permalink: /events/onto-Nexus-Workshop-2025
           <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
             <img src="/assets/img/maged.png" alt="Maged Elaasar" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 1rem; flex-shrink: 0;">
             <div style="flex: 1; min-width: 0; word-wrap: break-word;">
-              <strong>Maged Elaasar</strong>, NASA Jet Propulsion Laboratory, USA
+              <strong>Maged Elaasar</strong>, Modelware, USA
             </div>
           </li>
           <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
