@@ -24,7 +24,7 @@ permalink: /events/onto-Nexus-Workshop-2025
         </div>
         <p/>
         <p>Co-located with <a href="https://conf.researchr.org/home/models-2025"><strong>MODELS 2025</strong></a>.</p>
-        <a href="https://conf.researchr.org/home/models-2025"><img width="100%" src="https://conf.researchr.org/getImage/models-2025/carousel/berkley-michigan-adobestock-277129227.jpg?1736477166000"/></a>
+        <a href="https://conf.researchr.org/home/models-2025"><img width="100%" src="https://2025.models-conf.com/getImage/carousel/210929_PewCampusSunrise_AP_0027.jpg"/></a>
       </div>
 
       <div style="border-radius: 15px; border: 1px solid #ccc; margin-bottom: 1rem; padding: 1rem;">
