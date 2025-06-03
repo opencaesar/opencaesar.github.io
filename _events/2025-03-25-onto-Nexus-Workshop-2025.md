@@ -2,7 +2,7 @@
 layout: workshop
 title: "onto:Nexus Workshop 2025"
 dates: "Sun 5th - Tues 7th, October 2025"
-venue: "Hybrid at Grand Rapids, MI, USA"
+venue: "Grand Rapids, MI, USA"
 author: "Maged Elaasar"
 author_image: maged.png
 tag: [MBSE, IMCE, CAESAR, OML, openCAESAR]
@@ -23,7 +23,7 @@ permalink: /events/onto-Nexus-Workshop-2025
           <h3 style="margin: 0;">Venue</h3>
         </div>
         <p/>
-        <p>Co-located with <a href="https://conf.researchr.org/home/models-2025"><strong>MODELS 2025</strong></a>.</p>
+        <p>Hybrid and Co-located with <a href="https://conf.researchr.org/home/models-2025"><strong>MODELS 2025</strong></a>.</p>
         <a href="https://conf.researchr.org/home/models-2025"><img width="100%" src="https://2025.models-conf.com/getImage/carousel/210929_PewCampusSunrise_AP_0027.jpg"/></a>
       </div>
 
