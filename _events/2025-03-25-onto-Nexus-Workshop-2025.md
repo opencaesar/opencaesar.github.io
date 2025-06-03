@@ -2,7 +2,7 @@
 layout: workshop
 title: "onto:Nexus Workshop 2025"
 dates: "Sun 5th - Tues 7th, October 2025"
-venue: "Ann Arbor, Michigan, USA"
+venue: "Hybrid at Grand Rapids, MI, USA"
 author: "Maged Elaasar"
 author_image: maged.png
 tag: [MBSE, IMCE, CAESAR, OML, openCAESAR]
