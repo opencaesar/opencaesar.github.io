@@ -43,8 +43,8 @@ permalink: /events/onto-Nexus-Workshop-2025
           <h3 style="margin: 0;">Important Dates</h3>
         </div>
         <ul>
-          <li><strong>Thursday June 26, 2025:</strong> Abstract submission</li>
-          <li><strong>Thursday July 3, 2025:</strong> Paper submission</li>
+          <li><strong>Thursday July 4, 2025:</strong> Abstract submission</li>
+          <li><strong>Thursday July 9, 2025:</strong> Paper submission</li>
           <li><strong>Thursday July 31, 2025:</strong> Notification of acceptance</li>
           <li><strong>Thursday August 7, 2025:</strong> Camera-ready submission</li>
         </ul>
