@@ -125,12 +125,81 @@ permalink: /events/onto-Nexus-Workshop-2025
         </ul>
       </div>
 
-      <div style="border-radius: 15px; border: 1px solid #ccc; margin-top: 1rem; padding: 1rem;">
+      <div style="border-radius: 15px; border: 1px solid #ccc; margin-top: 1rem; padding: 1rem; max-width: 100%; box-sizing: border-box;">
         <div style="background-color: #333; color: white; padding: 0.5rem 1rem; border-radius: 10px 10px 0 0;">
           <h3 style="margin: 0;">Program Committee</h3>
         </div>
-        <ul>
-          <li>To be announced</li>
+        <ul style="list-style: none; padding: 0; margin: 0;">
+          <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Yuta Nakajima</strong>, JAXA, Japan
+            </div>
+          </li>
+          <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Eduard Kamburjan</strong>, IT University of Copenhagen, Denmark
+            </div>
+          </li>
+          <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Sergio de Cesare</strong>, University of Westminster, UK
+            </div>
+          </li>
+          <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Florian Noyrit</strong>, CEA LIST, France
+            </div>
+          </li>
+          <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Giancarlo Guizzardi</strong>, University of Twente, The Netherlands
+            </div>
+          </li>
+          <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>William Van Woensel</strong>, University of Ottawa, Canada
+            </div>
+          </li>
+          <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Kristóf Marussy</strong>, Budapest University of Technology and Economics, Hungary
+            </div>
+          </li>
+          <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Avi Shaked</strong>, University of Oxford, UK
+            </div>
+          </li>
+          <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Sophia Salas</strong>, The CT Engineering Group, France
+            </div>
+          </li>
+          <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Joe Gregory</strong>, University of Arizona, USA
+            </div>
+          </li>
+          <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Ahsan Qamar</strong>, Ford Motor Company, USA
+            </div>
+          </li>
+          <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Sangeeth Saagar Ponnusamy</strong>, Airbus, Germany
+            </div>
+          </li>
+          <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Michael Halvorson</strong>, University of Alabama in Huntsville, USA
+            </div>
+          </li>
+          <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>David Wagner</strong>, Jet Propulsion Lab, USA
+            </div>
+          </li>
         </ul>
       </div>
 

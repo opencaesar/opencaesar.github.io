@@ -29,6 +29,6 @@ sass:
     sass_dir: _sass
 plugins: [jekyll-paginate] 
 
-gems:
+plugins:
   - jekyll-redirect-from
 
