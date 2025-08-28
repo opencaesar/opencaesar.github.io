@@ -254,7 +254,7 @@ permalink: /events/onto-Nexus-Workshop-2025
               </tr>
               <tr>
                 <td>15:00</td>
-                <td><b>Lightning Talks</b></td>
+                <td><b>Lightning Talks - about Ontological Modeling and Analysis</b></td>
               </tr>
               <tr>
                 <td>15:30</td>
