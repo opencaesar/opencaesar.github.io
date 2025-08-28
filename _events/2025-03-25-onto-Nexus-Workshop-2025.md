@@ -217,7 +217,7 @@ permalink: /events/onto-Nexus-Workshop-2025
             <tbody>
               <tr>
                 <td>09:00</td>
-                <td><b>Keynote</b> – Eduard Kamburjan</td>
+                <td><b>Keynote: Software Quality for the Semantic Web</b> – Eduard Kamburjan</td>
               </tr>
               <tr>
                 <td>10:00</td>
@@ -232,7 +232,7 @@ permalink: /events/onto-Nexus-Workshop-2025
               </tr>
               <tr>
                 <td>11:00</td>
-                <td><b>Roundtable</b> – Should we develop an Ontology Foundry?</td>
+                <td><b>Roundtable</b> – What can we contribute to the SysML v2?</td>
               </tr>
               <tr>
                 <td>12:30</td>
