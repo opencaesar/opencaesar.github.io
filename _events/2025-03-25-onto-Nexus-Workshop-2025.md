@@ -242,7 +242,7 @@ permalink: /events/onto-Nexus-Workshop-2025
                 <td>14:00</td>
                 <td>
                   <b>openCAESAR Application to Power Balance Analysis in Early Space Mission Formulation</b>  
-                    – Yuta Nakajima, Haruhi Katsumata, Yutaka Komatsu, Maged Elaasar, David Wagner
+                    – Yuta Nakajima, Haruhi Katsumata, Yutaka Komatsu, Maged Elaasar and David Wagner
                 </td>
               </tr>
               <tr>
