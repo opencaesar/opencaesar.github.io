@@ -203,6 +203,84 @@ permalink: /events/onto-Nexus-Workshop-2025
         </ul>
       </div>
 
+      <div style="border-radius: 15px; border: 1px solid #ccc; margin-top: 1rem; padding: 1rem; max-width: 100%; box-sizing: border-box;">
+        <div style="background-color: #333; color: white; padding: 0.5rem 1rem; border-radius: 10px 10px 0 0;">
+          <h3 style="margin: 0;">Program</h3>
+        </div>
+          <table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%; text-align: left;">
+            <thead>
+              <tr style="background-color: #f2f2f2;">
+                <th style="width: 15%;">Time</th>
+                <th>Session</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>09:00</td>
+                <td><b>Keynote</b> – Eduard Kamburjan</td>
+              </tr>
+              <tr>
+                <td>10:00</td>
+                <td>
+                  <b>Integrated Knowledge Centric Engineering: Delivering Next-Generation Aircraft Projects at Pace</b>  
+                   – <i>Lewis Humphries, Gianmaria Bullegas, John Golledge, Campbell Mccausland, Donald Taylor, Dimitris Kolovos, Antonio Garcia-Dominguez and Simos Gerasimou</i>
+                </td>
+              </tr>
+              <tr>
+                <td>10:30</td>
+                <td><b>Coffee</b></td>
+              </tr>
+              <tr>
+                <td>11:00</td>
+                <td><b>Roundtable</b> – Should we develop an Ontology Foundry?</td>
+              </tr>
+              <tr>
+                <td>12:30</td>
+                <td><b>Lunch</b></td>
+              </tr>
+              <tr>
+                <td>14:00</td>
+                <td>
+                  <b>openCAESAR Application to Power Balance Analysis in Early Space Mission Formulation</b>  
+                    – Yuta Nakajima, Haruhi Katsumata and Yutaka Komatsu
+                </td>
+              </tr>
+              <tr>
+                <td>14:30</td>
+                <td>
+                  <b>Power of a Reasoner: Model Validation for SysML Model using openCAESAR</b>
+                    – Yuta Nakajima, Atsushi Wada and Yutaka Komatsu
+                </td>
+              </tr>
+              <tr>
+                <td>15:00</td>
+                <td><b>Lightning Talks</b></td>
+              </tr>
+              <tr>
+                <td>15:30</td>
+                <td><b>Coffee</b></td>
+              </tr>
+              <tr>
+                <td>16:00</td>
+                <td>
+                  <b>Towards bridging ontological and closed-world modelling with synchronised EMF views of RDF models</b> 
+                  – Owen Reynolds, Antonio Garcia-Dominguez, Dimitris Kolovos, Gianmaria Bullegas and Campbell Mccausland
+                </td>
+              </tr>
+              <tr>
+                <td>16:30</td>
+                <td>
+                  <b>An Ontological Representation of the UML Testing Profile</b>
+                  – Joe Gregory, Pooja Pandit and Alejandro Salado
+                </td>
+              </tr>
+              <tr>
+                <td>17:00</td>
+                <td><b>Conclusion</b></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
     </div>
   </div>
 
