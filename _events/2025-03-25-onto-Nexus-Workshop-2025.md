@@ -242,14 +242,14 @@ permalink: /events/onto-Nexus-Workshop-2025
                 <td>14:00</td>
                 <td>
                   <b>openCAESAR Application to Power Balance Analysis in Early Space Mission Formulation</b>  
-                    – Yuta Nakajima, Haruhi Katsumata and Yutaka Komatsu
+                    – Yuta Nakajima, Haruhi Katsumata, Yutaka Komatsu, Maged Elaasar, David Wagner
                 </td>
               </tr>
               <tr>
                 <td>14:30</td>
                 <td>
                   <b>Power of a Reasoner: Model Validation for SysML Model using openCAESAR</b>
-                    – Yuta Nakajima, Atsushi Wada and Yutaka Komatsu
+                    – Yuta Nakajima, Atsushi Wada, Yutaka Komatsu, Maged Elaasar and David Wagner
                 </td>
               </tr>
               <tr>
