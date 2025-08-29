@@ -31,6 +31,8 @@ Specification issues reported by this project:
 
 ## Results
 
+![Document Analyzer Award](/assets/img/jpl-sysml-award.jpg)
+
 We are working as part of the Flexo-SysMLv2 team proposing an OWL representation for the abstract syntax of SysML v2 as normative. 
 The following repo is used as a sandbox for publishing drafts of this representation (in OWL and OML) as it evolves based on the team's recommendations.
 
