@@ -1,7 +1,7 @@
 ---
 layout: workshop
 title: "onto:Nexus Workshop 2025"
-dates: "Sun 5th - Tues 7th, October 2025"
+dates: "Sun October 5, 2025"
 venue: "Grand Rapids, MI, USA"
 author: "Maged Elaasar"
 author_image: maged.png
