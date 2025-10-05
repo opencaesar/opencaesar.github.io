@@ -216,66 +216,66 @@ permalink: /events/onto-Nexus-Workshop-2025
             </thead>
             <tbody>
               <tr>
-                <td>09:00</td>
+                <td>08:30</td>
                 <td><b>Keynote: Software Quality for the Semantic Web</b> – Eduard Kamburjan</td>
               </tr>
               <tr>
-                <td>10:00</td>
+                <td>09:30</td>
                 <td>
                   <b>Integrated Knowledge Centric Engineering: Delivering Next-Generation Aircraft Projects at Pace</b>  
                    – <i>Lewis Humphries, Gianmaria Bullegas, John Golledge, Campbell Mccausland, Donald Taylor, Dimitris Kolovos, Antonio Garcia-Dominguez and Simos Gerasimou</i>
                 </td>
               </tr>
               <tr>
-                <td>10:30</td>
+                <td>10:00</td>
                 <td><b>Coffee</b></td>
               </tr>
               <tr>
-                <td>11:00</td>
+                <td>10:30</td>
                 <td><b>Roundtable</b> – What can we contribute to the SysML v2?</td>
               </tr>
               <tr>
-                <td>12:30</td>
+                <td>12:00</td>
                 <td><b>Lunch</b></td>
               </tr>
               <tr>
-                <td>14:00</td>
+                <td>13:30</td>
                 <td>
                   <b>openCAESAR Application to Power Balance Analysis in Early Space Mission Formulation</b>  
                     – Yuta Nakajima, Haruhi Katsumata, Yutaka Komatsu, Maged Elaasar and David Wagner
                 </td>
               </tr>
               <tr>
-                <td>14:30</td>
+                <td>14:00</td>
                 <td>
                   <b>Power of a Reasoner: Model Validation for SysML Model using openCAESAR</b>
                     – Yuta Nakajima, Atsushi Wada, Yutaka Komatsu, Maged Elaasar and David Wagner
                 </td>
               </tr>
               <tr>
-                <td>15:00</td>
+                <td>14:30</td>
                 <td><b>Lightning Talks - about Ontological Modeling and Analysis</b></td>
               </tr>
               <tr>
-                <td>15:30</td>
+                <td>15:00</td>
                 <td><b>Coffee</b></td>
               </tr>
               <tr>
-                <td>16:00</td>
+                <td>15:30</td>
                 <td>
                   <b>Towards bridging ontological and closed-world modelling with synchronised EMF views of RDF models</b> 
                   – Owen Reynolds, Antonio Garcia-Dominguez, Dimitris Kolovos, Gianmaria Bullegas and Campbell Mccausland
                 </td>
               </tr>
               <tr>
-                <td>16:30</td>
+                <td>16:00</td>
                 <td>
                   <b>An Ontological Representation of the UML Testing Profile</b>
                   – Joe Gregory, Pooja Pandit and Alejandro Salado
                 </td>
               </tr>
               <tr>
-                <td>17:00</td>
+                <td>16:30</td>
                 <td><b>Conclusion</b></td>
               </tr>
             </tbody>
