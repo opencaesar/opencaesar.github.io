@@ -20,19 +20,11 @@ Our discussion revolves around various metaclasses: `LiteralBoolean`, `LiteralEx
 
 ## The Class Hierarchy
 
-At the core of the metamodel lies an intricate hierarchy of classes. `LiteralBoolean` is a subclass of `LiteralExpression`, which, in turn, is connected to `Expression`. This chain continues with `Expression` leading to Step and finally culminating with `Feature`.
+At the core of the metamodel lies an intricate hierarchy of classes. `LiteralBoolean` is a subclass of `LiteralExpression`, which, in turn, is connected to `Expression`. This chain continues with `Expression` leading to `Step` and finally culminating with `Feature`. On the other hand, metaclass `Behavior` is a subclass of `Class` and, by extension, `Classifier`. 
 
 ## The Disjointness Dilemma
 
-A noteworthy development occurs when `Behavior` becomes a subclass of `Class` and, by extension, `Classifier`. This addition prompts an interesting challenge. The absence of a common subclass between the concrete metaclasses `Classifier` and Expre`ssion leads to an inference of "disjoint" through a specialized algorithm in OML, known as the *bundle closure algorithm*. This situation results in a conflict between `Expression` and `Behavior`.
-
-## The Property Relations
-
-Property relations introduce additional layers of complexity. The `result` property connects `Expression` and `Feature` with a strict cardinality of exactly 1. Furthermore, the `result` property is a subproperty of the `template` property. The `template` property has `Behavior` as its domain and `Feature` as its range.
-
-## The Conundrum Unveiled
-
-Here is where our analysis takes an intriguing turn. Each instance of `Expression` must have a `result`. This strict cardinality requirement necessitates the presence of a parameter. Consequently, `Expression` assumes both `Expression` and `Behavior` roles, as indicated by the inferred <span style="color: red">red</span> inheritance arrow in the class diagram mentioned earlier. However, this dual role presents a conflict as `Expression` and `Behavior` are disjoint.
+The class hierarchy above induces an interesting challenge. The absence of a common subclass between metaclasses `Classifier` and `Expression` leads to an inference that they are "disjoint" (through a special algorithm in OML known as the *bundle closure algorithm*). Moreover, the `result` property connects metaclasses `Expression` and `Feature` with a strict cardinality of exactly 1. This means each instance of `Expression` must have a `result` property value. Since the `result` property is a subproperty of the `parameter` property, this also means that each `Expression` must have a value for the `parameter` property. Since the `parameter` property has metaclass `Behavior` as its domain, the reasoner concludes that metalass `Expression` must also be a subclass of `Behavior`, as indicated by the <span style="color: red">red</span> inheritance arrow in the class diagram above. However, this new inference conflicts with the earlier one that metaclasses `Expression` and `Behavior` are disjoint.
 
 ## The Unholy Union
 
