@@ -42,8 +42,6 @@ Space is limited and access to the JPL campus requires an onboarding process tha
 - **Ingenium:** System Testing and Automation Lab
 - **SEAL:** Systems Engineering AI Lab
 - **CARS**: Center for Autonomous Robotic Systems
-- **LARS:** Software Reliability and Runtime Verification Lab
-- **FPrime:** Flight Software and Embedded Systems Lab
 
 ## Program
 
