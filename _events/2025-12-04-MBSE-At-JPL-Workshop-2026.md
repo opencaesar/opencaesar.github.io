@@ -39,9 +39,6 @@ Space is limited and access to the JPL campus requires an onboarding process tha
 
 - **openCAESAR:** Ontological Modeling and Analysis Lab
 - **OpenMBEE:** Model Sharing and Tool Interoperability Lab
-- **Ingenium:** System Testing and Automation Lab
-- **SEAL:** Systems Engineering AI Lab
-- **CARS**: Center for Autonomous Robotic Systems
 
 ## Program
 
