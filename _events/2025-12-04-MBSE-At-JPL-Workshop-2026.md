@@ -1,7 +1,7 @@
 ---
 layout: workshop
 title: "MBSE@JPL Workshop 2026"
-dates: "February 4-5, 2026"
+dates: "February 4th, 2026"
 venue: "JPL, Pasadena, CA"
 author: "Maged Elaasar"
 author_image: maged.png
@@ -33,7 +33,7 @@ Space is limited and access to the JPL campus requires an onboarding process tha
 
 - **January 5, 2026:** Deadline for foreign nationals to RSVP
 - **January 20, 2026:** Deadline for US persons to RSVP
-- **February 4-5, 2026:** The event days
+- **February 4th, 2026:** The event day
 
 ## MBSE Labs under JDEC
 
