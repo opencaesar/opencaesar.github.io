@@ -32,7 +32,7 @@ Participants will gain firsthand insights into how JPL is advancing MBSE methodo
 - **openCAESAR:** Ontological Modeling and Analysis Lab
 - **OpenMBEE:** Model Sharing and Tool Interoperability Lab
 
-## Physical Attendance
+## In-Person Attendance
 
 Contact [Dr. Maged Elaasar](mailto:elaasar@jpl.nasa.gov) for an invitation.
 
