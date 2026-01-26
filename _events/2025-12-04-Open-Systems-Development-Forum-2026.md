@@ -1,6 +1,6 @@
 ---
 layout: workshop
-title: "Open System Development Forum 2026"
+title: "Open Systems Development Forum 2026"
 dates: "February 4th, 2026"
 venue: "JPL, Pasadena, CA"
 author: "Maged Elaasar"
@@ -17,7 +17,7 @@ permalink: /events/Open-Systems-Development-Forum-2026
 
 ## About
 
-JPL is hosting the **Open System Development Forum**, a one day event strategically scheduled immediately following the INCOSE International Workshop 2026 in Torrance, CA (January 31–February 3), making it convenient for attendees to participate in both events. The workshop offers a unique opportunity to explore cutting-edge innovations in Model-Based Systems Engineering (MBSE) directly from a prominent leader in systems engineering and one of the world's most innovative R&D centers.
+JPL is hosting the **Open Systems Development Forum**, a one day event strategically scheduled immediately following the INCOSE International Workshop 2026 in Torrance, CA (January 31–February 3), making it convenient for attendees to participate in both events. The workshop offers a unique opportunity to explore cutting-edge innovations in Model-Based Systems Engineering (MBSE) directly from a prominent leader in systems engineering and one of the world's most innovative R&D centers.
 
 Participants will gain firsthand insights into how JPL is advancing MBSE methodologies and tools while creating impact for both internal and external partners. Attendees will network and engage in technical discussions with the speakers, and explore potential partnerships to implement these advances within their own organizational contexts.
 
