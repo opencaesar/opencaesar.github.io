@@ -70,7 +70,6 @@ Register via [LinkedIn Event](https://www.linkedin.com/events/742131148551742259
   </tr>
   <tr>
     <td>9:30 - 10:00</td>
-    <td>10:00 - 10:30</td>
     <td>CoPilot for the Ontological Modeling Language</td>
     <td>R. Garcia (TUM), A. Alhamadah (UofA), S. Amar (FSU)</td>
   </tr>
