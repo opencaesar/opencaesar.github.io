@@ -70,15 +70,17 @@ Register via [LinkedIn Event](https://www.linkedin.com/events/742131148551742259
   </tr>
   <tr>
     <td>9:30 - 10:00</td>
+    <td>10:00 - 10:30</td>
     <td>CoPilot for the Ontological Modeling Language</td>
     <td>R. Garcia (TUM), A. Alhamadah (UofA), S. Amar (FSU)</td>
   </tr>
   <tr>
+    <td>10:00 - 10:30</td>
     <td>Ontological Modeling and Analysis at JAXA: Current Status and Future Directions</td>
     <td>Y. Nakajima (JAXA)</td>
   </tr>
   <tr>
-    <td>10:00 - 10:30</td>
+    <td>10:30 - 11:00</td>
     <td>CoPilot for System Formulation</td>
     <td>K. Elaasar (UCI)</td>
   </tr>
