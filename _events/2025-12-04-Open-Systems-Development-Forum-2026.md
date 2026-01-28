@@ -80,27 +80,27 @@ Register via [LinkedIn Event](https://www.linkedin.com/events/742131148551742259
   </tr>
   <tr>
     <td>10:30 - 11:00</td>
-    <td>CoPilot for System Formulation</td>
-    <td>K. Elaasar (UCI)</td>
-  </tr>
+    <td>MBSE Initiatives in MHI’s Commercial Aviation Sector</td>
+    <td>Y. Utsumi (MHI)</td>
+</tr>
   <tr style="color: blue;">
     <td>11:00 - 12:00</td>
     <td colspan="2">Lunch at 167 Cafeteria</td>
   </tr>
   <tr>
     <td>12:00 - 12:30</td>
-    <td>Systems Engineering AI Lab (SEAL)</td>
-    <td>K. McCoy (JPL))</td>
-  </tr>
-  <tr>
-    <td>12:30 - 1:00</td>
     <td>Testing and Verification of Autonomy with Temporal Constraints</td>
     <td>K. Havelund (JPL)</td>
   </tr>
   <tr>
+    <td>12:30 - 1:00</td>
+    <td>Systems Engineering AI Lab (SEAL)</td>
+    <td>K. McCoy (JPL))</td>
+  </tr>
+  <tr>
     <td>1:00 - 1:30</td>
-    <td>MBSE Initiatives in MHI’s Commercial Aviation Sector</td>
-    <td>Y. Utsumi (MHI)</td>
+    <td>CoPilot for System Formulation</td>
+    <td>K. Elaasar (UCI)</td>
   </tr>
   <tr style="color: blue;">
     <td>1:30 - 2:00</td>
