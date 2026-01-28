@@ -31,6 +31,8 @@ Participants will gain firsthand insights into how JPL is advancing MBSE methodo
 
 - **openCAESAR:** Ontological Modeling and Analysis Lab
 - **OpenMBEE:** Model Sharing and Tool Interoperability Lab
+- **SEAL:** Systems Engineering AI Lab
+- **LARS:** Laboratory for Reliable Software
 
 ## In-Person Attendance
 
