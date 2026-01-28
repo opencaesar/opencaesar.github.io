@@ -31,7 +31,7 @@ Participants will gain firsthand insights into how JPL is advancing MBSE methodo
 
 - **openCAESAR:** Open Computer Aided Engineering for Systems Architecture
 - **OpenMBEE:** Open Model Based Engineering Environment
-- **SEAL:** Systems Engineering AI Lab
+- **SEAL:** Systems Engineering AI Laboratory
 - **LARS:** Laboratory for Reliable Software
 
 ## In-Person Attendance
