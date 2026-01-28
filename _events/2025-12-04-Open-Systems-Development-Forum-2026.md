@@ -95,7 +95,7 @@ Register via [LinkedIn Event](https://www.linkedin.com/events/742131148551742259
   <tr>
     <td>12:30 - 1:00</td>
     <td>Systems Engineering AI Lab (SEAL)</td>
-    <td>K. McCoy (JPL))</td>
+    <td>K. McCoy (JPL)</td>
   </tr>
   <tr>
     <td>1:00 - 1:30</td>
@@ -114,7 +114,7 @@ Register via [LinkedIn Event](https://www.linkedin.com/events/742131148551742259
   <tr>
     <td>2:30 - 3:00</td>
     <td>Star Forge and OpenMBEE</td>
-    <td>R. Karban (Planetary Utilities))</td>
+    <td>R. Karban (Planetary Utilities)</td>
   </tr>
   <tr>
     <td>3:00 - 3:30</td>
@@ -128,7 +128,7 @@ Register via [LinkedIn Event](https://www.linkedin.com/events/742131148551742259
   </tr>
   <tr>
     <td>4:00 - 5:00</td>
-    <td colspan="2">Roundtable Discussion (Building a Community for SysML v2 with Ontologies)</td>
+    <td colspan="2">Roundtable Discussion: Using SysML v2 with Ontologies</td>
   </tr>
   <tr style="color: blue;">
     <td>6:30</td>
