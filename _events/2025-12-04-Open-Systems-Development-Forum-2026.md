@@ -104,7 +104,7 @@ Register via [LinkedIn Event](https://www.linkedin.com/events/742131148551742259
   </tr>
   <tr style="color: blue;">
     <td>1:30 - 2:00</td>
-    <td colspan="2">Coffee Break (15min)</td>
+    <td colspan="2">Coffee Break</td>
   </tr>
   <tr>
     <td>2:00 - 2:30</td>
