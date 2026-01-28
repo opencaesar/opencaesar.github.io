@@ -67,7 +67,7 @@ Register via [LinkedIn Event](https://www.linkedin.com/events/742131148551742259
   </tr>
   <tr>
     <td>9:00 - 9:30</td>
-    <td>Concept for Logical MBSE Platform</td>
+    <td>Concept for a RAISE Environment</td>
     <td>M. Elaasar (JPL)</td>
   </tr>
   <tr>
