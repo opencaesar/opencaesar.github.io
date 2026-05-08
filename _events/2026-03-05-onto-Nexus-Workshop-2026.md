@@ -134,6 +134,12 @@ permalink: /events/onto-Nexus-Workshop-2026
               <strong>Mohammad Hamdaqa</strong>, Polytechnique Montréal, Canada
             </div>
           </li>
+          <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
+            <img src="/assets/img/kamburjan.jpg" alt="Eduard Kamburjan" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 1rem; flex-shrink: 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Eduard Kamburjan</strong>, IT University of Copenhagen, Denmark
+            </div>
+          </li>
         </ul>
       </div>
 
