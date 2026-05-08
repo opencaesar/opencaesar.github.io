@@ -91,6 +91,18 @@ permalink: /events/onto-Nexus-Workshop-2026
 
         <p>Submissions must not be under review or submitted elsewhere concurrently. Violation of this policy — as explicitly outlined by both <a href="https://www.comsoc.org/publications/ieee-communications-society-policy-plagiarism-and-multiple-submissions" target="_blank" rel="noopener noreferrer">IEEE</a> and <a href="https://www.acm.org/publications/policies/simultaneous-submissions" target="_blank" rel="noopener noreferrer">ACM</a> — will be considered a breach of scientific ethics, and appropriate actions will be taken.
         </p>
+
+        <p><strong>Important update on ACM's new open access publishing model for 2026 ACM Conferences!</strong></p>
+
+        <p>Starting January 1, 2026, ACM has fully transitioned to Open Access. All ACM publications, including those from ACM-sponsored conferences, will be 100% Open Access. Authors will have two primary options for publishing Open Access articles with ACM: the ACM Open institutional model or by paying Article Processing Charges (APCs). To find out whether an APC applies to your article, please consult the list of participating institutions in ACM Open.</p>
+
+        <p>Understanding that this change could present financial challenges, ACM has approved a temporary subsidy of 65% for 2026. The subsidy will offer:</p>
+        <ul>
+          <li>$250 APC for ACM/SIG members</li>
+          <li>$350 for non-members</li>
+        </ul>
+
+        <p><em>Note for this workshop: extended abstracts will be covered by a specific agreement with MODELS and will be published open-access free of charge.</em></p>
       </div>
 
       <div style="border-radius: 15px; border: 1px solid #ccc; margin-top: 1rem; padding: 1rem; max-width: 100%; box-sizing: border-box;">
