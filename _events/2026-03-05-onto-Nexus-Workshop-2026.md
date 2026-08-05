@@ -46,7 +46,7 @@ permalink: /events/onto-Nexus-Workshop-2026
           <li><strong>Friday July 3, 2026:</strong> Abstract submission</li>
           <li><strong>Friday July 10, 2026:</strong> Paper submission</li>
           <li><strong>Friday August 7, 2026:</strong> Notification of acceptance</li>
-          <li><strong>Friday August 21, 2026:</strong> Camera-ready submission</li>
+          <li><strong>Friday August 14, 2026:</strong> Camera-ready submission</li>
         </ul>
       </div>
 
