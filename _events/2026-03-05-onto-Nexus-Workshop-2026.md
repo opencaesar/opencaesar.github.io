@@ -1,7 +1,7 @@
 ---
 layout: workshop
 title: "onto:Nexus Workshop 2026"
-dates: "Sun October 4, 2026"
+dates: "Tue October 6, 2026"
 venue: "Malaga, Spain"
 author: "Maged Elaasar"
 author_image: maged.png
@@ -147,22 +147,111 @@ permalink: /events/onto-Nexus-Workshop-2026
         <div style="background-color: #333; color: white; padding: 0.5rem 1rem; border-radius: 10px 10px 0 0;">
           <h3 style="margin: 0;">Program Committee</h3>
         </div>
-        <ul>
+        <ul style="list-style: none; padding: 0; margin: 0;">
           <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
-            TBA
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Daniel Amyot</strong>, University of Ottawa, Canada
+            </div>
+          </li>
+          <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Joe Gregory</strong>, University of Arizona, USA
+            </div>
+          </li>
+          <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Jameleddine Hassine</strong>, Université du Québec à Montréal, Canada
+            </div>
+          </li>
+          <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Yuta Nakajima</strong>, Japan Aerospace Exploration Agency, Japan
+            </div>
+          </li>
+          <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Ahsan Qamar</strong>, Ford Motor Company, USA
+            </div>
+          </li>
+          <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Sophia Salas Cordero</strong>, ISAE-SUPAERO, France
+            </div>
+          </li>
+          <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Avi Shaked</strong>, University of Oxford, UK
+            </div>
+          </li>
+          <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
+            <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+              <strong>Bianca Wiesmayr</strong>, Ulm University, Germany
+            </div>
           </li>
         </ul>
       </div>
 
       <div style="border-radius: 15px; border: 1px solid #ccc; margin-top: 1rem; padding: 1rem; max-width: 100%; box-sizing: border-box;">
         <div style="background-color: #333; color: white; padding: 0.5rem 1rem; border-radius: 10px 10px 0 0;">
+          <h3 style="margin: 0;">Keynote</h3>
+        </div>
+        <div style="display: flex; align-items: center; flex-wrap: wrap; margin: 1rem 0;">
+          <img src="/assets/img/harth.jpg" alt="Andreas Harth" style="width: 80px; height: 80px; border-radius: 50%; margin-right: 1rem; flex-shrink: 0;">
+          <div style="flex: 1; min-width: 0; word-wrap: break-word;">
+            <strong>Towards Unified Process Descriptions for Monitoring, Executing, Verifying and Governing Behaviour</strong><br/>
+            <a href="https://www.wiso.rw.fau.eu/research/research-profile/professors/prof-dr-andreas-harth/" target="_blank" rel="noopener noreferrer">Andreas Harth</a>, Friedrich-Alexander-Universität Erlangen-Nürnberg and Fraunhofer IIS, Germany
+          </div>
+        </div>
+
+        <p><strong>Abstract:</strong> Ontologies provide well-understood formal means for uniform knowledge representation. Web architecture can add somewhat uniform network interfaces to systems. But neither ontologies nor web architecture provide a comprehensive description of behaviour. Formal means for describing behaviour, in the same representation and on the same interface abstractions, could support monitoring, execution, verification and compliance tasks. The talk presents building blocks for such descriptions. These include a process vocabulary with occurrences, Linked Data-Fu for monitoring and execution over read-write Linked Data, SaVeWoT for model checking Web of Things systems and a trace-based semantics for ODRL policies. Over the years, behaviour has been studied from many angles, but the results remain fractured. Knowledge representation was once fractured, too, until web architecture provided a common substrate. The talk argues that behaviour descriptions can similarly benefit from the same substrate.</p>
+
+        <p><strong>Biography:</strong> Andreas Harth holds the Chair of Technical Information Systems at Friedrich-Alexander-Universität Erlangen-Nürnberg and leads the Data Spaces and Internet of Things Solutions department at Fraunhofer IIS in Nuremberg. His research addresses large-scale interoperation in hyperlinked networked systems, with a focus on modelling and executing behaviour in the way ontologies model and integrate data. He completed his PhD at the Digital Enterprise Research Institute (DERI), National University of Ireland, Galway, and his habilitation at Karlsruhe Institute of Technology (KIT) on link traversal and reasoning in dynamic Linked Data knowledge bases. He served as General Chair of ESWC 2020, co-organised Dagstuhl seminars on Agents on the Web and sits on the editorial board of Transactions on Graph Data and Knowledge.</p>
+      </div>
+
+      <div style="border-radius: 15px; border: 1px solid #ccc; margin-top: 1rem; padding: 1rem; max-width: 100%; box-sizing: border-box;">
+        <div style="background-color: #333; color: white; padding: 0.5rem 1rem; border-radius: 10px 10px 0 0;">
           <h3 style="margin: 0;">Program</h3>
         </div>
-        <ul>
-          <li style="display: flex; align-items: center; flex-wrap: wrap; margin: 0.5rem 0;">
-            TBA
-          </li>
-        </ul>
+        <p>The workshop is organized as a full day, opening with the keynote, followed by presentations of the accepted papers and the open discussion that remains the workshop's primary purpose. Times are TBA.</p>
+          <table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%; text-align: left;">
+            <thead>
+              <tr style="background-color: #f2f2f2;">
+                <th style="width: 15%;">Time</th>
+                <th>Session</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>TBA</td>
+                <td><b>Keynote: Towards Unified Process Descriptions for Monitoring, Executing, Verifying and Governing Behaviour</b> – Andreas Harth, Friedrich-Alexander-Universität Erlangen-Nürnberg and Fraunhofer IIS, Germany</td>
+              </tr>
+              <tr>
+                <td>TBA</td>
+                <td>
+                  <b>Orchestration Graph: From Knowledge Graphs to Executable Analysis Workflows with openCAESAR</b>
+                    – <i>Yuta Nakajima, Yutaka Komatsu and J. Steven Jenkins</i>
+                </td>
+              </tr>
+              <tr>
+                <td>TBA</td>
+                <td>
+                  <b>Representing Engineered Redundancy with the Ontological Modeling Language to Enable Repeatable Model-Based Analysis: A Space Systems Case Study</b>
+                    – <i>Sophia Salas Cordero, Mark Chodas, Michel D. Ingham and Rob Vingerhoeds</i>
+                </td>
+              </tr>
+              <tr>
+                <td>TBA</td>
+                <td>
+                  <b>From Asset Administration Shells to Knowledge Graphs: Rule-Based Semantic Lifting for Cross-Domain Reasoning in Cyber-Physical Systems</b>
+                    – <i>Harish Kumar Pakala, Bianca Wiesmayr and Christian Diedrich</i>
+                </td>
+              </tr>
+              <tr>
+                <td>TBA</td>
+                <td><b>Open Discussion</b></td>
+              </tr>
+            </tbody>
+          </table>
         </div>
     </div>
   </div>
