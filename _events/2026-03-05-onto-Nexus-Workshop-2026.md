@@ -212,7 +212,7 @@ permalink: /events/onto-Nexus-Workshop-2026
         <div style="background-color: #333; color: white; padding: 0.5rem 1rem; border-radius: 10px 10px 0 0;">
           <h3 style="margin: 0;">Program</h3>
         </div>
-        <p>The workshop is organized as a full day, opening with the keynote, followed by presentations of the accepted papers and the open discussion that remains the workshop's primary purpose. Times are TBA.</p>
+        <p>The workshop is organized as a full day, opening with the keynote, followed by presentations of the accepted papers, a round table, and the break-out discussions that remain the workshop's primary purpose.</p>
           <table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; width: 100%; text-align: left;">
             <thead>
               <tr style="background-color: #f2f2f2;">
@@ -222,33 +222,73 @@ permalink: /events/onto-Nexus-Workshop-2026
             </thead>
             <tbody>
               <tr>
-                <td>TBA</td>
-                <td><b>Keynote: Towards Unified Process Descriptions for Monitoring, Executing, Verifying and Governing Behaviour</b> – Andreas Harth, Friedrich-Alexander-Universität Erlangen-Nürnberg and Fraunhofer IIS, Germany</td>
+                <td>09:15 &ndash; 09:30</td>
+                <td><b>Welcome, workshop aims &amp; round of introductions</b> &ndash; Organizers</td>
               </tr>
               <tr>
-                <td>TBA</td>
+                <td>09:30 &ndash; 10:30</td>
+                <td><b>Keynote: Towards Unified Process Descriptions for Monitoring, Executing, Verifying and Governing Behaviour</b> &ndash; Andreas Harth, Friedrich-Alexander-Universit&auml;t Erlangen-N&uuml;rnberg and Fraunhofer IIS, Germany</td>
+              </tr>
+              <tr style="background-color: #fdf0e3;">
+                <td>10:30 &ndash; 11:00</td>
+                <td><i>Coffee break</i></td>
+              </tr>
+              <tr>
+                <td>11:00 &ndash; 11:30</td>
                 <td>
                   <b>Orchestration Graph: From Knowledge Graphs to Executable Analysis Workflows with openCAESAR</b>
-                    – <i>Yuta Nakajima, Yutaka Komatsu and J. Steven Jenkins</i>
+                    &ndash; <i>Yuta Nakajima, Yutaka Komatsu and J. Steven Jenkins</i>
                 </td>
               </tr>
               <tr>
-                <td>TBA</td>
+                <td>11:30 &ndash; 12:00</td>
                 <td>
                   <b>Representing Engineered Redundancy with the Ontological Modeling Language to Enable Repeatable Model-Based Analysis: A Space Systems Case Study</b>
-                    – <i>Sophia Salas Cordero, Mark Chodas, Michel D. Ingham and Rob Vingerhoeds</i>
+                    &ndash; <i>Sophia Salas Cordero, Mark Chodas, Michel D. Ingham and Rob Vingerhoeds</i>
                 </td>
               </tr>
               <tr>
-                <td>TBA</td>
+                <td>12:00 &ndash; 12:30</td>
                 <td>
                   <b>From Asset Administration Shells to Knowledge Graphs: Rule-Based Semantic Lifting for Cross-Domain Reasoning in Cyber-Physical Systems</b>
-                    – <i>Harish Kumar Pakala, Bianca Wiesmayr and Christian Diedrich</i>
+                    &ndash; <i>Harish Kumar Pakala, Bianca Wiesmayr and Christian Diedrich</i>
                 </td>
               </tr>
               <tr>
-                <td>TBA</td>
-                <td><b>Open Discussion</b></td>
+                <td>12:30 &ndash; 12:45</td>
+                <td><b>Cross-paper synthesis: common threads &amp; open problems</b> &ndash; Moderated by organizers</td>
+              </tr>
+              <tr style="background-color: #fdf0e3;">
+                <td>12:45 &ndash; 14:30</td>
+                <td><i>Lunch</i></td>
+              </tr>
+              <tr>
+                <td>14:30 &ndash; 14:45</td>
+                <td><b>Framing: symbolic and neural roles in MBSE</b> &ndash; Organizers</td>
+              </tr>
+              <tr>
+                <td>14:45 &ndash; 15:45</td>
+                <td><b>Round table: How to leverage neurosymbolic AI in MBSE?</b> &ndash; All (moderated by organizers)</td>
+              </tr>
+              <tr style="background-color: #fdf0e3;">
+                <td>15:45 &ndash; 16:15</td>
+                <td><i>Coffee break</i></td>
+              </tr>
+              <tr>
+                <td>16:15 &ndash; 16:25</td>
+                <td><b>Open discussion &mdash; theme selection &amp; break-out formation</b> &ndash; Organizers</td>
+              </tr>
+              <tr>
+                <td>16:25 &ndash; 17:05</td>
+                <td><b>Break-out groups</b> &ndash; All</td>
+              </tr>
+              <tr>
+                <td>17:05 &ndash; 17:20</td>
+                <td><b>Report back &amp; synthesis</b> &ndash; Group rapporteurs</td>
+              </tr>
+              <tr>
+                <td>17:20 &ndash; 17:30</td>
+                <td><b>Closing, next steps &amp; community actions</b> &ndash; Organizers</td>
               </tr>
             </tbody>
           </table>
