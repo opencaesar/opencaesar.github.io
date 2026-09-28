@@ -236,8 +236,8 @@ permalink: /events/onto-Nexus-Workshop-2026
               <tr>
                 <td>11:00 &ndash; 11:30</td>
                 <td>
-                  <b>Orchestration Graph: From Knowledge Graphs to Executable Analysis Workflows with openCAESAR</b>
-                    &ndash; <i>Yuta Nakajima, Yutaka Komatsu and J. Steven Jenkins</i>
+                  <b>From Asset Administration Shells to Knowledge Graphs: Rule-Based Semantic Lifting for Cross-Domain Reasoning in Cyber-Physical Systems</b>
+                    &ndash; <i>Harish Kumar Pakala, Bianca Wiesmayr and Christian Diedrich</i>
                 </td>
               </tr>
               <tr>
@@ -250,8 +250,8 @@ permalink: /events/onto-Nexus-Workshop-2026
               <tr>
                 <td>12:00 &ndash; 12:30</td>
                 <td>
-                  <b>From Asset Administration Shells to Knowledge Graphs: Rule-Based Semantic Lifting for Cross-Domain Reasoning in Cyber-Physical Systems</b>
-                    &ndash; <i>Harish Kumar Pakala, Bianca Wiesmayr and Christian Diedrich</i>
+                  <b>Orchestration Graph: From Knowledge Graphs to Executable Analysis Workflows with openCAESAR</b>
+                    &ndash; <i>Yuta Nakajima, Yutaka Komatsu and J. Steven Jenkins</i>
                 </td>
               </tr>
               <tr>
